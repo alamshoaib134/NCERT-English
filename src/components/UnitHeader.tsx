@@ -6,7 +6,7 @@ interface Chapter {
   titleEn: string;
   titleHi: string;
   author: string;
-  content: { type: string }[];
+  content: { type: string; src?: string }[];
 }
 
 interface UnitHeaderProps {
@@ -94,6 +94,7 @@ export default function UnitHeader({
             const paragraphCount = ch.content.filter(
               (c) => c.type === "text"
             ).length;
+            const coverImage = ch.content.find(c => c.type === "image")?.src || "/images/ch1_jahnavi_river.png";
 
             return (
               <Link
@@ -105,7 +106,7 @@ export default function UnitHeader({
                   {/* Card top image preview */}
                   <div className="relative h-40 overflow-hidden">
                     <Image
-                      src="/images/ch1_jahnavi_river.png"
+                      src={coverImage}
                       alt={ch.titleEn}
                       fill
                       sizes="(max-width: 768px) 100vw, 512px"
