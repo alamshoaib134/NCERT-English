@@ -1,0 +1,224 @@
+{
+  "unitId": 1,
+  "unitTitleEn": "Learning Together",
+  "unitTitleHi": "एक साथ सीखना",
+  "chapters": [
+    {
+      "chapterId": 1,
+      "titleEn": "The Day the River Spoke",
+      "titleHi": "जिस दिन नदी बोली",
+      "author": "Kamala Nair",
+      "localDictionary": {
+        "splashed": "छपछपाया / बूंदों के रूप में गिरा",
+        "slithered": "सरक गया / रेंगते हुए आगे बढ़ा",
+        "murmuring": "बड़बड़ाना / धीमी आवाज़ में बोलना",
+        "startled": "चौंक गई / अचंभित रह गई",
+        "thicket": "झुंड / घनी झाड़ी",
+        "shrieked": "चीख उठी / तेज़ आवाज़ की",
+        "puzzled": "उलझन में पड़ गई / हैरान",
+        "conspiratorially": "रहस्यमयी ढंग से / गुप्त रूप से",
+        "rustle": "सरसराहट",
+        "gasped": "हाफते हुए कहा",
+        "clump": "झुंड / समूह",
+        "rattling": "खड़खड़ाते हुए गुजरना",
+        "catamaran": "लकड़ी की बनी नाव",
+        "wailed": "विलाप किया / रोते हुए शिकायत की",
+        "panting": "हाँफते हुए",
+        "squatting": "पालथी मारकर बैठना / उकड़ूँ बैठना",
+        "bright": "होनहार / चमकीला",
+        "coastal": "तटीय / समुद्र तट का",
+        "tear": "आँसू",
+        "kingfisher": "रामचिरैया (एक पक्षी)",
+        "arrow": "तीर",
+        "bask": "धूप सेंकना",
+        "scared": "डरा हुआ",
+        "soul": "आत्मा / कोई इंसान",
+        "bamboo": "बाँस",
+        "parrots": "तोते",
+        "courage": "हिम्मत / साहस",
+        "prince": "राजकुमार",
+        "sums": "गणित के सवाल",
+        "chuckle": "हल्की हँसी",
+        "breathless": "बेदम / साँस फूलना",
+        "sail": "पाल / नौकायन करना",
+        "prefer": "पसंद करना",
+        "creep": "धीरे-धीरे खिसकना",
+        "earthen": "मिट्टी का",
+        "sob": "सिसकी",
+        "replied": "जवाब दिया",
+        "fields": "खेत",
+        "village": "गाँव",
+        "dream": "सपना",
+        "school": "विद्यालय / स्कूल",
+        "river": "नदी",
+        "ships": "जहाज़"
+      },
+      "content": [
+        {
+          "id": "p1",
+          "type": "text",
+          "en": "Jahnavi was a bright young girl who lived with her parents and three brothers in a coastal village in India. Her parents worked on the farm. She had a dream.",
+          "hi": "जाह्नवी एक होनहार युवा लड़की थी जो भारत के एक तटीय गाँव में अपने माता-पिता और तीन भाइयों के साथ रहती थी। उसके माता-पिता खेत पर काम करते थे। उसका एक सपना था।"
+        },
+        {
+          "id": "img1",
+          "type": "image",
+          "alt": "Jahnavi sitting sadly by the side of a flowing river with birds and lizards around",
+          "src": "/images/ch1_jahnavi_river.png"
+        },
+        {
+          "id": "p2",
+          "type": "text",
+          "en": "A big bright tear splashed down her nose. And another. A kingfisher swept down, its wings an arrow of blue in the sunlight. And a green lizard slithered down to the river's edge to bask in the sun.",
+          "hi": "एक बड़ा चमकीला आँसू उसकी नाक से नीचे गिरा। और फिर एक और। एक किंगफिशर (रामचिरैया) तेज़ी से नीचे आया, सूरज की रोशनी में उसके पंख नीले तीर की तरह दिख रहे थे। और एक हरी छिपकली धूप सेंकने के लिए नदी के किनारे रेंगते हुए नीचे आ गई।"
+        },
+        {
+          "id": "p3",
+          "type": "text",
+          "en": "\"Dear, dear!\" said a sleepy, murmuring voice, \"What's the matter?\"",
+          "hi": "\"प्रिय, प्रिय!\" एक सोई हुई, धीमी सरसराहट भरी आवाज़ ने कहा, \"क्या बात है?\""
+        },
+        {
+          "id": "p4",
+          "type": "text",
+          "en": "Jahnavi was startled, because she was sure she had been quite alone. It couldn't have been the lizard. And the kingfisher was up in the thicket of bamboo eating the fish it had caught. It couldn't be the parrots, because parrots shrieked and this was such a sleepy voice. She looked around her. There wasn't a soul in sight. She was rather scared and wanted to run away.",
+          "hi": "जाह्नवी चौंक गई, क्योंकि उसे पूरा भरोसा था कि वह वहाँ बिल्कुल अकेली थी। यह छिपकली की आवाज़ नहीं हो सकती थी। और किंगफिशर बाँस के झुरमुट में अपनी पकड़ी हुई मछली खा रहा था। यह तोते भी नहीं हो सकते थे, क्योंकि तोते चीखते हैं और यह बहुत ही शांत, नींद से भरी आवाज़ थी। उसने अपने चारों ओर देखा। दूर-दूर तक कोई इंसान नज़र नहीं आ रहा था। वह थोड़ी डर गई और वहाँ से भाग जाना चाहती थी।"
+        },
+        {
+          "id": "p5",
+          "type": "text",
+          "en": "\"You shouldn't cry, you know,\" the voice went on. \"And you really shouldn't be scared, when you have been coming here to see me every day, well, almost every day.\"",
+          "hi": "\"तुम्हें रोना नहीं चाहिए, तुम जानती हो ना,\" आवाज़ आती रही। \"और तुम्हें सचमुच डरना नहीं चाहिए, जब तुम मुझसे मिलने यहाँ हर रोज़ आती हो, खैर, लगभग हर रोज़।\""
+        },
+        {
+          "id": "p6",
+          "type": "text",
+          "en": "She was puzzled. It was such a voice, like the river. It couldn't be the river!",
+          "hi": "वह उलझन में पड़ गई। यह आवाज़ बिल्कुल नदी जैसी थी। लेकिन यह नदी तो नहीं हो सकती!"
+        },
+        {
+          "id": "p7",
+          "type": "text",
+          "en": "\"Well, tell me all about it,\" said the River, for it was the River. \"I've got to hurry to reach the sea, you know.\"",
+          "hi": "\"अच्छा, मुझे इसके बारे में सब कुछ बताओ,\" नदी ने कहा, क्योंकि वह वास्तव में नदी ही थी। \"तुम्हें तो पता ही है, मुझे समुद्र तक पहुँचने के लिए जल्दी करनी होगी।\""
+        },
+        {
+          "id": "p8",
+          "type": "text",
+          "en": "\"They won't let me go to school,\" said Jahnavi. \"I asked my mother, 'Why can't I go to school like Ettan and Meena?' And Mother had replied, 'You are too small, baby. Maybe later.' But when she was five, little Ramu was born and Mother still said, 'Maybe next year. Jahnavi, mind your little brother while I go to the fields.' Now, she was nearly ten and minding Little Appu, who was the smallest. 'They don't want me. They only...' - she stopped with a sob...",
+          "hi": "\"वे मुझे स्कूल नहीं जाने देंगे,\" जाह्नवी ने कहा। \"मैंने अपनी माँ से पूछा था, 'मैं एट्टन और मीना की तरह स्कूल क्यों नहीं जा सकती?' और माँ ने जवाब दिया था, 'तुम बहुत छोटी हो, बच्ची। शायद बाद में।' लेकिन जब वह पाँच साल की हुई, छोटे रामू का जन्म हुआ और माँ ने फिर भी कहा, 'शायद अगले साल। जाह्नवी, जब मैं खेतों में जाऊँ तो अपने छोटे भाई का ध्यान रखना।' अब वह लगभग दस साल की हो चुकी थी और छोटे अप्पू की देखभाल कर रही थी, जो सबसे छोटा था। 'वे मुझे नहीं चाहते। वे केवल...' — वह सिसकते हुए रुक गई..."
+        },
+        {
+          "id": "p9",
+          "type": "text",
+          "en": "\"I am scared to go to school. And I'm so old now, they'll never let me go. But I want to go. I want to learn to read like Ettan and Meena.\" Jahnavi called her brother 'Ettan'. Ettan means 'Elder brother', but his real name was Gopi. \"I want to know why spiders are yellow in yellow flowers, why bamboo trees rustle, why the moon always comes from behind the hills, never the other way, why the baby fish in the field water become frogs, why...\"",
+          "hi": "\"मुझे स्कूल जाने में डर लगता है। और अब मैं बहुत बड़ी हो गई हूँ, वे मुझे कभी नहीं जाने देंगे। लेकिन मैं जाना चाहती हूँ। मैं एट्टन और मीना की तरह पढ़ना सीखना चाहती हूँ।\" जाह्नवी अपने भाई को 'एट्टन' कहती थी। एट्टन का मतलब 'बड़ा भाई' होता है, लेकिन उनका असली नाम गोपी था। \"मैं जानना चाहती हूँ कि पीले फूलों में मकड़ियाँ पीली क्यों होती हैं, बाँस के पेड़ क्यों सरसराते हैं, चाँद हमेशा पहाड़ियों के पीछे से ही क्यों आता है, कभी दूसरी तरफ से क्यों नहीं आता, खेतों के पानी में रहने वाली छोटी मछलियाँ मेंढक क्यों बन जाती हैं, क्यों...\""
+        },
+        {
+          "id": "p10",
+          "type": "text",
+          "en": "\"Stop!\" said the River. \"You make me breathless. So many whys! I can tell you where the moon goes,\" the River said conspiratorially. \"It goes down towards the sea. I've seen; it always takes the same way - over the mountains and down to the sea, like me!\"",
+          "hi": "\"रुको!\" नदी ने कहा। \"तुमने तो मेरी साँसें ही फुला दीं। इतने सारे 'क्यों'! मैं तुम्हें बता सकती हूँ कि चाँद कहाँ जाता है,\" नदी ने रहस्यमयी ढंग से कहा। \"यह नीचे समुद्र की ओर जाता है। मैंने देखा है; यह हमेशा एक ही रास्ता अपनाता है — पहाड़ों के ऊपर से और नीचे समुद्र की ओर, बिल्कुल मेरी तरह!\""
+        },
+        {
+          "id": "p11",
+          "type": "text",
+          "en": "\"Even little Ramu goes to school,\" said Jahnavi. \"Pity, the school isn't by the sea,\" said the River. \"Then I could take you along, you know. But, I suppose I couldn't really. You'd get your feet wet. And that would never do! I'm afraid there's only one thing you can do.\"",
+          "hi": "\"यहाँ तक कि छोटा रामू भी स्कूल जाता है,\" जाह्नवी ने कहा। \"अफ़सोस की बात है कि स्कूल समुद्र के किनारे नहीं है,\" नदी ने कहा। \"तब मैं तुम्हें अपने साथ ले जा सकती थी। लेकिन, मुझे लगता है कि मैं वास्तव में ऐसा नहीं कर सकती थी। तुम्हारे पैर गीले हो जाते। और वह तो बिल्कुल ठीक नहीं होता! मुझे डर है कि अब केवल एक ही चीज़ है जो तुम कर सकती हो।\""
+        },
+        {
+          "id": "p12",
+          "type": "text",
+          "en": "\"Can I do something?\" asked Jahnavi. \"Well, it's up to you,\" said the River. \"Seems to me little girls can do as much as little boys — they swim as fast as little boys. You just slip along one morning and sit there in the school and listen to what's going on, and maybe the teacher will let you stay.\"",
+          "hi": "\"क्या मैं कुछ कर सकती हूँ?\" जाह्नवी ने पूछा। \"खैर, यह तुम पर निर्भर करता है,\" नदी ने कहा। \"मुझे लगता है कि छोटी लड़कियाँ भी उतना ही कर सकती हैं जितना छोटे लड़के — वे छोटे लड़कों जितनी ही तेज़ तैरती हैं। तुम बस एक सुबह चुपके से निकल जाओ और स्कूल में जाकर बैठ जाओ और सुनो कि वहाँ क्या चल रहा है, और शायद शिक्षक तुम्हें वहाँ रहने दें।\""
+        },
+        {
+          "id": "p13",
+          "type": "text",
+          "en": "\"I couldn't,\" gasped Jahnavi. \"I couldn't! They'd scare me! They'd chase me out.\"",
+          "hi": "\"मैं नहीं कर सकती,\" जाह्नवी ने हाँफते हुए कहा। \"मैं नहीं कर सकती! वे मुझे डरा देंगे! वे मुझे बाहर भगा देंगे।\""
+        },
+        {
+          "id": "p14",
+          "type": "text",
+          "en": "The River laughed. \"You? Scared?\" the River said, \"when you're not afraid of the green lizard, or of the snake in the bamboo clump, (Jahnavi startled) or the big trains rattling past that bridge.\" \"Trains are noisy; I prefer ships,\" said the River. Jahnavi never knew the snake lived in the bamboo clump. \"What are ships?\" she asked.",
+          "hi": "नदी हँस पड़ी। \"तुम? डरी हुई?\" नदी ने कहा, \"जब तुम हरी छिपकली से नहीं डरतीं, या बाँस के झुरमुट में रहने वाले साँप से नहीं डरतीं, (जाह्नवी चौंक गई), या उस पुल से खड़खड़ाती हुई गुज़रने वाली बड़ी ट्रेनों से नहीं डरतीं।\" \"ट्रेनें शोर मचाती हैं; मुझे जहाज़ पसंद हैं,\" नदी ने कहा। जाह्नवी को कभी पता ही नहीं था कि बाँस के झुरमुट में साँप रहता था। \"जहाज़ क्या होते हैं?\" उसने पूछा।"
+        },
+        {
+          "id": "p15",
+          "type": "text",
+          "en": "\"Big boats,\" said the River, \"so big that they can take hundreds of people, and they sail along the sea with lights that shine all night.\"",
+          "hi": "\"बड़ी नावें,\" नदी ने कहा, \"इतनी बड़ी कि वे सैकड़ों लोगों को ले जा सकती हैं, और वे रात भर चमकने वाली रोशनी के साथ समुद्र में चलती हैं।\""
+        },
+        {
+          "id": "p16",
+          "type": "text",
+          "en": "Jahnavi held her breath. \"Will they come here?\" she asked. \"I'm afraid not,\" said the River. \"Too large, you know. Chandu's catamaran is good enough for me. Chandu can take you to see a ship, someday.\"",
+          "hi": "जाह्नवी ने अपनी साँसें रोक लीं। \"क्या वे यहाँ आएंगे?\" उसने पूछा। \"मुझे डर है कि नहीं,\" नदी ने कहा। \"वे बहुत बड़े होते हैं, तुम जानती हो। चंदू की पतली नाव (कैटामरान) मेरे लिए काफी अच्छी है। चंदू तुम्हें किसी दिन जहाज़ दिखाने ले जा सकता है।\""
+        },
+        {
+          "id": "p17",
+          "type": "text",
+          "en": "\"They'd never let me!\" wailed Jahnavi. \"Try going to school first,\" said the River. \"Remember - it's up to you!\"",
+          "hi": "\"वे मुझे कभी नहीं जाने देंगे!\" जाह्नवी रोते हुए बोली। \"पहले स्कूल जाने की कोशिश तो करो,\" नदी ने कहा। \"याद रखो — यह पूरी तरह तुम पर निर्भर है!\""
+        },
+        {
+          "id": "img2",
+          "type": "image",
+          "alt": "Jahnavi holding her little brother Appu, standing courageously by the classroom door while the male teacher talks to students",
+          "src": "/images/ch1_school_door.png"
+        },
+        {
+          "id": "p18",
+          "type": "text",
+          "en": "Jahnavi gathered courage. The next day she reached the school, panting and out of breath and stood by the door listening while the teacher read out the lesson. It was a story about a prince called Ashoka, who became a great king. Little Appu had fallen asleep on her shoulder. She crept nearer and nearer till she was in the back row, squatting with the others on the earthen floor. Little Appu made no noise and she listened.",
+          "hi": "जाह्नवी ने हिम्मत जुटाई। अगले दिन वह हाँफती हुई और बेदम होकर स्कूल पहुँची और दरवाज़े के पास खड़ी होकर सुनने लगी जब शिक्षक पाठ पढ़ रहे थे। यह अशोक नाम के एक राजकुमार की कहानी थी, जो एक महान राजा बना। छोटा अप्पू उसके कंधे पर सो गया था। वह धीरे-धीरे और करीब खिसकती गई जब तक कि वह सबसे पीछे की कतार में मिट्टी के फर्श पर दूसरों के साथ पालथी मारकर नहीं बैठ गई। छोटे अप्पू ने कोई आवाज़ नहीं की और वह सुनती रही।"
+        },
+        {
+          "id": "p19",
+          "type": "text",
+          "en": "\"Where did you spring from, little girl?\" asked the teacher. \"And what is your name? You're new in my class.\" \"She's Gopi's sister, Gopi is in the next class,\" said one of the boys. \"It's Jahnavi,\" said another. \"So, you're Gopi's little sister? Nice lad, Gopi. If you really, really want to come to my school, Jahnavi,\" the teacher had said, \"we'll talk to your father about it. Don't you worry. We'll find a way.\"",
+          "hi": "\"तुम कहाँ से आ टपकीं, छोटी बच्ची?\" शिक्षक ने पूछा। \"और तुम्हारा नाम क्या है? तुम मेरी कक्षा में नई हो।\" \"यह गोपी की बहन है, गोपी अगली कक्षा में है,\" लड़कों में से एक ने कहा। \"इसका नाम जाह्नवी है,\" दूसरे ने कहा। \"तो, तुम गोपी की छोटी बहन हो? अच्छा लड़का है गोपी। अगर तुम सचमुच मेरे स्कूल आना चाहती हो, जाह्नवी,\" शिक्षक ने कहा था, \"तो हम इसके बारे में तुम्हारे पिता से बात करेंगे। तुम चिंता मत करो। हम कोई न कोई रास्ता निकाल लेंगे।\""
+        },
+        {
+          "id": "p20",
+          "type": "text",
+          "en": "Jahnavi saw the teacher walking up the steps to their gate the next evening when she was lighting the lamp. She could see her father scratching his cheek the way he did when he was worried and the teacher was nodding and saying something she couldn't make out. And Mother said, \"Little Jahnavi, I shall miss you when you go to school. Girls should learn as much as they want. When I was your age, I wanted to go to school, but your grandmother said 'No', but now, I am glad the teacher came to talk to your father.\"",
+          "hi": "जाह्नवी ने अगली शाम को शिक्षक को अपने गेट की सीढ़ियों पर आते देखा जब वह दीया जला रही थी। वह देख सकती थी कि उसके पिता अपना गाल खुजला रहे थे जैसा कि वे तब करते थे जब वे चिंतित होते थे और शिक्षक सिर हिलाते हुए कुछ कह रहे थे जो वह सुन नहीं पा रही थी। और माँ ने कहा, \"छोटी जाह्नवी, जब तुम स्कूल जाओगी तो मुझे तुम्हारी कमी खलेगी। लड़कियों को उतना ही सीखना चाहिए जितना वे चाहती हैं। जब मैं तुम्हारी उम्र की थी, मैं स्कूल जाना चाहती थी, लेकिन तुम्हारी दादी ने 'ना' कह दिया था, पर अब मुझे खुशी है कि शिक्षक तुम्हारे पिता से बात करने आए।\""
+        },
+        {
+          "id": "img3",
+          "type": "image",
+          "alt": "Jahnavi happily walking through the green fields wearing a school uniform and carrying a school bag",
+          "src": "/images/ch1_jahnavi_school.png"
+        },
+        {
+          "id": "p21",
+          "type": "text",
+          "en": "And Jahnavi said, \"Mother, when I grow up, I'll be a teacher and I'll go from house to house in our village and ask all the little girls to come to my school. And I'll teach them all that I'm going to learn.\"",
+          "hi": "और जाह्नवी ने कहा, \"माँ, जब मैं बड़ी होऊँगी, तो मैं एक शिक्षिका बनूँगी और अपने गाँव में घर-घर जाकर सभी छोटी लड़कियों को अपने स्कूल आने के लिए कहूँगी। और मैं उन्हें वह सब सिखाऊँगी जो मैं सीखने जा रही हूँ।\""
+        },
+        {
+          "id": "p22",
+          "type": "text",
+          "en": "And she went down the path between the fields the next morning before school began, to meet the River. \"I did it!\" she told the River. \"I was scared, but I did it! And they're letting me go. I'm going to learn to write my name and do sums and find out why our little fishes in the rice fields turn into frogs.\" She heard the river's sleepy chuckle, \"Come again, little girl, and I'll tell you all about the ships that sail the sea.\"",
+          "hi": "और वह अगली सुबह स्कूल शुरू होने से पहले खेतों के बीच के रास्ते से नदी से मिलने गई। \"मैंने कर दिखाया!\" उसने नदी से कहा। \"मैं डरी हुई थी, लेकिन मैंने कर दिया! और वे मुझे जाने दे रहे हैं। मैं अपना नाम लिखना, सवाल हल करना और यह पता लगाना सीखने जा रही हूँ कि धान के खेतों में हमारी छोटी मछलियाँ मेंढक क्यों बन जाती हैं।\" उसने नदी की हल्की हँसी सुनी, \"फिर आना, छोटी बच्ची, और मैं तुम्हें समुद्र में चलने वाले जहाज़ों के बारे में सब कुछ बताऊँगी।\""
+        }
+      ],
+      "qa": [
+        {
+          "qEn": "What was Jahnavi's dream? Was it important to her? Why?",
+          "qHi": "जाह्नवी का सपना क्या था? क्या यह उसके लिए महत्वपूर्ण था? क्यों?",
+          "aEn": "Jahnavi's dream was to go to school and learn to read just like her elder siblings. It was very important to her because she had an intense curiosity about nature and wanted to find answers to everything happening around her.",
+          "aHi": "जाह्नवी का सपना स्कूल जाना और अपने बड़े भाई-बहनों की तरह पढ़ना सीखना था। यह उसके लिए बहुत महत्वपूर्ण था क्योंकि उसके मन में प्रकृति को लेकर गहरी उत्सुकता थी और वह अपने आस-पास होने वाली हर चीज़ का जवाब जानना चाहती थी।"
+        },
+        {
+          "qEn": "Do you think the river can help her in fulfilling her dream? How?",
+          "qHi": "क्या आपको लगता है कि नदी उसके सपने को पूरा करने में उसकी मदद कर सकती है? कैसे?",
+          "aEn": "Yes, the river acts as a wise mentor. By reminding Jahnavi that girls are just as capable as boys and encouraging her to boldly 'slip into' the classroom to listen, the river gives her the initial push to break out of her fear.",
+          "aHi": "हाँ, नदी एक बुद्धिमान मार्गदर्शक की भूमिका निभाती है। जाह्नवी को यह याद दिलाकर कि लड़कियाँ भी लड़कों जितनी ही सक्षम होती हैं और उसे चुपके से कक्षा में जाकर सुनने के लिए प्रोत्साहित करके, नदी उसे अपने डर से बाहर निकलने की शुरुआती हिम्मत देती है।"
+        }
+      ]
+    }
+  ]
+}
