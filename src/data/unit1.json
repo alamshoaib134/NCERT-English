@@ -205,18 +205,180 @@
           "hi": "और वह अगली सुबह स्कूल शुरू होने से पहले खेतों के बीच के रास्ते से नदी से मिलने गई। \"मैंने कर दिखाया!\" उसने नदी से कहा। \"मैं डरी हुई थी, लेकिन मैंने कर दिया! और वे मुझे जाने दे रहे हैं। मैं अपना नाम लिखना, सवाल हल करना और यह पता लगाना सीखने जा रही हूँ कि धान के खेतों में हमारी छोटी मछलियाँ मेंढक क्यों बन जाती हैं।\" उसने नदी की हल्की हँसी सुनी, \"फिर आना, छोटी बच्ची, और मैं तुम्हें समुद्र में चलने वाले जहाज़ों के बारे में सब कुछ बताऊँगी।\""
         }
       ],
-      "qa": [
+      "qaSections": [
         {
-          "qEn": "What was Jahnavi's dream? Was it important to her? Why?",
-          "qHi": "जाह्नवी का सपना क्या था? क्या यह उसके लिए महत्वपूर्ण था? क्यों?",
-          "aEn": "Jahnavi's dream was to go to school and learn to read just like her elder siblings. It was very important to her because she had an intense curiosity about nature and wanted to find answers to everything happening around her.",
-          "aHi": "जाह्नवी का सपना स्कूल जाना और अपने बड़े भाई-बहनों की तरह पढ़ना सीखना था। यह उसके लिए बहुत महत्वपूर्ण था क्योंकि उसके मन में प्रकृति को लेकर गहरी उत्सुकता थी और वह अपने आस-पास होने वाली हर चीज़ का जवाब जानना चाहती थी।"
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करके देखें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Close your eyes and quietly listen to the sounds around you. Are they trying to tell you something?",
+              "qHi": "अपनी आँखें बंद करो और अपने चारों ओर की आवाज़ों को शांति से सुनो। क्या वे तुम्हें कुछ बताने की कोशिश कर रही हैं?",
+              "aEn": "Yes, the sounds around us carry messages of their own. Birds chirping might signal a new morning, rustling leaves suggest wind is blowing, flowing water tells us a river is nearby, and insects buzzing remind us of the life teeming in nature. These sounds connect us to the natural world around us.",
+              "aHi": "हाँ, हमारे चारों ओर की आवाज़ें अपने-अपने संदेश लेकर आती हैं। पक्षियों की चहचहाहट एक नई सुबह का संकेत दे सकती है, पत्तों की सरसराहट बताती है कि हवा चल रही है, बहते पानी की आवाज़ बताती है कि नदी पास है, और कीड़ों की भिनभिनाहट हमें प्रकृति में फैले जीवन की याद दिलाती है। ये ध्वनियाँ हमें अपने आस-पास की प्राकृतिक दुनिया से जोड़ती हैं।"
+            },
+            {
+              "qEn": "Do you think the things around you also listen to you all day long?",
+              "qHi": "क्या तुम्हें लगता है कि तुम्हारे आस-पास की चीज़ें भी तुम्हें दिन भर सुनती हैं?",
+              "aEn": "While trees, rivers, and animals do not literally listen, it often feels that way when we spend time in nature. When we share our thoughts by a river or under a tree, nature becomes a gentle, silent friend that seems to absorb our emotions and provide comfort — just as the river did for Jahnavi.",
+              "aHi": "हालाँकि पेड़, नदियाँ और जानवर शाब्दिक अर्थ में नहीं सुनते, लेकिन जब हम प्रकृति में समय बिताते हैं तो अक्सर ऐसा महसूस होता है। जब हम नदी के किनारे या पेड़ के नीचे अपने विचार साझा करते हैं, तो प्रकृति एक शांत, कोमल दोस्त बन जाती है जो हमारी भावनाओं को सोख लेती है और सांत्वना देती है — ठीक वैसे ही जैसे नदी ने जाह्नवी के लिए किया।"
+            },
+            {
+              "qEn": "Jahnavi had a dream. What could that dream be?",
+              "qHi": "जाह्नवी का एक सपना था। वह सपना क्या हो सकता था?",
+              "aEn": "Jahnavi's dream was to go to school, learn to read and write, and gain knowledge about the world — just like her brothers Gopi (Ettan) and Ramu did. She was deeply curious about nature and wanted answers to questions like why spiders are yellow in yellow flowers and why baby fish turn into frogs.",
+              "aHi": "जाह्नवी का सपना स्कूल जाना, पढ़ना-लिखना सीखना और दुनिया के बारे में ज्ञान प्राप्त करना था — बिल्कुल अपने भाइयों गोपी (एट्टन) और रामू की तरह। उसके मन में प्रकृति को लेकर गहरी उत्सुकता थी और वह ऐसे सवालों के जवाब जानना चाहती थी जैसे कि पीले फूलों में मकड़ियाँ पीली क्यों होती हैं और छोटी मछलियाँ मेंढक क्यों बन जाती हैं।"
+            },
+            {
+              "qEn": "How could she make her dream come true?",
+              "qHi": "वह अपने सपने को कैसे सच कर सकती थी?",
+              "aEn": "Jahnavi needed courage and determination to make her dream come true. As the river advised, she had to take the first step herself — by going to school, sitting in the classroom, and showing her willingness to learn. This bold act led the teacher to intervene and speak to her father about her education.",
+              "aHi": "जाह्नवी को अपना सपना सच करने के लिए हिम्मत और दृढ़ संकल्प की ज़रूरत थी। जैसा कि नदी ने सलाह दी, उसे खुद पहला कदम उठाना था — स्कूल जाकर, कक्षा में बैठकर, और सीखने की अपनी इच्छा दिखाकर। इस साहसी कदम के कारण शिक्षक ने उसके पिता से उसकी शिक्षा के बारे में बात की।"
+            },
+            {
+              "qEn": "What is your dream? What can you do to make your dream come true?",
+              "qHi": "तुम्हारा सपना क्या है? तुम अपने सपने को सच करने के लिए क्या कर सकते हो?",
+              "aEn": "(This is a personal response question.) For example: My dream is to become a teacher. To make this dream come true, I will study hard, stay focused on my goal, read as much as I can, practice regularly, and seek guidance from my teachers and parents.",
+              "aHi": "(यह एक व्यक्तिगत उत्तर वाला प्रश्न है।) उदाहरण: मेरा सपना एक शिक्षक बनना है। इस सपने को सच करने के लिए, मैं मन लगाकर पढ़ाई करूँगा/करूँगी, अपने लक्ष्य पर ध्यान केंद्रित रखूँगा/रखूँगी, जितना हो सके पढ़ूँगा/पढ़ूँगी, नियमित अभ्यास करूँगा/करूँगी, और अपने शिक्षकों और माता-पिता से मार्गदर्शन लूँगा/लूँगी।"
+            }
+          ]
         },
         {
-          "qEn": "Do you think the river can help her in fulfilling her dream? How?",
-          "qHi": "क्या आपको लगता है कि नदी उसके सपने को पूरा करने में उसकी मदद कर सकती है? कैसे?",
-          "aEn": "Yes, the river acts as a wise mentor. By reminding Jahnavi that girls are just as capable as boys and encouraging her to boldly 'slip into' the classroom to listen, the river gives her the initial push to break out of her fear.",
-          "aHi": "हाँ, नदी एक बुद्धिमान मार्गदर्शक की भूमिका निभाती है। जाह्नवी को यह याद दिलाकर कि लड़कियाँ भी लड़कों जितनी ही सक्षम होती हैं और उसे चुपके से कक्षा में जाकर सुनने के लिए प्रोत्साहित करके, नदी उसे अपने डर से बाहर निकलने की शुरुआती हिम्मत देती है।"
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What was Jahnavi's dream? Was it important to her? Why?",
+              "qHi": "जाह्नवी का सपना क्या था? क्या यह उसके लिए महत्वपूर्ण था? क्यों?",
+              "aEn": "Jahnavi's dream was to attend school and learn to read, just like her elder siblings Ettan (Gopi) and Meena. It was extremely important to her because she had a burning curiosity — she wanted to understand the mysteries of the natural world around her, from why spiders match the color of flowers to why fish turn into frogs.",
+              "aHi": "जाह्नवी का सपना स्कूल जाना और पढ़ना सीखना था, बिल्कुल अपने बड़े भाई-बहन एट्टन (गोपी) और मीना की तरह। यह उसके लिए बेहद महत्वपूर्ण था क्योंकि उसके मन में एक जलती हुई जिज्ञासा थी — वह अपने चारों ओर की प्रकृति के रहस्यों को समझना चाहती थी, मकड़ियों के फूलों जैसा रंग होने से लेकर मछलियों के मेंढक बनने तक।"
+            },
+            {
+              "qEn": "Do you think the river can help her in fulfilling her dream? How?",
+              "qHi": "क्या आपको लगता है कि नदी उसके सपने को पूरा करने में उसकी मदद कर सकती है? कैसे?",
+              "aEn": "Yes, the river acts as a wise and encouraging mentor. It comforts Jahnavi, reminds her that girls can do everything boys can, and gives her practical advice — to slip into the classroom one morning and show the teacher her eagerness to learn. This push of confidence is what helps Jahnavi take the crucial first step.",
+              "aHi": "हाँ, नदी एक बुद्धिमान और प्रोत्साहित करने वाले मार्गदर्शक की भूमिका निभाती है। यह जाह्नवी को सांत्वना देती है, उसे याद दिलाती है कि लड़कियाँ भी लड़कों जैसा सब कुछ कर सकती हैं, और उसे व्यावहारिक सलाह देती है — एक सुबह चुपके से कक्षा में जाकर शिक्षक को अपनी सीखने की उत्सुकता दिखाने की। आत्मविश्वास का यह धक्का ही जाह्नवी को वह महत्वपूर्ण पहला कदम उठाने में मदद करता है।"
+            },
+            {
+              "qEn": "Why was Jahnavi not able to go to school?",
+              "qHi": "जाह्नवी स्कूल क्यों नहीं जा पा रही थी?",
+              "aEn": "Jahnavi couldn't go to school because her parents kept postponing it. When she was small, her mother said she was too young. When she turned five, her brother Ramu was born and she was asked to take care of him. By the time she was nearly ten, she was still caring for her youngest brother Appu while her mother worked in the fields.",
+              "aHi": "जाह्नवी स्कूल नहीं जा पा रही थी क्योंकि उसके माता-पिता इसे बार-बार टालते रहे। जब वह छोटी थी, तो माँ ने कहा कि वह बहुत छोटी है। जब वह पाँच साल की हुई, तो भाई रामू का जन्म हुआ और उसे उसकी देखभाल करने को कहा गया। जब वह लगभग दस साल की हुई, तब भी वह सबसे छोटे भाई अप्पू की देखभाल कर रही थी जबकि माँ खेतों में काम करती थीं।"
+            },
+            {
+              "qEn": "Who or what finally helped Jahnavi go to school?",
+              "qHi": "किसने या किस चीज़ ने आखिरकार जाह्नवी को स्कूल जाने में मदद की?",
+              "aEn": "Multiple people helped in their own way. First, the river gave Jahnavi the confidence and encouragement to try. Then Jahnavi herself showed great courage by walking to school and sitting in the classroom. The teacher was kind and welcoming — he went to Jahnavi's house to speak with her father. Finally, her mother also supported the idea, saying girls should learn as much as they want.",
+              "aHi": "कई लोगों ने अपने-अपने तरीके से मदद की। पहले, नदी ने जाह्नवी को कोशिश करने का आत्मविश्वास और प्रोत्साहन दिया। फिर जाह्नवी ने खुद बड़ी हिम्मत दिखाई और स्कूल जाकर कक्षा में बैठ गई। शिक्षक दयालु और स्वागत करने वाले थे — वे जाह्नवी के घर जाकर उसके पिता से बात करने गए। अंत में, उसकी माँ ने भी इस विचार का समर्थन किया और कहा कि लड़कियों को उतना ही सीखना चाहिए जितना वे चाहती हैं।"
+            },
+            {
+              "qEn": "What did Jahnavi want to be when she grew up? Why?",
+              "qHi": "जाह्नवी बड़ी होकर क्या बनना चाहती थी? क्यों?",
+              "aEn": "Jahnavi wanted to become a teacher when she grew up. She planned to go from house to house in her village and invite all the little girls to come to her school. She wanted to teach them everything she was going to learn, ensuring no other girl had to face the same struggle she went through.",
+              "aHi": "जाह्नवी बड़ी होकर शिक्षिका बनना चाहती थी। उसकी योजना थी कि वह अपने गाँव में घर-घर जाकर सभी छोटी लड़कियों को अपने स्कूल में आने का निमंत्रण दे। वह उन्हें वह सब कुछ सिखाना चाहती थी जो वह सीखने जा रही थी, ताकि किसी और लड़की को उसी संघर्ष से न गुज़रना पड़े।"
+            },
+            {
+              "qEn": "What was the role of the teacher in the story?",
+              "qHi": "कहानी में शिक्षक की क्या भूमिका थी?",
+              "aEn": "The teacher played a very supportive and important role. When he noticed Jahnavi sitting quietly at the back of his classroom, instead of sending her away, he welcomed her warmly. He then personally visited her home to talk to her father about letting her attend school. He assured Jahnavi by saying, 'Don't you worry. We'll find a way.'",
+              "aHi": "शिक्षक ने बहुत सहयोगी और महत्वपूर्ण भूमिका निभाई। जब उन्होंने जाह्नवी को अपनी कक्षा के पीछे चुपचाप बैठे देखा, तो उसे भगाने की बजाय उन्होंने उसका गर्मजोशी से स्वागत किया। फिर वे व्यक्तिगत रूप से उसके घर गए और उसके पिता से उसे स्कूल भेजने के बारे में बात की। उन्होंने जाह्नवी को आश्वासन दिया — 'तुम चिंता मत करो। हम कोई न कोई रास्ता निकाल लेंगे।'"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Why do you think the river chose to speak to Jahnavi? What does the river represent in the story?",
+              "qHi": "आपके अनुसार नदी ने जाह्नवी से बात करने का चुनाव क्यों किया? कहानी में नदी किसका प्रतीक है?",
+              "aEn": "The river spoke to Jahnavi because she visited it almost every day and had a deep connection with nature. In the story, the river represents the wisdom and encouragement of nature. It symbolizes an inner voice of courage — the kind that tells us we are capable of more than we believe. Just as a river flows forward overcoming obstacles, the river inspires Jahnavi to push past her fears.",
+              "aHi": "नदी ने जाह्नवी से बात की क्योंकि वह लगभग हर दिन उसके पास आती थी और प्रकृति से उसका गहरा जुड़ाव था। कहानी में, नदी प्रकृति की बुद्धिमत्ता और प्रोत्साहन का प्रतीक है। यह साहस की आंतरिक आवाज़ का प्रतिनिधित्व करती है — वह आवाज़ जो हमें बताती है कि हम अपने विश्वास से कहीं अधिक सक्षम हैं। जिस तरह नदी बाधाओं को पार करते हुए आगे बहती है, उसी तरह नदी जाह्नवी को अपने डर से आगे बढ़ने के लिए प्रेरित करती है।"
+            },
+            {
+              "qEn": "The river says, 'It's up to you!' What does this mean? Do you agree?",
+              "qHi": "नदी कहती है, 'यह तुम पर निर्भर है!' इसका क्या अर्थ है? क्या आप सहमत हैं?",
+              "aEn": "When the river says 'It's up to you,' it means that ultimately, the power to change your life lies in your own hands. No one else can take the first step for you — you have to be brave and act on your own. I agree with this because although others can help and guide us, real change begins when we decide to take action ourselves, just as Jahnavi did.",
+              "aHi": "जब नदी कहती है 'यह तुम पर निर्भर है,' तो इसका मतलब है कि अंततः अपना जीवन बदलने की शक्ति तुम्हारे अपने हाथों में है। कोई और तुम्हारे लिए पहला कदम नहीं उठा सकता — तुम्हें खुद बहादुर बनना होगा और कार्रवाई करनी होगी। मैं इससे सहमत हूँ क्योंकि हालाँकि दूसरे लोग हमारी मदद और मार्गदर्शन कर सकते हैं, असली बदलाव तभी शुरू होता है जब हम खुद कार्रवाई करने का फैसला करते हैं, ठीक जैसा जाह्नवी ने किया।"
+            },
+            {
+              "qEn": "What does the mother's response at the end of the story tell us about changing attitudes towards girls' education?",
+              "qHi": "कहानी के अंत में माँ की प्रतिक्रिया हमें लड़कियों की शिक्षा के प्रति बदलती सोच के बारे में क्या बताती है?",
+              "aEn": "The mother's response shows a generational shift in thinking. She herself had wanted to go to school as a child but was denied by her grandmother. Now, she is glad that times are changing and supports Jahnavi's education. Her words — 'Girls should learn as much as they want' — show that attitudes are evolving, and parents are beginning to value education for daughters equally.",
+              "aHi": "माँ की प्रतिक्रिया सोच में पीढ़ीगत बदलाव दर्शाती है। वह खुद बचपन में स्कूल जाना चाहती थीं लेकिन दादी ने मना कर दिया था। अब, उन्हें खुशी है कि समय बदल रहा है और वे जाह्नवी की शिक्षा का समर्थन करती हैं। उनके शब्द — 'लड़कियों को उतना ही सीखना चाहिए जितना वे चाहती हैं' — दिखाते हैं कि दृष्टिकोण विकसित हो रहा है, और माता-पिता बेटियों की शिक्षा को भी समान रूप से महत्व देने लगे हैं।"
+            },
+            {
+              "qEn": "How did Jahnavi's feelings change from the beginning to the end of the story?",
+              "qHi": "कहानी की शुरुआत से अंत तक जाह्नवी की भावनाएँ कैसे बदलीं?",
+              "aEn": "At the beginning, Jahnavi was sad, tearful, and felt helpless — she believed nobody wanted her to learn. After talking to the river, she felt encouraged but still scared. When she finally went to school, she was nervous but determined. By the end, she was joyful and triumphant, telling the river, 'I was scared, but I did it!' Her journey shows a transformation from despair to hope to courage to joy.",
+              "aHi": "शुरुआत में जाह्नवी दुखी, आँसू बहाती और असहाय महसूस कर रही थी — उसे लगता था कि कोई नहीं चाहता कि वह पढ़े। नदी से बात करने के बाद, उसे प्रोत्साहन मिला लेकिन वह अभी भी डरी हुई थी। जब उसने आखिरकार स्कूल जाने का फैसला किया, वह घबराई हुई थी लेकिन दृढ़ थी। अंत तक, वह खुश और विजयी थी, नदी से कह रही थी, 'मैं डरी हुई थी, लेकिन मैंने कर दिया!' उसकी यात्रा निराशा से उम्मीद, फिर साहस और फिर खुशी तक का परिवर्तन दिखाती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary — Sound Words",
+          "sectionTitleHi": "शब्द भंडार — ध्वनि शब्द",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find words from the story that describe sounds: (a) what the parrots did, (b) what the river did, (c) what Jahnavi did when she was out of breath, (d) what the trains did on the bridge.",
+              "qHi": "कहानी से ध्वनि बताने वाले शब्द खोजो: (क) तोतों ने क्या किया, (ख) नदी ने क्या किया, (ग) जब जाह्नवी की साँस फूली तो उसने क्या किया, (घ) पुल पर ट्रेनों ने क्या किया।",
+              "aEn": "(a) Shrieked — the parrots shrieked (made loud, high-pitched sounds). (b) Murmuring — the river spoke in a sleepy, murmuring voice. It also gave a chuckle at the end. (c) Gasped / Panting — Jahnavi gasped when scared and arrived at school panting and out of breath. (d) Rattling — the trains were rattling past the bridge (making loud, clattering sounds).",
+              "aHi": "(क) चीखा (Shrieked) — तोतों ने चीख मारी (तेज़, ऊँची आवाज़ की)। (ख) बड़बड़ाना (Murmuring) — नदी ने एक नींद भरी, धीमी आवाज़ में बात की। अंत में उसने हल्की हँसी (chuckle) भी दी। (ग) हाँफना (Gasped / Panting) — जाह्नवी डर कर हाँफती हुई बोली और स्कूल हाँफती और बेदम होकर पहुँची। (घ) खड़खड़ाना (Rattling) — ट्रेनें पुल से खड़खड़ाती हुई गुज़रती थीं।"
+            },
+            {
+              "qEn": "What is the meaning of 'catamaran'? What other types of boats do you know?",
+              "qHi": "'कैटामरान' का क्या अर्थ है? तुम और कितने प्रकार की नावों को जानते हो?",
+              "aEn": "A catamaran is a type of boat or raft made of logs tied together, commonly used in coastal areas of South India. Other types of boats include: canoe (a narrow, light boat), kayak (a small paddle boat), sailboat (powered by wind using sails), motorboat, and ship (very large boats for ocean travel).",
+              "aHi": "कैटामरान एक प्रकार की नाव या बेड़ा है जो लकड़ी के लट्ठों को बाँधकर बनाई जाती है, जो दक्षिण भारत के तटीय क्षेत्रों में आम है। अन्य प्रकार की नावों में शामिल हैं: डोंगी (canoe — एक संकरी, हल्की नाव), कयाक (kayak — एक छोटी चप्पू वाली नाव), पालदार नाव (sailboat — हवा से चलने वाली), मोटरबोट, और जहाज़ (समुद्री यात्रा के लिए बहुत बड़ी नावें)।"
+            },
+            {
+              "qEn": "What does 'Ettan' mean? Why did Jahnavi call her brother by this name?",
+              "qHi": "'एट्टन' का क्या अर्थ है? जाह्नवी अपने भाई को इस नाम से क्यों बुलाती थी?",
+              "aEn": "'Ettan' means 'elder brother' in Malayalam (a language spoken in Kerala and coastal South India). Jahnavi called her brother Gopi by this affectionate name because it is a common practice in Indian families to address elder siblings with respectful or loving terms rather than their given names.",
+              "aHi": "'एट्टन' का मतलब मलयालम (केरल और दक्षिण भारत के तटीय क्षेत्रों में बोली जाने वाली भाषा) में 'बड़ा भाई' होता है। जाह्नवी अपने भाई गोपी को इस प्यारे नाम से बुलाती थी क्योंकि भारतीय परिवारों में बड़े भाई-बहनों को उनके दिए गए नाम की बजाय सम्मानजनक या प्यार भरे संबोधन से बुलाने की आम प्रथा है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Grammar — Giving Advice",
+          "sectionTitleHi": "व्याकरण — सलाह देना",
+          "sectionIcon": "📖",
+          "items": [
+            {
+              "qEn": "The river gives Jahnavi advice. Find the sentences where the river advises her. What phrases are used to give advice?",
+              "qHi": "नदी जाह्नवी को सलाह देती है। वे वाक्य खोजो जहाँ नदी उसे सलाह देती है। सलाह देने के लिए कौन से वाक्यांश प्रयोग किए गए हैं?",
+              "aEn": "The river advises Jahnavi using several phrases: 'You shouldn't cry, you know' (using should not), 'You really shouldn't be scared' (using should not), 'You just slip along one morning and sit there' (direct suggestion), 'Try going to school first' (using try + gerund), and 'Remember — it's up to you!' (encouragement). Common phrases for giving advice include: 'You should...', 'Why don't you...?', 'I think you should...', 'If I were you, I would...'",
+              "aHi": "नदी जाह्नवी को कई वाक्यांशों का उपयोग करके सलाह देती है: 'तुम्हें रोना नहीं चाहिए' (should not का प्रयोग), 'तुम्हें सचमुच डरना नहीं चाहिए' (should not का प्रयोग), 'तुम बस एक सुबह चुपके से निकल जाओ और वहाँ बैठ जाओ' (सीधा सुझाव), 'पहले स्कूल जाने की कोशिश करो' (try + gerund), और 'याद रखो — यह तुम पर निर्भर है!' (प्रोत्साहन)। सलाह देने के सामान्य वाक्यांश: 'तुम्हें चाहिए...', 'क्यों नहीं...?', 'मुझे लगता है तुम्हें...', 'अगर मैं तुम्हारी जगह होती/होता तो...'"
+            },
+            {
+              "qEn": "Your friend is scared of speaking in front of the class. Write three sentences advising them.",
+              "qHi": "तुम्हारा दोस्त कक्षा के सामने बोलने से डरता है। उसे सलाह देते हुए तीन वाक्य लिखो।",
+              "aEn": "(i) You shouldn't worry too much — everyone makes mistakes and that's how we learn. (ii) I think you should practice your speech in front of a mirror first; it will build your confidence. (iii) Why don't you start by answering questions in class? Once you get used to your own voice, speaking will feel natural!",
+              "aHi": "(i) तुम्हें बहुत ज़्यादा चिंता नहीं करनी चाहिए — हर कोई गलतियाँ करता है और इसी तरह हम सीखते हैं। (ii) मुझे लगता है तुम्हें पहले आईने के सामने अपना भाषण अभ्यास करना चाहिए; इससे तुम्हारा आत्मविश्वास बढ़ेगा। (iii) क्यों न तुम कक्षा में सवालों के जवाब देने से शुरुआत करो? एक बार अपनी आवाज़ सुनने की आदत हो जाए, तो बोलना स्वाभाविक लगने लगेगा!"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Read the dialogue between Jahnavi and the river in different tones — sleepy, excited, angry, scared. How does changing your voice affect the meaning?",
+              "qHi": "जाह्नवी और नदी के बीच की बातचीत को अलग-अलग स्वरों में पढ़ो — नींद भरी, उत्साहित, गुस्से वाली, डरी हुई। अपनी आवाज़ बदलने से अर्थ पर क्या प्रभाव पड़ता है?",
+              "aEn": "When we read the river's lines in a sleepy tone, it sounds gentle and calming, like a wise grandparent. In an excited tone, it sounds like an eager friend pushing Jahnavi forward. In an angry tone, the same words feel like scolding rather than advice. In a scared tone, the river loses its authority. This shows that the way we say something (tone, pitch, speed) is just as important as what we say.",
+              "aHi": "जब हम नदी की पंक्तियाँ नींद भरे स्वर में पढ़ते हैं, तो यह कोमल और शांत लगती है, जैसे एक बुद्धिमान दादा-दादी। उत्साहित स्वर में, यह एक उत्सुक दोस्त की तरह लगती है जो जाह्नवी को आगे बढ़ने के लिए प्रेरित कर रही है। गुस्से वाले स्वर में, वही शब्द सलाह की बजाय डाँट जैसे लगते हैं। डरे हुए स्वर में, नदी अपना अधिकार खो देती है। यह दिखाता है कि हम कुछ कैसे कहते हैं (स्वर, पिच, गति) उतना ही महत्वपूर्ण है जितना कि हम क्या कहते हैं।"
+            },
+            {
+              "qEn": "Why are rivers often considered sacred in India? Discuss with your classmates.",
+              "qHi": "भारत में नदियों को अक्सर पवित्र क्यों माना जाता है? अपने सहपाठियों के साथ चर्चा करो।",
+              "aEn": "Rivers are considered sacred in India because they are the lifeline of civilization — they provide water for drinking, farming, and daily needs. Many rivers like the Ganga, Yamuna, and Narmada are considered holy in Hindu tradition. People pray by rivers, perform rituals, and believe they purify the soul. Rivers also symbolize life's journey — always flowing forward, overcoming obstacles, and nourishing everything in their path.",
+              "aHi": "भारत में नदियों को पवित्र माना जाता है क्योंकि वे सभ्यता की जीवन रेखा हैं — वे पीने, खेती और दैनिक ज़रूरतों के लिए पानी प्रदान करती हैं। गंगा, यमुना और नर्मदा जैसी कई नदियाँ हिंदू परंपरा में पवित्र मानी जाती हैं। लोग नदियों के किनारे प्रार्थना करते हैं, अनुष्ठान करते हैं, और मानते हैं कि वे आत्मा को शुद्ध करती हैं। नदियाँ जीवन की यात्रा का भी प्रतीक हैं — हमेशा आगे बहती रहना, बाधाओं को पार करना, और अपने रास्ते में सब कुछ पोषित करना।"
+            }
+          ]
         }
       ]
     }

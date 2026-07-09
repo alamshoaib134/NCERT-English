@@ -9,8 +9,15 @@ interface QA {
   aHi: string;
 }
 
-interface QASectionProps {
+interface QASection {
+  sectionTitleEn: string;
+  sectionTitleHi: string;
+  sectionIcon: string;
   items: QA[];
+}
+
+interface QASectionProps {
+  sections: QASection[];
 }
 
 function QACard({ item, index }: { item: QA; index: number }) {
@@ -43,7 +50,7 @@ function QACard({ item, index }: { item: QA; index: number }) {
 
       {/* Answer — expandable */}
       <div
-        className={`overflow-hidden transition-all duration-400 ease-in-out ${open ? "max-h-[600px] opacity-100" : "max-h-0 opacity-0"}`}
+        className={`overflow-hidden transition-all duration-400 ease-in-out ${open ? "max-h-[800px] opacity-100" : "max-h-0 opacity-0"}`}
       >
         <div className="px-5 pb-5">
           <div className="h-px bg-gradient-to-r from-transparent via-amber-200 to-transparent mb-4 dark:via-amber-800" />
@@ -73,30 +80,66 @@ function QACard({ item, index }: { item: QA; index: number }) {
   );
 }
 
-export default function QASection({ items }: QASectionProps) {
+function SectionBlock({ section, globalOffset }: { section: QASection; globalOffset: number }) {
   return (
-    <section className="mt-8 mb-6">
+    <div className="mb-8">
       {/* Section header */}
-      <div className="flex items-center gap-3 mb-5 px-1">
-        <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-sm">
-          <span className="text-white text-sm">❓</span>
+      <div className="flex items-center gap-3 mb-4 px-1">
+        <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center shadow-sm">
+          <span className="text-white text-base">{section.sectionIcon}</span>
         </div>
         <div>
-          <h2 className="text-lg font-bold text-slate-800 dark:text-white">
-            Questions & Answers
-          </h2>
+          <h3 className="text-base font-bold text-slate-800 dark:text-white leading-tight">
+            {section.sectionTitleEn}
+          </h3>
           <p className="text-xs text-slate-500 dark:text-slate-400">
-            प्रश्न और उत्तर — Tap a question to reveal the answer
+            {section.sectionTitleHi}
           </p>
         </div>
       </div>
 
       {/* Q&A cards */}
       <div className="space-y-3">
-        {items.map((item, i) => (
-          <QACard key={i} item={item} index={i} />
+        {section.items.map((item, i) => (
+          <QACard key={i} item={item} index={globalOffset + i} />
         ))}
       </div>
+    </div>
+  );
+}
+
+export default function QASectionComponent({ sections }: QASectionProps) {
+  let questionCounter = 0;
+
+  return (
+    <section className="mt-8 mb-6">
+      {/* Main header */}
+      <div className="flex items-center gap-3 mb-6 px-1">
+        <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-md">
+          <span className="text-white text-lg">❓</span>
+        </div>
+        <div>
+          <h2 className="text-lg font-bold text-slate-800 dark:text-white">
+            Questions & Answers
+          </h2>
+          <p className="text-xs text-slate-500 dark:text-slate-400">
+            प्रश्न और उत्तर — Tap any question to reveal the answer
+          </p>
+        </div>
+      </div>
+
+      {/* Sections */}
+      {sections.map((section, sIdx) => {
+        const offset = questionCounter;
+        questionCounter += section.items.length;
+        return (
+          <SectionBlock
+            key={sIdx}
+            section={section}
+            globalOffset={offset}
+          />
+        );
+      })}
     </section>
   );
 }

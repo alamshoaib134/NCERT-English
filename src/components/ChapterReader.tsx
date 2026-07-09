@@ -22,13 +22,20 @@ interface QA {
   aHi: string;
 }
 
+interface QASectionData {
+  sectionTitleEn: string;
+  sectionTitleHi: string;
+  sectionIcon: string;
+  items: QA[];
+}
+
 interface ChapterData {
   chapterId: number;
   titleEn: string;
   titleHi: string;
   author: string;
   content: ContentItem[];
-  qa: QA[];
+  qaSections: QASectionData[];
 }
 
 interface ChapterReaderProps {
@@ -140,8 +147,8 @@ export default function ChapterReader({ chapter }: ChapterReaderProps) {
         </div>
 
         {/* Q&A Section */}
-        {chapter.qa && chapter.qa.length > 0 && (
-          <QASection items={chapter.qa} />
+        {chapter.qaSections && chapter.qaSections.length > 0 && (
+          <QASection sections={chapter.qaSections} />
         )}
 
         {/* Footer */}
