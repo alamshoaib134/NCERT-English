@@ -483,6 +483,114 @@
           ]
         }
       ]
+    },
+    {
+      "chapterId": 3,
+      "titleEn": "Three Days to See",
+      "titleHi": "देखने के लिए तीन दिन",
+      "author": "Helen Keller",
+      "content": [
+        {
+          "id": "c3-img1",
+          "type": "image",
+          "src": "/images/ch3_helen_friends.png",
+          "alt": "Helen Keller touching the face of a friend"
+        },
+        {
+          "id": "c3-p1",
+          "type": "text",
+          "en": "All of us have read thrilling stories in which the hero had only a limited and specified time to live. Sometimes it was as long as a year; sometimes as short as twenty-four hours. But always we were interested in discovering just how the doomed man chose to spend his last days or his last hours.",
+          "hi": "हम सभी ने ऐसी रोमांचक कहानियाँ पढ़ी हैं जिनमें नायक के पास जीने के लिए केवल एक सीमित और निश्चित समय होता था। कभी-कभी यह एक वर्ष जितना लंबा होता था; कभी-कभी चौबीस घंटे जितना छोटा। लेकिन हमें हमेशा यह जानने में दिलचस्पी रहती थी कि अभिशप्त व्यक्ति ने अपने अंतिम दिन या अंतिम घंटे कैसे बिताने का फैसला किया।"
+        },
+        {
+          "id": "c3-p2",
+          "type": "text",
+          "en": "If I were the president of a university, I should establish a compulsory course in 'How to Use Your Eyes'. The professor would try to show his pupils how they could add joy to their lives by really seeing what passes unnoticed before them. He would try to awake their dormant and sluggish faculties.",
+          "hi": "यदि मैं किसी विश्वविद्यालय की अध्यक्ष होती, तो मैं 'अपनी आँखों का उपयोग कैसे करें' पर एक अनिवार्य पाठ्यक्रम स्थापित करती। प्रोफेसर अपने छात्रों को यह दिखाने की कोशिश करते कि वे अपने सामने से बिना ध्यान दिए गुज़रने वाली चीज़ों को वास्तव में देखकर अपने जीवन में कैसे आनंद जोड़ सकते हैं। वह उनकी सुप्त और सुस्त क्षमताओं को जगाने की कोशिश करते।"
+        },
+        {
+          "id": "c3-p3",
+          "type": "text",
+          "en": "I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life. Darkness would make him more appreciative of sight; silence would teach him the joys of sound.",
+          "hi": "मैंने अक्सर सोचा है कि यह एक आशीर्वाद होगा यदि प्रत्येक इंसान अपने प्रारंभिक वयस्क जीवन के दौरान कुछ समय के लिए अंधा और बहरा हो जाए। अंधकार उसे दृष्टि का अधिक आभारी बनाएगा; मौन उसे ध्वनि के आनंद सिखाएगा।"
+        },
+        {
+          "id": "c3-p4",
+          "type": "text",
+          "en": "If, by some miracle, I were granted three seeing days, to be followed by a relapse into darkness, I should divide the period into three parts. On the first day, I should want to see the people whose kindness and companionship have made my life worth living.",
+          "hi": "यदि, किसी चमत्कार से, मुझे देखने के तीन दिन दिए जाते, जिसके बाद फिर से अंधकार में लौटना होता, तो मैं उस अवधि को तीन भागों में बाँट देती। पहले दिन, मैं उन लोगों को देखना चाहूँगी जिनकी दयालुता और साथ ने मेरे जीवन को जीने लायक बनाया है।"
+        },
+        {
+          "id": "c3-img2",
+          "type": "image",
+          "src": "/images/ch3_helen_sunrise.png",
+          "alt": "A beautiful sunrise over the landscape"
+        },
+        {
+          "id": "c3-p5",
+          "type": "text",
+          "en": "The next day—the second day of sight—I should arise with the dawn and see the thrilling miracle by which night is transformed into day. I should behold with awe the magnificent panorama of light with which the sun awakens the sleeping earth.",
+          "hi": "अगले दिन—दृष्टि के दूसरे दिन—मैं भोर के साथ उठूँगी और उस रोमांचक चमत्कार को देखूँगी जिसके द्वारा रात दिन में बदल जाती है। मैं विस्मय के साथ प्रकाश के उस शानदार दृश्य को देखूँगी जिससे सूर्य सोती हुई पृथ्वी को जगाता है।"
+        },
+        {
+          "id": "c3-p6",
+          "type": "text",
+          "en": "The following morning, I should again greet the dawn, anxious to discover new delights, for I am sure that, for those who have eyes which really see, the dawn of each day must be a perpetually new revelation of beauty. This, according to the terms of my imagined miracle, is to be my third and last day of sight.",
+          "hi": "अगली सुबह, मैं फिर से भोर का अभिवादन करूँगी, नई खुशियों को खोजने के लिए उत्सुक, क्योंकि मुझे यकीन है कि, उन लोगों के लिए जिनकी आँखें वास्तव में देखती हैं, प्रत्येक दिन की भोर सुंदरता का एक लगातार नया रहस्योद्घाटन होना चाहिए। मेरे कल्पित चमत्कार की शर्तों के अनुसार, यह मेरा दृष्टि का तीसरा और अंतिम दिन होगा।"
+        },
+        {
+          "id": "c3-p7",
+          "type": "text",
+          "en": "I should spend it in the workaday world of the present, amid the haunts of men going about the business of life. I should stand at a busy corner, merely looking at people, trying by sight of them to understand something of their lives.",
+          "hi": "मैं इसे वर्तमान की कामकाजी दुनिया में, जीवन के काम में लगे लोगों के बीच बिताऊँगी। मैं एक व्यस्त कोने पर खड़ी होकर, केवल लोगों को देखूँगी, उन्हें देखकर उनके जीवन के बारे में कुछ समझने की कोशिश करूँगी।"
+        },
+        {
+          "id": "c3-p8",
+          "type": "text",
+          "en": "To those of you who can see, I have one word of counsel: Use your eyes as if tomorrow you would be stricken blind. And the same method can be applied to the other senses. Hear the music of voices, the song of a bird, the mighty strains of an orchestra, as if you would be stricken deaf tomorrow.",
+          "hi": "आप में से जो लोग देख सकते हैं, उनके लिए मेरे पास सलाह का एक शब्द है: अपनी आँखों का उपयोग ऐसे करें जैसे कल आप अंधे हो जाएँगे। और यही तरीका अन्य इंद्रियों पर भी लागू किया जा सकता है। आवाज़ों का संगीत, एक पक्षी का गीत, एक ऑर्केस्ट्रा की शक्तिशाली धुनें सुनें, जैसे कि कल आप बहरे हो जाएँगे।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Understanding the Essay",
+          "sectionTitleHi": "निबंध को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What would Helen Keller do on her first day of sight?",
+              "qHi": "हेलेन केलर अपनी दृष्टि के पहले दिन क्या करेंगी?",
+              "aEn": "On her first day of sight, Helen Keller would want to see the people whose kindness, gentleness, and companionship have made her life worth living, particularly her friends and teacher.",
+              "aHi": "अपनी दृष्टि के पहले दिन, हेलेन केलर उन लोगों को देखना चाहेंगी जिनकी दया, कोमलता और साथ ने उनके जीवन को जीने लायक बनाया है, विशेषकर उनके दोस्त और शिक्षक।"
+            },
+            {
+              "qEn": "Why does the author think it would be a blessing if people were blind and deaf for a few days?",
+              "qHi": "लेखक को ऐसा क्यों लगता है कि यह एक आशीर्वाद होगा यदि लोग कुछ दिनों के लिए अंधे और बहरे हो जाएं?",
+              "aEn": "She believes that temporarily losing sight and hearing would make people appreciate those senses much more. Darkness would make them appreciate sight, and silence would teach them the joy of sound.",
+              "aHi": "उनका मानना है कि अस्थायी रूप से देखने और सुनने की क्षमता खोने से लोग उन इंद्रियों की बहुत अधिक सराहना करेंगे। अंधकार उन्हें दृष्टि की सराहना कराएगा, और मौन उन्हें ध्वनि का आनंद सिखाएगा।"
+            },
+            {
+              "qEn": "What is Helen Keller's advice to those who can see?",
+              "qHi": "जो लोग देख सकते हैं उनके लिए हेलेन केलर की क्या सलाह है?",
+              "aEn": "Her advice is to use your eyes as if tomorrow you would be stricken blind, and to appreciate all other senses in the same way, taking nothing for granted.",
+              "aHi": "उनकी सलाह है कि अपनी आँखों का उपयोग ऐसे करें जैसे कल आप अंधे हो जाएंगे, और इसी तरह अन्य सभी इंद्रियों की सराहना करें, किसी भी चीज़ को हल्के में न लें।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "How does Helen Keller understand the feelings of others without being able to see them?",
+              "qHi": "हेलेन केलर बिना देखे दूसरों की भावनाओं को कैसे समझती हैं?",
+              "aEn": "Helen Keller understands people's feelings by touching their faces. Through the subtle movements and expressions she feels with her fingertips, she can detect laughter, sorrow, and other emotions.",
+              "aHi": "हेलेन केलर लोगों के चेहरों को छूकर उनकी भावनाओं को समझती हैं। उंगलियों से महसूस होने वाले सूक्ष्म हाव-भाव और अभिव्यक्तियों के माध्यम से वह हँसी, दुख और अन्य भावनाओं का पता लगा सकती हैं।"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
