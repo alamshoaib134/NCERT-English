@@ -553,8 +553,21 @@
       ],
       "qaSections": [
         {
-          "sectionTitleEn": "Understanding the Essay",
-          "sectionTitleHi": "निबंध को समझना",
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Close your eyes for two minutes. What sounds can you hear? What can you feel with your hands? How does it feel to rely on your other senses?",
+              "qHi": "दो मिनट के लिए अपनी आँखें बंद करें। आप कौन सी आवाज़ें सुन सकते हैं? आप अपने हाथों से क्या महसूस कर सकते हैं? अपनी अन्य इंद्रियों पर निर्भर रहना कैसा लगता है?",
+              "aEn": "When I close my eyes, I can hear the hum of the fan, birds chirping outside, and the ticking of a clock. I can feel the smooth texture of the table and the fabric of my clothes. Relying on other senses makes me realize how much information I usually get just from seeing.",
+              "aHi": "जब मैं अपनी आँखें बंद करता हूँ, तो मुझे पंखे की गुनगुनाहट, बाहर पक्षियों की चहचहाहट और घड़ी की टिक-टिक सुनाई देती है। मैं मेज की चिकनी बनावट और अपने कपड़ों के कपड़े को महसूस कर सकता हूँ। अन्य इंद्रियों पर निर्भर रहने से मुझे एहसास होता है कि मुझे आमतौर पर सिर्फ देखने से कितनी जानकारी मिलती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ की जाँच करें",
           "sectionIcon": "✅",
           "items": [
             {
@@ -570,10 +583,16 @@
               "aHi": "उनका मानना है कि अस्थायी रूप से देखने और सुनने की क्षमता खोने से लोग उन इंद्रियों की बहुत अधिक सराहना करेंगे। अंधकार उन्हें दृष्टि की सराहना कराएगा, और मौन उन्हें ध्वनि का आनंद सिखाएगा।"
             },
             {
-              "qEn": "What is Helen Keller's advice to those who can see?",
-              "qHi": "जो लोग देख सकते हैं उनके लिए हेलेन केलर की क्या सलाह है?",
-              "aEn": "Her advice is to use your eyes as if tomorrow you would be stricken blind, and to appreciate all other senses in the same way, taking nothing for granted.",
-              "aHi": "उनकी सलाह है कि अपनी आँखों का उपयोग ऐसे करें जैसे कल आप अंधे हो जाएंगे, और इसी तरह अन्य सभी इंद्रियों की सराहना करें, किसी भी चीज़ को हल्के में न लें।"
+              "qEn": "What does Helen Keller want to see on the second day?",
+              "qHi": "हेलेन केलर दूसरे दिन क्या देखना चाहती हैं?",
+              "aEn": "On the second day, she wants to wake up early to see the sunrise. She also wants to visit museums to learn about the history of the earth and the progress of mankind.",
+              "aHi": "दूसरे दिन, वह सूर्योदय देखने के लिए जल्दी उठना चाहती हैं। वह पृथ्वी के इतिहास और मानव जाति की प्रगति के बारे में जानने के लिए संग्रहालयों का भी दौरा करना चाहती हैं।"
+            },
+            {
+              "qEn": "Where does she plan to spend her third and final day of sight?",
+              "qHi": "वह अपनी दृष्टि का तीसरा और अंतिम दिन कहाँ बिताने की योजना बना रही हैं?",
+              "aEn": "She plans to spend her third day in the busy, everyday world. She wants to stand at a busy corner and watch people going about their daily lives to understand their joys and struggles.",
+              "aHi": "वह अपना तीसरा दिन व्यस्त, रोजमर्रा की दुनिया में बिताने की योजना बना रही हैं। वह एक व्यस्त कोने पर खड़ी होकर लोगों को उनके दैनिक जीवन में जाते देखना चाहती हैं ताकि वे उनकी खुशियों और संघर्षों को समझ सकें।"
             }
           ]
         },
@@ -587,6 +606,44 @@
               "qHi": "हेलेन केलर बिना देखे दूसरों की भावनाओं को कैसे समझती हैं?",
               "aEn": "Helen Keller understands people's feelings by touching their faces. Through the subtle movements and expressions she feels with her fingertips, she can detect laughter, sorrow, and other emotions.",
               "aHi": "हेलेन केलर लोगों के चेहरों को छूकर उनकी भावनाओं को समझती हैं। उंगलियों से महसूस होने वाले सूक्ष्म हाव-भाव और अभिव्यक्तियों के माध्यम से वह हँसी, दुख और अन्य भावनाओं का पता लगा सकती हैं।"
+            },
+            {
+              "qEn": "What is Helen Keller's advice to those who can see?",
+              "qHi": "जो लोग देख सकते हैं उनके लिए हेलेन केलर की क्या सलाह है?",
+              "aEn": "Her advice is to use your eyes as if tomorrow you would be stricken blind, and to appreciate all other senses in the same way, taking nothing for granted.",
+              "aHi": "उनकी सलाह है कि अपनी आँखों का उपयोग ऐसे करें जैसे कल आप अंधे हो जाएंगे, और इसी तरह अन्य सभी इंद्रियों की सराहना करें, किसी भी चीज़ को हल्के में न लें।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find words from the text that mean the opposite of: (i) active (ii) bright (iii) silence",
+              "qHi": "पाठ से वे शब्द खोजें जिनका अर्थ निम्नलिखित के विपरीत हो: (i) सक्रिय (ii) उज्ज्वल (iii) मौन",
+              "aEn": "(i) sluggish (ii) darkness (iii) sound",
+              "aHi": "(i) सुस्त (sluggish) (ii) अंधकार (darkness) (iii) ध्वनि (sound)"
+            },
+            {
+              "qEn": "Use the word 'companion' in a sentence of your own.",
+              "qHi": "'companion' (साथी) शब्द का प्रयोग अपने स्वयं के वाक्य में करें।",
+              "aEn": "My dog is my loyal companion when I go for long walks.",
+              "aHi": "जब मैं लंबी सैर पर जाता हूँ तो मेरा कुत्ता मेरा वफादार साथी (companion) होता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Discuss with your partner: If you had only three days to see, what would be the top three things on your list?",
+              "qHi": "अपने साथी के साथ चर्चा करें: यदि आपके पास देखने के लिए केवल तीन दिन होते, तो आपकी सूची में शीर्ष तीन चीजें क्या होंगी?",
+              "aEn": "Student A: I would want to see the faces of my family members, watch a beautiful sunset at the beach, and look at my favorite paintings. Student B: I would like to see the stars at night, visit a zoo to see the animals, and watch my favorite movie on a big screen.",
+              "aHi": "छात्र A: मैं अपने परिवार के सदस्यों के चेहरे देखना चाहूंगा, समुद्र तट पर एक सुंदर सूर्यास्त देखना चाहूंगा, और अपनी पसंदीदा पेंटिंग देखना चाहूंगा। छात्र B: मैं रात में सितारों को देखना चाहूंगा, जानवरों को देखने के लिए चिड़ियाघर जाना चाहूंगा, और एक बड़ी स्क्रीन पर अपनी पसंदीदा फिल्म देखना चाहूंगा।"
             }
           ]
         }
