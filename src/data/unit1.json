@@ -381,6 +381,108 @@
           ]
         }
       ]
+    },
+    {
+      "chapterId": 2,
+      "titleEn": "Try Again",
+      "titleHi": "फिर से प्रयास करो",
+      "author": "Eliza Cook",
+      "content": [
+        {
+          "id": "c2-img1",
+          "type": "image",
+          "src": "/images/ch2_king_bruce_spider.png",
+          "alt": "King Bruce watching a spider in the cave"
+        },
+        {
+          "id": "c2-p1",
+          "type": "text",
+          "en": "King Bruce of Scotland flung himself down,\nIn a lonely mood to think;\n'Tis true he was monarch, and wore a crown,\nBut his heart was beginning to sink.",
+          "hi": "स्कॉटलैंड के राजा ब्रूस खुद को नीचे गिराकर,\nअकेलेपन की उदासी में सोचने लगे;\nयह सच है कि वे राजा थे, और ताज पहनते थे,\nलेकिन उनका दिल डूबने लगा था।"
+        },
+        {
+          "id": "c2-p2",
+          "type": "text",
+          "en": "For he had been trying to do a great deed,\nTo make his people glad;\nHe had tried and tried, but couldn't succeed,\nAnd so he became quite sad.",
+          "hi": "क्योंकि वह एक महान कार्य करने की कोशिश कर रहे थे,\nअपने लोगों को खुश करने के लिए;\nउन्होंने बार-बार कोशिश की, लेकिन सफल नहीं हो सके,\nऔर इसलिए वह काफी उदास हो गए।"
+        },
+        {
+          "id": "c2-p3",
+          "type": "text",
+          "en": "He flung himself down in low despair,\nAs grieved as man could be;\nAnd after a while as he pondered there,\n\"I'll give it all up,\" said he.",
+          "hi": "उन्होंने खुद को गहरी निराशा में नीचे गिरा लिया,\nइतने दुखी जितना कोई इंसान हो सकता है;\nऔर कुछ देर वहाँ विचार करने के बाद,\n\"मैं सब कुछ छोड़ दूंगा,\" उन्होंने कहा।"
+        },
+        {
+          "id": "c2-img2",
+          "type": "image",
+          "src": "/images/ch2_spider_web_success.png",
+          "alt": "Spider successfully spinning its web"
+        },
+        {
+          "id": "c2-p4",
+          "type": "text",
+          "en": "Now just at the moment a spider dropped,\nWith its silken, cobweb clue;\nAnd the King in the midst of his thinking stopped,\nTo see what the spider would do.",
+          "hi": "अब ठीक उसी पल एक मकड़ी गिरी,\nअपने रेशमी, जाले के सुराग के साथ;\nऔर राजा अपनी सोच के बीच में रुक गए,\nयह देखने के लिए कि मकड़ी क्या करेगी।"
+        },
+        {
+          "id": "c2-p5",
+          "type": "text",
+          "en": "It soon began to cling and climb,\nStraight up with strong endeavour;\nBut down it came time after time,\nAs near to the ground as ever.",
+          "hi": "वह जल्द ही चिपकने और चढ़ने लगी,\nमजबूत प्रयास के साथ सीधे ऊपर;\nलेकिन वह बार-बार नीचे आ गिरी,\nहमेशा की तरह ज़मीन के करीब।"
+        },
+        {
+          "id": "c2-p6",
+          "type": "text",
+          "en": "Up, up it ran, not a second to stay,\nTo bear all its silvery thread;\nIt toiled, and it toiled, and it spun away,\nUntil a fine web was made.",
+          "hi": "ऊपर, ऊपर वह दौड़ी, एक सेकंड भी न रुकने के लिए,\nअपना सारा चाँदी जैसा धागा सहने के लिए;\nउसने कड़ी मेहनत की, और उसने बुना,\nजब तक कि एक सुंदर जाला नहीं बन गया।"
+        },
+        {
+          "id": "c2-p7",
+          "type": "text",
+          "en": "King Bruce of Scotland rubbed his eyes,\nThat seemed to catch the light;\n\"I'll try again,\" said he, \"and rise,\nAnd I'll conquer in the fight!\"",
+          "hi": "स्कॉटलैंड के राजा ब्रूस ने अपनी आँखें मलीं,\nजो प्रकाश को पकड़ती हुई प्रतीत हो रही थीं;\n\"मैं फिर से प्रयास करूँगा,\" उन्होंने कहा, \"और उठूँगा,\nऔर मैं लड़ाई में जीत हासिल करूँगा!\""
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "Why was King Bruce sad?",
+              "qHi": "राजा ब्रूस उदास क्यों थे?",
+              "aEn": "King Bruce was sad because he had been trying to do a great deed to make his people glad, but despite trying repeatedly, he could not succeed.",
+              "aHi": "राजा ब्रूस उदास थे क्योंकि वह अपने लोगों को खुश करने के लिए एक महान काम करने की कोशिश कर रहे थे, लेकिन बार-बार कोशिश करने के बावजूद वे सफल नहीं हो सके।"
+            },
+            {
+              "qEn": "What did the King see in the cave?",
+              "qHi": "राजा ने गुफा में क्या देखा?",
+              "aEn": "The King saw a small spider trying to climb up to build its web. It fell down many times but did not give up.",
+              "aHi": "राजा ने एक छोटी मकड़ी को अपना जाला बनाने के लिए ऊपर चढ़ने की कोशिश करते देखा। वह कई बार नीचे गिरी लेकिन उसने हार नहीं मानी।"
+            },
+            {
+              "qEn": "What lesson did King Bruce learn from the spider?",
+              "qHi": "राजा ब्रूस ने मकड़ी से क्या सबक सीखा?",
+              "aEn": "King Bruce learned the lesson of perseverance. Seeing the spider succeed after many failed attempts inspired him to not give up on his own goals and to try again.",
+              "aHi": "राजा ब्रूस ने दृढ़ता का सबक सीखा। मकड़ी को कई असफल प्रयासों के बाद सफल होते देख उन्हें अपने लक्ष्यों को न छोड़ने और फिर से प्रयास करने की प्रेरणा मिली।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "What is the central message of the poem 'Try Again'?",
+              "qHi": "'फिर से प्रयास करो' कविता का मुख्य संदेश क्या है?",
+              "aEn": "The central message of the poem is that failure is not the end, but a stepping stone to success. We should never give up, and if we keep trying steadily, we will eventually succeed.",
+              "aHi": "कविता का मुख्य संदेश यह है कि विफलता अंत नहीं है, बल्कि सफलता की ओर एक कदम है। हमें कभी हार नहीं माननी चाहिए, और यदि हम लगातार प्रयास करते रहें, तो हम अंततः सफल होंगे।"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
