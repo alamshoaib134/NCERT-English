@@ -445,6 +445,19 @@
       ],
       "qaSections": [
         {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Can you remember a time when you tried to do something difficult, like riding a bicycle or solving a puzzle, and failed at first? Did you give up or try again?",
+              "qHi": "क्या आपको वह समय याद है जब आपने कुछ मुश्किल करने की कोशिश की थी, जैसे साइकिल चलाना या पहेली सुलझाना, और पहले असफल रहे थे? क्या आपने हार मान ली या फिर से कोशिश की?",
+              "aEn": "Yes, when I first learned to ride a bicycle, I fell many times. I wanted to give up, but my parents encouraged me. I kept trying, and eventually, I learned how to balance and ride.",
+              "aHi": "हाँ, जब मैंने पहली बार साइकिल चलाना सीखा, तो मैं कई बार गिरा। मैं हार मानना चाहता था, लेकिन मेरे माता-पिता ने मुझे प्रोत्साहित किया। मैंने कोशिश जारी रखी, और अंततः, मैंने संतुलन बनाना और साइकिल चलाना सीख लिया।"
+            }
+          ]
+        },
+        {
           "sectionTitleEn": "Understanding the Poem",
           "sectionTitleHi": "कविता को समझना",
           "sectionIcon": "✅",
@@ -479,6 +492,44 @@
               "qHi": "'फिर से प्रयास करो' कविता का मुख्य संदेश क्या है?",
               "aEn": "The central message of the poem is that failure is not the end, but a stepping stone to success. We should never give up, and if we keep trying steadily, we will eventually succeed.",
               "aHi": "कविता का मुख्य संदेश यह है कि विफलता अंत नहीं है, बल्कि सफलता की ओर एक कदम है। हमें कभी हार नहीं माननी चाहिए, और यदि हम लगातार प्रयास करते रहें, तो हम अंततः सफल होंगे।"
+            },
+            {
+              "qEn": "Why do you think the poet chose a spider to teach the King a lesson?",
+              "qHi": "आपको क्या लगता है कि कवि ने राजा को सबक सिखाने के लिए मकड़ी को क्यों चुना?",
+              "aEn": "A spider is a very small, seemingly weak creature. By showing that even a tiny spider can achieve its goal through hard work and patience, the poet highlights that anyone—regardless of size or strength—can succeed if they just keep trying.",
+              "aHi": "मकड़ी एक बहुत छोटा, कमजोर दिखने वाला जीव है। यह दिखाकर कि एक छोटी मकड़ी भी कड़ी मेहनत और धैर्य के माध्यम से अपना लक्ष्य प्राप्त कर सकती है, कवि इस बात पर प्रकाश डालता है कि कोई भी व्यक्ति—चाहे उसका आकार या ताकत कुछ भी हो—सफल हो सकता है यदि वे कोशिश करते रहें।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find two pairs of rhyming words from the poem.",
+              "qHi": "कविता से तुकांत शब्दों के दो जोड़े खोजें।",
+              "aEn": "Two pairs of rhyming words are: (i) down - crown (ii) glad - sad.",
+              "aHi": "तुकांत शब्दों के दो जोड़े हैं: (i) down (नीचे) - crown (ताज) (ii) glad (खुश) - sad (उदास)।"
+            },
+            {
+              "qEn": "What does the phrase 'strong endeavour' mean?",
+              "qHi": "'strong endeavour' (मजबूत प्रयास) वाक्यांश का क्या अर्थ है?",
+              "aEn": "It means making a very serious, determined, and hardworking effort to achieve something.",
+              "aHi": "इसका मतलब है कि कुछ हासिल करने के लिए बहुत गंभीर, दृढ़निश्चयी और कड़ी मेहनत करना।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Share a story with your class about a time you succeeded only after failing multiple times.",
+              "qHi": "अपनी कक्षा के साथ एक कहानी साझा करें जब आप कई बार असफल होने के बाद ही सफल हुए।",
+              "aEn": "When I tried to solve a difficult math problem, I got the wrong answer three times. Instead of crying, I asked my teacher for a small hint, tried again step-by-step, and finally got it right. It felt like a big victory!",
+              "aHi": "जब मैंने गणित की एक कठिन समस्या को हल करने की कोशिश की, तो मुझे तीन बार गलत उत्तर मिला। रोने के बजाय, मैंने अपने शिक्षक से एक छोटा सा संकेत मांगा, फिर से कदम-दर-कदम कोशिश की, और अंततः इसे सही पाया। यह एक बड़ी जीत जैसा लगा!"
             }
           ]
         }
