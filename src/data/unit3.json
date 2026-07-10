@@ -38,6 +38,11 @@
       },
       "content": [
         {
+          "id": "c7-img1",
+          "type": "image",
+          "src": "/images/ch7_cover.png"
+        },
+        {
           "id": "c7-p1",
           "type": "text",
           "en": "My brother Anand fancied himself a great scientist. He was thirteen years old and already had a long list of inventions to his credit — though, if you asked me, none of them had actually worked properly.",
@@ -219,6 +224,11 @@
       },
       "content": [
         {
+          "id": "c8-img1",
+          "type": "image",
+          "src": "/images/ch8_cover.png"
+        },
+        {
           "id": "c8-p1",
           "type": "text",
           "en": "Day by day I float my paper boats one by one down the running stream.\nIn big black letters I write my name on them and the name of the village where I live.\nI hope that someone in some strange land will find them and know who I am.",
@@ -366,6 +376,11 @@
         "expedition": "अभियान"
       },
       "content": [
+        {
+          "id": "c9-img1",
+          "type": "image",
+          "src": "/images/ch9_cover.png"
+        },
         {
           "id": "c9-p1",
           "type": "text",

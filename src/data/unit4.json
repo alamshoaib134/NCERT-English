@@ -36,6 +36,11 @@
       },
       "content": [
         {
+          "id": "c10-img1",
+          "type": "image",
+          "src": "/images/ch10_cover.png"
+        },
+        {
           "id": "c10-p1",
           "type": "text",
           "en": "Suraj was a young boy who loved watching trains. Every day, he would walk through the jungle to a railway cutting near a tunnel, and wait for the midday steam engine to come thundering through.",
@@ -200,6 +205,11 @@
       },
       "content": [
         {
+          "id": "c11-img1",
+          "type": "image",
+          "src": "/images/ch11_cover.png"
+        },
+        {
           "id": "c11-p1",
           "type": "text",
           "en": "My heart is warm with the friends I make,\nAnd better friends I'll not be knowing;\nYet there isn't a train I wouldn't take,\nNo matter where it's going.",
@@ -326,6 +336,11 @@
         "triumph": "जीत / विजय"
       },
       "content": [
+        {
+          "id": "c12-img1",
+          "type": "image",
+          "src": "/images/ch12_cover.png"
+        },
         {
           "id": "c12-p1",
           "type": "text",

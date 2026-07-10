@@ -35,6 +35,11 @@
       },
       "content": [
         {
+          "id": "c13-img1",
+          "type": "image",
+          "src": "/images/ch13_cover.png"
+        },
+        {
           "id": "c13-p1",
           "type": "text",
           "en": "Every day, while we sleep peacefully in our beds, thousands of soldiers stand guard at India's borders. In the freezing cold of Siachen, in the scorching heat of Rajasthan's deserts, in the dense forests of the northeast — our brave soldiers keep watch day and night, protecting our motherland.",
@@ -169,6 +174,11 @@
       },
       "content": [
         {
+          "id": "c14-img1",
+          "type": "image",
+          "src": "/images/ch14_cover.png"
+        },
+        {
           "id": "c14-p1",
           "type": "text",
           "en": "My dear soldiers, standing tall and proud,\nGuarding our land beneath the starlit shroud;\nIn snow and sun, in rain and dust,\nIn you, dear soldiers, is our trust.",
@@ -291,6 +301,11 @@
         "patriot": "देशभक्त"
       },
       "content": [
+        {
+          "id": "c15-img1",
+          "type": "image",
+          "src": "/images/ch15_cover.png"
+        },
         {
           "id": "c15-p1",
           "type": "text",

@@ -47,6 +47,11 @@
       },
       "content": [
         {
+          "id": "c4-img1",
+          "type": "image",
+          "src": "/images/ch4_cover.png"
+        },
+        {
           "id": "c4-p1",
           "type": "text",
           "en": "Once upon a time, many years ago — when our grandfathers were little children — there was a doctor; and his name was Dolittle — John Dolittle, M.D. \"M.D.\" means that he was a proper doctor and knew a whole lot.",
@@ -249,6 +254,11 @@
       },
       "content": [
         {
+          "id": "c5-img1",
+          "type": "image",
+          "src": "/images/ch5_cover.png"
+        },
+        {
           "id": "c5-p1",
           "type": "text",
           "en": "One day a funny kind of man\nCame walking down this street.\nHe wore a shoe upon his head,\nAnd hats upon his feet.",
@@ -412,6 +422,11 @@
         "behave": "व्यवहार करना"
       },
       "content": [
+        {
+          "id": "c6-img1",
+          "type": "image",
+          "src": "/images/ch6_cover.png"
+        },
         {
           "id": "c6-p1",
           "type": "text",
