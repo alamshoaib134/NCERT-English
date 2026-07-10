@@ -1,0 +1,487 @@
+{
+  "unitId": 3,
+  "unitTitleEn": "Dreams and Discoveries",
+  "unitTitleHi": "सपने और खोज",
+  "chapters": [
+    {
+      "chapterId": 7,
+      "titleEn": "My Brother's Great Invention",
+      "titleHi": "मेरे भाई का महान आविष्कार",
+      "author": "Anita Rau Badami",
+      "localDictionary": {
+        "invention": "आविष्कार",
+        "gadget": "यंत्र / उपकरण",
+        "tinkering": "छेड़छाड़ करना / ठीक करने की कोशिश",
+        "burglar": "चोर / सेंधमार",
+        "alarm": "अलार्म / चेतावनी",
+        "clanging": "खनखनाहट / झनझनाहट",
+        "soaking": "भिगोना / पूरी तरह गीला करना",
+        "ambitious": "महत्वाकांक्षी",
+        "skepticism": "संदेह / शंका",
+        "disruptive": "विघ्नकारी / बाधा डालने वाला",
+        "lever": "उत्तोलक / लीवर",
+        "component": "हिस्सा / घटक",
+        "suspenseful": "रहस्यपूर्ण / उत्सुकता भरा",
+        "intruder": "घुसपैठिया",
+        "vanish": "गायब होना",
+        "scarf": "दुपट्टा / गुलबंद",
+        "crash": "टकराने की आवाज़",
+        "thump": "धम्म की आवाज़",
+        "humming": "गुनगुनाहट / भिनभिनाहट",
+        "experiment": "प्रयोग",
+        "scientist": "वैज्ञानिक",
+        "chaos": "अव्यवस्था / गड़बड़ी",
+        "appliance": "उपकरण / यंत्र",
+        "colony": "बस्ती / कॉलोनी",
+        "inspired": "प्रेरित",
+        "determined": "दृढ़ निश्चयी"
+      },
+      "content": [
+        {
+          "id": "c7-p1",
+          "type": "text",
+          "en": "My brother Anand fancied himself a great scientist. He was thirteen years old and already had a long list of inventions to his credit — though, if you asked me, none of them had actually worked properly.",
+          "hi": "मेरे भाई आनंद खुद को एक महान वैज्ञानिक समझता था। वह तेरह साल का था और पहले से ही उसकी उपलब्धियों में आविष्कारों की एक लंबी सूची थी — हालाँकि, अगर आप मुझसे पूछें, तो उनमें से कोई भी वास्तव में ठीक से काम नहीं किया था।"
+        },
+        {
+          "id": "c7-p2",
+          "type": "text",
+          "en": "His first great invention was a burglar alarm. There had been a series of thefts in our colony, and Anand decided he would protect our house. He spent three days rigging up wires, strings, tin cans, and a large bag of water above the front door.",
+          "hi": "उसका पहला महान आविष्कार एक चोर अलार्म था। हमारी कॉलोनी में चोरियों की एक श्रृंखला हो चुकी थी, और आनंद ने फैसला किया कि वह हमारे घर की रक्षा करेगा। उसने तीन दिन तारों, डोरियों, टिन के डिब्बों, और सामने के दरवाज़े के ऊपर पानी का एक बड़ा थैला लगाने में बिताए।"
+        },
+        {
+          "id": "c7-p3",
+          "type": "text",
+          "en": "\"When the thief opens the door,\" Anand explained proudly, \"the string will pull the tin cans, making a terrible clanging noise, and the bag of water will fall right on his head! Brilliant, isn't it?\"",
+          "hi": "\"जब चोर दरवाज़ा खोलेगा,\" आनंद ने गर्व से समझाया, \"डोरी टिन के डिब्बों को खींचेगी, जिससे भयानक खनखनाहट होगी, और पानी का थैला सीधे उसके सिर पर गिरेगा! शानदार है, है ना?\""
+        },
+        {
+          "id": "c7-p4",
+          "type": "text",
+          "en": "The first person to open the door the next morning was our father. The tin cans clattered down with a tremendous crash, and the bag of water burst right on his head, soaking him from top to toe. Father stood there dripping, with a tin can hanging from his ear, while Anand tried to explain that it was meant for burglars, not for him.",
+          "hi": "अगली सुबह दरवाज़ा खोलने वाला पहला व्यक्ति हमारे पिता थे। टिन के डिब्बे ज़ोरदार आवाज़ के साथ नीचे गिरे, और पानी का थैला सीधे उनके सिर पर फटा, उन्हें सिर से पैर तक भिगो दिया। पिताजी वहाँ टपकते हुए खड़े थे, उनके कान से एक टिन का डिब्बा लटक रहा था, जबकि आनंद समझाने की कोशिश कर रहा था कि यह चोरों के लिए था, उनके लिए नहीं।"
+        },
+        {
+          "id": "c7-p5",
+          "type": "text",
+          "en": "But Anand was not discouraged. After watching the film 'Back to the Future', he became inspired to build a time machine. He locked himself in his room and began collecting wires, old clocks, broken radios, and anything else he could find.",
+          "hi": "लेकिन आनंद हतोत्साहित नहीं हुआ। फिल्म 'बैक टू द फ्यूचर' देखने के बाद, वह एक टाइम मशीन बनाने के लिए प्रेरित हो गया। उसने खुद को अपने कमरे में बंद कर लिया और तारें, पुरानी घड़ियाँ, टूटे रेडियो, और जो कुछ भी उसे मिल सकता था, इकट्ठा करने लगा।"
+        },
+        {
+          "id": "c7-p6",
+          "type": "text",
+          "en": "\"You can't build a time machine out of junk!\" I told him. \"That's what they told the Wright Brothers about flying,\" Anand replied confidently. \"Just wait and see.\" Our parents tried to stop him, but he was determined.",
+          "hi": "\"तुम कबाड़ से टाइम मशीन नहीं बना सकते!\" मैंने उससे कहा। \"यही बात उन्होंने राइट ब्रदर्स को उड़ान के बारे में कही थी,\" आनंद ने आत्मविश्वास से जवाब दिया। \"बस रुको और देखो।\" हमारे माता-पिता ने उसे रोकने की कोशिश की, लेकिन वह दृढ़ निश्चयी था।"
+        },
+        {
+          "id": "c7-p7",
+          "type": "text",
+          "en": "One night, when our parents were away in Kharagpur, we heard strange noises downstairs. Someone was trying to break in! I was terrified, but Anand grabbed my arm. \"Quick! I have a plan!\" he whispered.",
+          "hi": "एक रात, जब हमारे माता-पिता खड़गपुर गए हुए थे, हमने नीचे से अजीब आवाज़ें सुनीं। कोई अंदर घुसने की कोशिश कर रहा था! मैं डर गई, लेकिन आनंद ने मेरा हाथ पकड़ लिया। \"जल्दी! मेरे पास एक योजना है!\" उसने फुसफुसाया।"
+        },
+        {
+          "id": "c7-p8",
+          "type": "text",
+          "en": "Anand led the intruder, a thief named Boppa, towards his room where the 'time machine' was kept. There were terrible crashes, thumps, and humming noises from inside. When the door opened, Boppa was gone — completely vanished! All that was left behind was his green scarf, caught in one of the wires.",
+          "hi": "आनंद ने घुसपैठिये को, जो बोप्पा नाम का एक चोर था, अपने कमरे की ओर ले गया जहाँ 'टाइम मशीन' रखी हुई थी। अंदर से भयानक टकराने, धम्म, और गुनगुनाहट की आवाज़ें आईं। जब दरवाज़ा खुला, बोप्पा गायब हो चुका था — पूरी तरह गायब! बस उसका हरा गुलबंद पीछे रह गया था, तारों में से एक में फँसा हुआ।"
+        },
+        {
+          "id": "c7-p9",
+          "type": "text",
+          "en": "\"See?\" said Anand triumphantly. \"I told you my time machine works! I've sent him back to the Stone Age!\" I was not convinced. But the thief was indeed gone, and neither of us could explain how. Anand smiled and went back to his room, already planning his next great invention.",
+          "hi": "\"देखा?\" आनंद ने विजयी भाव से कहा। \"मैंने कहा था न कि मेरी टाइम मशीन काम करती है! मैंने उसे पाषाण युग में भेज दिया!\" मुझे विश्वास नहीं हुआ। लेकिन चोर वास्तव में गायब हो चुका था, और हम दोनों में से कोई भी यह समझा नहीं सका कि कैसे। आनंद मुस्कुराया और अपने कमरे में वापस चला गया, अपने अगले महान आविष्कार की योजना पहले से बनाते हुए।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Have you ever tried to build or invent something at home? What happened? Did it work?",
+              "qHi": "क्या आपने कभी घर पर कुछ बनाने या आविष्कार करने की कोशिश की है? क्या हुआ? क्या यह काम किया?",
+              "aEn": "Yes, I once tried to make a mini volcano using baking soda and vinegar for a science project. It worked and created a foaming eruption, though it also made a huge mess in the kitchen! It taught me that experiments can be fun but also require clean-up.",
+              "aHi": "हाँ, मैंने एक बार विज्ञान प्रोजेक्ट के लिए बेकिंग सोडा और सिरके का उपयोग करके एक छोटा ज्वालामुखी बनाने की कोशिश की थी। यह काम किया और झागदार विस्फोट पैदा किया, हालाँकि इसने रसोई में बहुत गंदगी भी कर दी! इसने मुझे सिखाया कि प्रयोग मज़ेदार हो सकते हैं लेकिन उनके बाद सफ़ाई भी ज़रूरी है।"
+            },
+            {
+              "qEn": "If you could invent one thing, what would it be and why?",
+              "qHi": "अगर आप एक चीज़ का आविष्कार कर सकते, तो वह क्या होती और क्यों?",
+              "aEn": "I would invent a homework machine that could solve math problems and write essays. Just kidding! I would actually invent a device that cleans polluted water and makes it drinkable, because clean water is a basic need that many people around the world still lack.",
+              "aHi": "मैं एक होमवर्क मशीन का आविष्कार करता जो गणित के सवाल हल कर सके और निबंध लिख सके। मज़ाक कर रहा हूँ! मैं वास्तव में एक ऐसा उपकरण बनाता जो प्रदूषित पानी को साफ़ करके पीने लायक बनाए, क्योंकि स्वच्छ पानी एक बुनियादी ज़रूरत है जिसकी दुनिया भर में कई लोगों को अभी भी कमी है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What was Anand's first invention? Did it work as planned?",
+              "qHi": "आनंद का पहला आविष्कार क्या था? क्या यह योजना के अनुसार काम किया?",
+              "aEn": "Anand's first invention was a homemade burglar alarm made of wires, strings, tin cans, and a bag of water. It did not work as planned — instead of catching a burglar, it soaked their father from head to toe when he opened the front door the next morning.",
+              "aHi": "आनंद का पहला आविष्कार तारों, डोरियों, टिन के डिब्बों और पानी के एक थैले से बना एक घरेलू चोर अलार्म था। यह योजना के अनुसार काम नहीं किया — चोर पकड़ने की बजाय, अगली सुबह जब पिताजी ने दरवाज़ा खोला तो इसने उन्हें सिर से पैर तक भिगो दिया।"
+            },
+            {
+              "qEn": "What inspired Anand to build a time machine?",
+              "qHi": "आनंद को टाइम मशीन बनाने की प्रेरणा किससे मिली?",
+              "aEn": "Anand was inspired to build a time machine after watching the film 'Back to the Future'. The movie excited his imagination and he began collecting wires, old clocks, broken radios, and other components to build his machine.",
+              "aHi": "आनंद को 'बैक टू द फ्यूचर' फिल्म देखने के बाद टाइम मशीन बनाने की प्रेरणा मिली। फिल्म ने उसकी कल्पना को उत्तेजित किया और उसने अपनी मशीन बनाने के लिए तारें, पुरानी घड़ियाँ, टूटे रेडियो, और अन्य घटक इकट्ठा करना शुरू कर दिया।"
+            },
+            {
+              "qEn": "What happened when the thief Boppa entered Anand's room?",
+              "qHi": "जब चोर बोप्पा आनंद के कमरे में गया तो क्या हुआ?",
+              "aEn": "When Boppa entered Anand's room, there were terrible crashes, thumps, and humming noises. When the door opened, Boppa had completely vanished. Only his green scarf was left behind, caught in one of the wires. Whether the time machine actually worked or the thief escaped through the window remains a mystery.",
+              "aHi": "जब बोप्पा आनंद के कमरे में गया, तो भयानक टकराने, धम्म, और गुनगुनाहट की आवाज़ें आईं। जब दरवाज़ा खुला, बोप्पा पूरी तरह गायब हो चुका था। बस उसका हरा गुलबंद पीछे रह गया, तारों में फँसा हुआ। क्या टाइम मशीन वास्तव में काम कर गई या चोर खिड़की से भाग गया, यह एक रहस्य बना रहा।"
+            },
+            {
+              "qEn": "How did the narrator (Anita) feel about her brother's inventions?",
+              "qHi": "वर्णनकर्ता (अनिता) को अपने भाई के आविष्कारों के बारे में कैसा लगता था?",
+              "aEn": "Anita was skeptical and amused by her brother's inventions. She didn't believe any of them worked properly and often teased him. However, when the thief vanished, even she couldn't explain what happened. Despite her doubts, she secretly admired Anand's confidence and determination.",
+              "aHi": "अनिता अपने भाई के आविष्कारों को लेकर संदेहशील और मनोरंजित थी। उसे विश्वास नहीं था कि उनमें से कोई ठीक से काम करता है और वह अक्सर उसे चिढ़ाती थी। हालाँकि, जब चोर गायब हो गया, तो वह भी समझा नहीं सकी कि क्या हुआ। अपने संदेहों के बावजूद, वह चुपचाप आनंद के आत्मविश्वास और दृढ़ता की प्रशंसा करती थी।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Do you think Anand's time machine really worked? Give reasons for your answer.",
+              "qHi": "क्या आपको लगता है कि आनंद की टाइम मशीन वास्तव में काम कर गई? अपने उत्तर के लिए कारण दो।",
+              "aEn": "Most likely, the time machine did not actually work. The thief probably escaped through a window or another exit when it was dark and confusing. The crashes and noises were likely caused by the thief stumbling over Anand's gadgets. The story leaves it ambiguous on purpose to add humour and mystery.",
+              "aHi": "सबसे अधिक संभावना है कि टाइम मशीन वास्तव में काम नहीं की। चोर शायद अंधेरे और भ्रम में खिड़की या किसी अन्य रास्ते से भाग गया। टकराने और शोर की आवाज़ें शायद चोर के आनंद के उपकरणों से टकराने से हुईं। कहानी जानबूझकर इसे अस्पष्ट रखती है ताकि हास्य और रहस्य बना रहे।"
+            },
+            {
+              "qEn": "What does the story tell us about the importance of never giving up?",
+              "qHi": "कहानी हमें कभी हार न मानने के महत्व के बारे में क्या बताती है?",
+              "aEn": "The story shows that Anand never gave up despite his failures. His burglar alarm failed and soaked his father, but he immediately started a new, even more ambitious project. This perseverance is what all great inventors share — Edison failed thousands of times before inventing the light bulb. The story teaches us that failures are stepping stones to success.",
+              "aHi": "कहानी दिखाती है कि आनंद ने अपनी असफलताओं के बावजूद कभी हार नहीं मानी। उसका चोर अलार्म विफल रहा और पिताजी को भिगो दिया, लेकिन उसने तुरंत एक नई, और भी अधिक महत्वाकांक्षी परियोजना शुरू कर दी। यह दृढ़ता वह गुण है जो सभी महान आविष्कारकों में होता है — एडिसन ने बल्ब का आविष्कार करने से पहले हज़ारों बार असफलता का सामना किया। कहानी हमें सिखाती है कि असफलताएँ सफलता की सीढ़ियाँ हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find words from the story that mean: (i) a person who breaks into houses to steal (ii) very wet (iii) a person who makes new things (iv) disappeared completely",
+              "qHi": "कहानी से वे शब्द खोजो जिनका अर्थ है: (i) चोरी करने के लिए घरों में घुसने वाला व्यक्ति (ii) बहुत गीला (iii) नई चीज़ें बनाने वाला व्यक्ति (iv) पूरी तरह गायब हो गया",
+              "aEn": "(i) Burglar — a person who breaks into houses to steal. (ii) Soaking — very wet, drenched. (iii) Scientist/Inventor — a person who creates new things. (iv) Vanished — disappeared completely.",
+              "aHi": "(i) Burglar (चोर/सेंधमार) — चोरी करने के लिए घरों में घुसने वाला व्यक्ति। (ii) Soaking (भीगा हुआ) — बहुत गीला। (iii) Scientist/Inventor (वैज्ञानिक/आविष्कारक) — नई चीज़ें बनाने वाला। (iv) Vanished (गायब) — पूरी तरह गायब हो गया।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Tell the class about a famous inventor and their invention. How many times did they fail before succeeding?",
+              "qHi": "कक्षा को किसी प्रसिद्ध आविष्कारक और उनके आविष्कार के बारे में बताओ। सफल होने से पहले उन्होंने कितनी बार असफलता का सामना किया?",
+              "aEn": "Thomas Edison invented the light bulb. He failed over 1,000 times before finding the right filament that would glow without burning out. When asked about his failures, he said, 'I have not failed. I've just found 10,000 ways that won't work.' His perseverance changed the world forever.",
+              "aHi": "थॉमस एडिसन ने बिजली के बल्ब का आविष्कार किया। सही फिलामेंट खोजने से पहले जो बिना जले चमकता रहे, उन्होंने 1,000 से अधिक बार असफलता का सामना किया। जब उनसे उनकी असफलताओं के बारे में पूछा गया, तो उन्होंने कहा, 'मैं असफल नहीं हुआ। मैंने बस 10,000 तरीके खोजे जो काम नहीं करते।' उनकी दृढ़ता ने दुनिया को हमेशा के लिए बदल दिया।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 8,
+      "titleEn": "Paper Boats",
+      "titleHi": "कागज़ की नावें",
+      "author": "Rabindranath Tagore",
+      "localDictionary": {
+        "float": "तैरना / तैराना",
+        "stream": "धारा / नदी",
+        "blooms": "फूल / खिलना",
+        "dawn": "सुबह / भोर",
+        "launch": "छोड़ना / प्रक्षेपण करना",
+        "bulging": "उभरा हुआ / फूला हुआ",
+        "sails": "पाल",
+        "playmate": "खेल का साथी",
+        "bury": "गाड़ना / छिपाना",
+        "midnight": "आधी रात",
+        "fairies": "परियाँ",
+        "lading": "माल / सामान",
+        "baskets": "टोकरियाँ",
+        "shiuli": "शिउली / हरसिंगार (एक फूल)",
+        "strange": "अजनबी / अजीब",
+        "clouds": "बादल",
+        "stars": "तारे",
+        "dreams": "सपने",
+        "hope": "उम्मीद / आशा",
+        "safely": "सुरक्षित रूप से"
+      },
+      "content": [
+        {
+          "id": "c8-p1",
+          "type": "text",
+          "en": "Day by day I float my paper boats one by one down the running stream.\nIn big black letters I write my name on them and the name of the village where I live.\nI hope that someone in some strange land will find them and know who I am.",
+          "hi": "दिन-ब-दिन मैं अपनी कागज़ की नावें एक-एक करके बहती धारा में तैराता हूँ।\nबड़े काले अक्षरों में मैं उन पर अपना नाम लिखता हूँ और उस गाँव का नाम जहाँ मैं रहता हूँ।\nमुझे आशा है कि किसी अजनबी देश में कोई उन्हें पाएगा और जानेगा कि मैं कौन हूँ।"
+        },
+        {
+          "id": "c8-p2",
+          "type": "text",
+          "en": "I load my little boats with shiuli flowers from our garden, and hope that these blooms of the dawn will be carried safely to land in the night.",
+          "hi": "मैं अपनी छोटी नावों में अपने बगीचे से शिउली के फूल लादता हूँ, और आशा करता हूँ कि भोर के ये फूल रात में सुरक्षित रूप से किनारे तक पहुँच जाएँगे।"
+        },
+        {
+          "id": "c8-p3",
+          "type": "text",
+          "en": "I launch my paper boats and look up into the sky and see the little clouds setting their white bulging sails.\nI know not what playmate of mine in the sky sends them down the air to race with my boats!",
+          "hi": "मैं अपनी कागज़ की नावें छोड़ता हूँ और आसमान की ओर देखता हूँ और छोटे बादलों को अपने सफ़ेद फूले हुए पाल लगाते देखता हूँ।\nमैं नहीं जानता कि आसमान में मेरा कौन सा खेल का साथी उन्हें हवा से नीचे भेजता है मेरी नावों से दौड़ लगाने के लिए!"
+        },
+        {
+          "id": "c8-p4",
+          "type": "text",
+          "en": "When night comes I bury my face in my arms and dream that my paper boats float on and on under the midnight stars.\nThe fairies of sleep are sailing in them, and the lading is their baskets full of dreams.",
+          "hi": "जब रात आती है तो मैं अपना चेहरा अपनी बाँहों में छिपा लेता हूँ और सपना देखता हूँ कि मेरी कागज़ की नावें आधी रात के तारों के नीचे तैरती रहती हैं।\nनींद की परियाँ उनमें सवार हैं, और उनका सामान सपनों से भरी उनकी टोकरियाँ हैं।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Have you ever made paper boats and floated them in water? Where did you imagine they would go?",
+              "qHi": "क्या आपने कभी कागज़ की नावें बनाकर पानी में तैराई हैं? आपने कल्पना की कि वे कहाँ जाएँगी?",
+              "aEn": "Yes, during the rainy season I used to make paper boats and float them in puddles. I imagined they would travel down the street, reach a river, then float all the way to the ocean and arrive in a faraway country where someone would find them and know about me.",
+              "aHi": "हाँ, बरसात के मौसम में मैं कागज़ की नावें बनाकर गड्ढों में तैराता था। मैं कल्पना करता था कि वे सड़क से बहते हुए नदी तक पहुँचेंगी, फिर समुद्र तक तैरती जाएँगी और किसी दूर देश में पहुँचेंगी जहाँ कोई उन्हें पाएगा और मेरे बारे में जानेगा।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What does the child write on the paper boats? Why?",
+              "qHi": "बच्चा कागज़ की नावों पर क्या लिखता है? क्यों?",
+              "aEn": "The child writes his name and the name of his village in big black letters on the paper boats. He does this with the hope that someone in a distant, unknown land will find the boats and learn who he is — it is his way of reaching out to the world beyond his village.",
+              "aHi": "बच्चा कागज़ की नावों पर बड़े काले अक्षरों में अपना नाम और अपने गाँव का नाम लिखता है। वह यह इस उम्मीद से करता है कि किसी दूर, अज्ञात देश में कोई नावें पाएगा और जानेगा कि वह कौन है — यह उसके गाँव से परे दुनिया तक पहुँचने का उसका तरीका है।"
+            },
+            {
+              "qEn": "What does the child load his boats with? What does it symbolize?",
+              "qHi": "बच्चा अपनी नावों में क्या लादता है? यह किसका प्रतीक है?",
+              "aEn": "The child loads his boats with shiuli flowers from his garden. This symbolizes innocence, beauty, and the gift of nature. By sending flowers, the child is sharing a piece of his world, his home, and his love with an unknown stranger far away.",
+              "aHi": "बच्चा अपनी नावों में अपने बगीचे से शिउली के फूल लादता है। यह मासूमियत, सुंदरता, और प्रकृति के उपहार का प्रतीक है। फूल भेजकर, बच्चा अपनी दुनिया, अपने घर, और अपने प्यार का एक टुकड़ा दूर किसी अज्ञात व्यक्ति के साथ साझा कर रहा है।"
+            },
+            {
+              "qEn": "What does the child dream about at night?",
+              "qHi": "बच्चा रात को किसके बारे में सपना देखता है?",
+              "aEn": "At night, the child dreams that his paper boats float on and on under the midnight stars. He imagines that the fairies of sleep are sailing in his boats, and their cargo is baskets full of dreams. This shows the child's rich imagination and his connection between the waking world and the dream world.",
+              "aHi": "रात में, बच्चा सपना देखता है कि उसकी कागज़ की नावें आधी रात के तारों के नीचे तैरती रहती हैं। वह कल्पना करता है कि नींद की परियाँ उसकी नावों में सवार हैं, और उनका माल सपनों से भरी टोकरियाँ हैं। यह बच्चे की समृद्ध कल्पना और जागती दुनिया एवं सपनों की दुनिया के बीच उसके जुड़ाव को दर्शाता है।"
+            },
+            {
+              "qEn": "Who are the 'playmates in the sky'?",
+              "qHi": "'आसमान में खेल के साथी' कौन हैं?",
+              "aEn": "The 'playmates in the sky' are the clouds. The child sees the clouds as fellow travelers, sailing their white sails across the sky just as his paper boats sail on the stream. He imagines some invisible friend in the sky sends the clouds racing with his boats.",
+              "aHi": "'आसमान में खेल के साथी' बादल हैं। बच्चा बादलों को साथी यात्रियों के रूप में देखता है, जो आसमान में अपने सफ़ेद पाल लगाकर चलते हैं, ठीक वैसे ही जैसे उसकी कागज़ की नावें धारा में तैरती हैं। वह कल्पना करता है कि आसमान में कोई अदृश्य मित्र बादलों को उसकी नावों से दौड़ लगाने भेजता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "What does the poem tell us about childhood imagination?",
+              "qHi": "कविता हमें बचपन की कल्पना के बारे में क्या बताती है?",
+              "aEn": "The poem beautifully captures the boundless imagination of childhood. A simple act of floating paper boats becomes a magical journey connecting the child to unknown lands. Children see wonder in ordinary things — clouds become playmates, flowers become gifts, and paper boats become vessels of dreams. This imaginative capacity is precious and should be nurtured.",
+              "aHi": "कविता बचपन की असीम कल्पना को सुंदर ढंग से पकड़ती है। कागज़ की नावें तैराने का एक सामान्य काम बच्चे को अज्ञात देशों से जोड़ने वाली जादुई यात्रा बन जाता है। बच्चे साधारण चीज़ों में आश्चर्य देखते हैं — बादल खेल के साथी बनते हैं, फूल उपहार बनते हैं, और कागज़ की नावें सपनों का पात्र बनती हैं। यह कल्पनाशीलता बहुमूल्य है और इसका पोषण किया जाना चाहिए।"
+            },
+            {
+              "qEn": "How does the poem connect the real world with the dream world?",
+              "qHi": "कविता वास्तविक दुनिया को सपनों की दुनिया से कैसे जोड़ती है?",
+              "aEn": "During the day, the child performs the real act of making and floating boats. But his imagination transforms this into something magical. At night, the boundary between real and dream dissolves — the boats continue their journey under stars, with fairies as passengers. Tagore shows that for a child, reality and fantasy blend naturally.",
+              "aHi": "दिन में, बच्चा नावें बनाने और तैराने का वास्तविक काम करता है। लेकिन उसकी कल्पना इसे कुछ जादुई में बदल देती है। रात में, वास्तविक और सपने के बीच की सीमा मिट जाती है — नावें तारों के नीचे अपनी यात्रा जारी रखती हैं, परियों को यात्री बनाकर। टैगोर दिखाते हैं कि एक बच्चे के लिए, यथार्थ और कल्पना स्वाभाविक रूप से मिल जाते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Identify the metaphors used in the poem.",
+              "qHi": "कविता में प्रयुक्त रूपकों (metaphors) की पहचान करो।",
+              "aEn": "Key metaphors: (1) 'Clouds setting their white bulging sails' — clouds compared to boats with sails. (2) 'Fairies of sleep are sailing in them' — sleep personified as fairies traveling in boats. (3) 'Baskets full of dreams' — dreams compared to cargo in baskets. These metaphors create vivid imagery and connect nature with imagination.",
+              "aHi": "मुख्य रूपक: (1) 'बादल अपने सफ़ेद फूले हुए पाल लगाते हैं' — बादलों की तुलना पाल वाली नावों से। (2) 'नींद की परियाँ उनमें सवार हैं' — नींद को नावों में यात्रा करने वाली परियों के रूप में व्यक्तिकृत किया गया। (3) 'सपनों से भरी टोकरियाँ' — सपनों की तुलना टोकरियों में रखे सामान से। ये रूपक जीवंत कल्पनाएँ बनाते हैं और प्रकृति को कल्पना से जोड़ते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Recite the poem with feeling. If you could send a paper boat with a message, what would you write and who would you want to find it?",
+              "qHi": "कविता को भावपूर्ण ढंग से पढ़ो। अगर तुम एक संदेश के साथ कागज़ की नाव भेज सकते, तो तुम क्या लिखते और तुम चाहते कि इसे कौन पाए?",
+              "aEn": "I would write: 'Hello from India! My name is [name], and I love reading and nature. I hope this boat finds a friend across the sea who also loves stories and adventures.' I would want a child in another country to find it, so we could become pen pals and learn about each other's lives.",
+              "aHi": "मैं लिखता: 'भारत से नमस्ते! मेरा नाम [नाम] है, और मुझे पढ़ना और प्रकृति पसंद है। मुझे उम्मीद है कि यह नाव समुद्र के पार एक ऐसे दोस्त को मिलेगी जिसे भी कहानियाँ और रोमांच पसंद हों।' मैं चाहता कि इसे किसी दूसरे देश का बच्चा पाए, ताकि हम पत्र मित्र बन सकें और एक-दूसरे के जीवन के बारे में जान सकें।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 9,
+      "titleEn": "North, South, East, West",
+      "titleHi": "उत्तर, दक्षिण, पूर्व, पश्चिम",
+      "author": "C.G. Salamander",
+      "localDictionary": {
+        "compass": "दिशा-सूचक / कम्पास",
+        "direction": "दिशा",
+        "latitude": "अक्षांश",
+        "longitude": "देशांतर",
+        "equator": "भूमध्य रेखा",
+        "hemisphere": "गोलार्ध",
+        "diverse": "विविध",
+        "terrain": "भूभाग / ज़मीन",
+        "climate": "जलवायु",
+        "culture": "संस्कृति",
+        "tradition": "परंपरा",
+        "monument": "स्मारक",
+        "architecture": "वास्तुकला",
+        "heritage": "विरासत",
+        "festival": "त्योहार / उत्सव",
+        "peninsula": "प्रायद्वीप",
+        "plateau": "पठार",
+        "valley": "घाटी",
+        "glacier": "हिमनद",
+        "desert": "रेगिस्तान",
+        "coastal": "तटीय",
+        "tropical": "उष्णकटिबंधीय",
+        "expedition": "अभियान"
+      },
+      "content": [
+        {
+          "id": "c9-p1",
+          "type": "text",
+          "en": "India is a land of incredible diversity. From the snow-capped mountains of the Himalayas in the north to the sun-kissed beaches of Kerala in the south, from the vast Thar Desert in the west to the lush green hills of the northeast — every direction offers a unique experience.",
+          "hi": "भारत अविश्वसनीय विविधता का देश है। उत्तर में हिमालय की बर्फ़ से ढकी चोटियों से लेकर दक्षिण में केरल के सूर्य-चुंबित समुद्र तटों तक, पश्चिम में विशाल थार रेगिस्तान से लेकर पूर्वोत्तर की हरी-भरी पहाड़ियों तक — हर दिशा एक अनूठा अनुभव प्रदान करती है।"
+        },
+        {
+          "id": "c9-p2",
+          "type": "text",
+          "en": "In the North, the mighty Himalayas stand like ancient guardians. Rivers like the Ganga and Yamuna begin their journey from glaciers high up in these mountains. Cities like Delhi, with its rich history of Mughal architecture, and Amritsar, home of the Golden Temple, welcome visitors with open arms.",
+          "hi": "उत्तर में, शक्तिशाली हिमालय प्राचीन रक्षकों की तरह खड़ा है। गंगा और यमुना जैसी नदियाँ इन पहाड़ों में ऊँचे हिमनदों से अपनी यात्रा शुरू करती हैं। दिल्ली, अपनी मुगल वास्तुकला के समृद्ध इतिहास के साथ, और अमृतसर, स्वर्ण मंदिर का घर, आगंतुकों का खुली बाँहों से स्वागत करते हैं।"
+        },
+        {
+          "id": "c9-p3",
+          "type": "text",
+          "en": "The South is a land of temples, backwaters, and spices. Tamil Nadu has grand temples like Meenakshi Temple in Madurai. Kerala's backwaters offer peaceful boat rides through palm-fringed waterways. Karnataka gives us the ruins of Hampi, and Andhra Pradesh is known for the sacred city of Tirupati.",
+          "hi": "दक्षिण मंदिरों, बैकवाटर्स और मसालों की भूमि है। तमिलनाडु में मदुरै के मीनाक्षी मंदिर जैसे भव्य मंदिर हैं। केरल के बैकवाटर्स ताड़ के पेड़ों से घिरे जलमार्गों में शांतिपूर्ण नाव की सवारी प्रदान करते हैं। कर्नाटक हमें हम्पी के खंडहर देता है, और आंध्र प्रदेश तिरुपति के पवित्र शहर के लिए जाना जाता है।"
+        },
+        {
+          "id": "c9-p4",
+          "type": "text",
+          "en": "The East is where the sun rises first over India. The lush tea gardens of Darjeeling, the mighty Sundarbans where tigers swim through mangroves, the ancient temples of Odisha, and the vibrant culture of Bengal with its art, literature, and Durga Puja — the East is full of surprises.",
+          "hi": "पूर्व वह जगह है जहाँ भारत पर सूरज सबसे पहले उगता है। दार्जिलिंग के हरे-भरे चाय के बागान, शक्तिशाली सुंदरबन जहाँ बाघ मैंग्रोव के बीच तैरते हैं, ओडिशा के प्राचीन मंदिर, और बंगाल की जीवंत संस्कृति — अपनी कला, साहित्य और दुर्गा पूजा के साथ — पूर्व आश्चर्यों से भरा है।"
+        },
+        {
+          "id": "c9-p5",
+          "type": "text",
+          "en": "The West gives us the golden sands of Rajasthan, the bustling city of Mumbai, the white salt desert of the Rann of Kutch in Gujarat, and the beautiful beaches of Goa. Each state in the west has its own festivals, food, and folk traditions that make India's western region a kaleidoscope of colour and joy.",
+          "hi": "पश्चिम हमें राजस्थान की सुनहरी रेत, मुंबई का हलचल भरा शहर, गुजरात में कच्छ के रण का सफ़ेद नमक रेगिस्तान, और गोवा के सुंदर समुद्र तट देता है। पश्चिम का हर राज्य अपने त्योहारों, खान-पान और लोक परंपराओं के साथ भारत के पश्चिमी क्षेत्र को रंग और खुशी का बहुरूपदर्शक बनाता है।"
+        },
+        {
+          "id": "c9-p6",
+          "type": "text",
+          "en": "India truly is a land where every direction holds a treasure waiting to be discovered. Whether you travel north, south, east, or west, you will find beauty, history, culture, and warmth everywhere you go.",
+          "hi": "भारत सच में ऐसा देश है जहाँ हर दिशा में खोजे जाने की प्रतीक्षा करता एक खजाना है। चाहे आप उत्तर, दक्षिण, पूर्व या पश्चिम की यात्रा करें, आपको हर जगह सुंदरता, इतिहास, संस्कृति और गर्मजोशी मिलेगी।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Name one famous place from the North, South, East, and West of India that you would like to visit.",
+              "qHi": "भारत के उत्तर, दक्षिण, पूर्व और पश्चिम से एक-एक प्रसिद्ध स्थान का नाम बताओ जहाँ तुम जाना चाहोगे।",
+              "aEn": "North: I would like to visit the Taj Mahal in Agra. South: I want to see the backwaters of Kerala. East: I would love to visit Darjeeling's tea gardens. West: I dream of seeing the Rann of Kutch in Gujarat during the white desert festival.",
+              "aHi": "उत्तर: मैं आगरा में ताजमहल देखना चाहूँगा। दक्षिण: मैं केरल के बैकवाटर्स देखना चाहता हूँ। पूर्व: मैं दार्जिलिंग के चाय बागान देखना पसंद करूँगा। पश्चिम: मैं गुजरात में कच्छ के रण को सफ़ेद रेगिस्तान उत्सव के दौरान देखने का सपना देखता हूँ।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What geographical features are mentioned in the North of India?",
+              "qHi": "भारत के उत्तर में कौन-कौन सी भौगोलिक विशेषताएँ बताई गई हैं?",
+              "aEn": "In the North of India, the chapter mentions: the snow-capped Himalayas, glaciers, rivers like the Ganga and Yamuna, and historical cities like Delhi (with Mughal architecture) and Amritsar (with the Golden Temple).",
+              "aHi": "भारत के उत्तर में, अध्याय में बताया गया है: बर्फ़ से ढके हिमालय, हिमनद, गंगा और यमुना जैसी नदियाँ, और दिल्ली (मुगल वास्तुकला के साथ) और अमृतसर (स्वर्ण मंदिर के साथ) जैसे ऐतिहासिक शहर।"
+            },
+            {
+              "qEn": "What makes the South of India special according to the chapter?",
+              "qHi": "अध्याय के अनुसार दक्षिण भारत को क्या विशेष बनाता है?",
+              "aEn": "The South is special for its grand temples (like Meenakshi Temple in Madurai), Kerala's peaceful backwaters with palm-fringed waterways, the historic ruins of Hampi in Karnataka, the sacred city of Tirupati, and its rich tradition of spices.",
+              "aHi": "दक्षिण अपने भव्य मंदिरों (जैसे मदुरै का मीनाक्षी मंदिर), केरल के शांतिपूर्ण बैकवाटर्स, कर्नाटक में हम्पी के ऐतिहासिक खंडहर, तिरुपति का पवित्र शहर, और मसालों की समृद्ध परंपरा के लिए विशेष है।"
+            },
+            {
+              "qEn": "What are the attractions of Eastern and Western India?",
+              "qHi": "पूर्वी और पश्चिमी भारत के आकर्षण क्या हैं?",
+              "aEn": "East: Tea gardens of Darjeeling, Sundarbans (tigers in mangroves), ancient Odisha temples, Bengal's art, literature, and Durga Puja. West: Golden sands of Rajasthan, Mumbai city, Rann of Kutch (white salt desert), Goa beaches, and diverse folk traditions.",
+              "aHi": "पूर्व: दार्जिलिंग के चाय बागान, सुंदरबन (मैंग्रोव में बाघ), ओडिशा के प्राचीन मंदिर, बंगाल की कला, साहित्य और दुर्गा पूजा। पश्चिम: राजस्थान की सुनहरी रेत, मुंबई शहर, कच्छ का रण (सफ़ेद नमक रेगिस्तान), गोवा के समुद्र तट, और विविध लोक परंपराएँ।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Why is India called 'a land of incredible diversity'?",
+              "qHi": "भारत को 'अविश्वसनीय विविधता का देश' क्यों कहा जाता है?",
+              "aEn": "India is called diverse because it has snow-capped mountains, vast deserts, tropical beaches, lush forests, and fertile plains — all in one country. It has hundreds of languages, religions, festivals, cuisines, and art forms. Each region has its own unique culture, traditions, and way of life, making India a true cultural mosaic.",
+              "aHi": "भारत को विविध इसलिए कहा जाता है क्योंकि यहाँ बर्फ़ से ढके पहाड़, विशाल रेगिस्तान, उष्णकटिबंधीय समुद्र तट, हरे-भरे जंगल और उपजाऊ मैदान — सब एक ही देश में हैं। यहाँ सैकड़ों भाषाएँ, धर्म, त्योहार, व्यंजन और कला रूप हैं। हर क्षेत्र की अपनी अनूठी संस्कृति, परंपराएँ और जीवन शैली है, जो भारत को एक सच्चा सांस्कृतिक मोज़ेक बनाती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Match the geographical terms with their meanings: plateau, peninsula, glacier, valley, coastal.",
+              "qHi": "भौगोलिक शब्दों को उनके अर्थों से मिलाओ: plateau (पठार), peninsula (प्रायद्वीप), glacier (हिमनद), valley (घाटी), coastal (तटीय)।",
+              "aEn": "Plateau — a flat, elevated area of land. Peninsula — a piece of land surrounded by water on three sides. Glacier — a large body of ice that moves slowly down a mountain. Valley — a low area of land between hills or mountains. Coastal — relating to the sea coast.",
+              "aHi": "Plateau (पठार) — भूमि का एक समतल, ऊँचा क्षेत्र। Peninsula (प्रायद्वीप) — तीन तरफ़ पानी से घिरा भूमि का टुकड़ा। Glacier (हिमनद) — बर्फ़ का एक बड़ा पिंड जो धीरे-धीरे पहाड़ से नीचे खिसकता है। Valley (घाटी) — पहाड़ियों या पहाड़ों के बीच का निचला क्षेत्र। Coastal (तटीय) — समुद्र तट से संबंधित।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Give a short speech about a place in India you have visited or would like to visit. Describe its geography, culture, and food.",
+              "qHi": "भारत में किसी ऐसी जगह के बारे में एक छोटा भाषण दो जहाँ आप गए हैं या जाना चाहेंगे। इसकी भूगोल, संस्कृति और खान-पान का वर्णन करो।",
+              "aEn": "I would like to visit Jaipur, the Pink City in Rajasthan. It is surrounded by the Aravalli hills and has magnificent forts like Amber Fort and Hawa Mahal. The culture is vibrant with colourful festivals and traditional music. The famous food includes dal-baati-churma and ghevar.",
+              "aHi": "मैं जयपुर जाना चाहूँगा, राजस्थान का गुलाबी शहर। यह अरावली पहाड़ियों से घिरा है और इसमें आमेर किला और हवा महल जैसे भव्य किले हैं। संस्कृति रंगीन त्योहारों और पारंपरिक संगीत से जीवंत है। प्रसिद्ध खाने में दाल-बाटी-चूरमा और घेवर शामिल हैं।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

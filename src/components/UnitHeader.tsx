@@ -14,6 +14,7 @@ interface UnitHeaderProps {
   unitTitleHi: string;
   unitId: number;
   chapters: Chapter[];
+  isFirstUnit?: boolean;
 }
 
 export default function UnitHeader({
@@ -21,71 +22,61 @@ export default function UnitHeader({
   unitTitleHi,
   unitId,
   chapters,
+  isFirstUnit = false,
 }: UnitHeaderProps) {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-950 via-blue-900 to-slate-900 text-white relative overflow-hidden">
-      {/* Decorative background elements */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute -top-20 -right-20 w-80 h-80 bg-amber-500/10 rounded-full blur-3xl" />
-        <div className="absolute top-1/3 -left-20 w-60 h-60 bg-blue-400/10 rounded-full blur-3xl" />
-        <div className="absolute bottom-20 right-10 w-40 h-40 bg-violet-500/10 rounded-full blur-3xl" />
-        {/* River flow line */}
-        <svg
-          className="absolute bottom-0 left-0 w-full h-32 opacity-10"
-          viewBox="0 0 400 100"
-          preserveAspectRatio="none"
-        >
-          <path
-            d="M0,50 C100,20 200,80 300,30 C350,10 380,40 400,30 L400,100 L0,100 Z"
-            fill="url(#river)"
-          />
-          <defs>
-            <linearGradient id="river" x1="0" y1="0" x2="1" y2="0">
-              <stop offset="0%" stopColor="#3b82f6" />
-              <stop offset="100%" stopColor="#8b5cf6" />
-            </linearGradient>
-          </defs>
-        </svg>
-      </div>
+    <div className={`${isFirstUnit ? '' : ''} text-white relative overflow-hidden`}>
+      {/* Decorative background elements — only on first unit */}
+      {isFirstUnit && (
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <div className="absolute -top-20 -right-20 w-80 h-80 bg-amber-500/10 rounded-full blur-3xl" />
+          <div className="absolute top-1/3 -left-20 w-60 h-60 bg-blue-400/10 rounded-full blur-3xl" />
+          <div className="absolute bottom-20 right-10 w-40 h-40 bg-violet-500/10 rounded-full blur-3xl" />
+        </div>
+      )}
 
       {/* Content */}
       <div className="relative z-10 max-w-lg mx-auto px-5">
-        {/* Top bar */}
-        <div className="pt-8 pb-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-lg">
-              <span className="text-sm">📖</span>
+        {/* Top bar — only on first unit */}
+        {isFirstUnit && (
+          <div className="pt-8 pb-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-lg">
+                <span className="text-sm">📖</span>
+              </div>
+              <span className="text-sm font-bold tracking-wide text-white/90">
+                पूर्वी Reader
+              </span>
             </div>
-            <span className="text-sm font-bold tracking-wide text-white/90">
-              पूर्वी Reader
-            </span>
+            <span className="text-xs text-white/40 font-medium">Class 7</span>
           </div>
-          <span className="text-xs text-white/40 font-medium">Class 7</span>
-        </div>
+        )}
 
-        {/* Hero section */}
-        <div className="pt-10 pb-8 text-center">
+        {/* Hero / Unit header section */}
+        <div className={`${isFirstUnit ? 'pt-10' : 'pt-10 border-t border-white/10'} pb-8 text-center`}>
           <div className="inline-flex items-center gap-1.5 bg-white/10 text-white/80 text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-4 backdrop-blur-sm border border-white/10">
             <span>🎓</span>
             <span>Unit {unitId}</span>
           </div>
 
-          <h1 className="text-4xl font-extrabold leading-tight mb-2 bg-gradient-to-r from-amber-200 via-amber-100 to-amber-300 bg-clip-text text-transparent">
+          <h2 className={`${isFirstUnit ? 'text-4xl' : 'text-3xl'} font-extrabold leading-tight mb-2 bg-gradient-to-r from-amber-200 via-amber-100 to-amber-300 bg-clip-text text-transparent`}>
             {unitTitleEn}
-          </h1>
+          </h2>
           <p className="text-xl text-blue-200/80 font-medium">
             {unitTitleHi}
           </p>
 
           <div className="mt-6 h-px bg-gradient-to-r from-transparent via-amber-400/30 to-transparent" />
 
-          <p className="mt-4 text-sm text-blue-200/60 leading-relaxed max-w-sm mx-auto">
-            किसी भी अध्याय को पढ़ने के लिए नीचे टैप करें
-            <br />
-            <span className="text-white/40">
-              Tap a chapter below to start reading
-            </span>
-          </p>
+          {isFirstUnit && (
+            <p className="mt-4 text-sm text-blue-200/60 leading-relaxed max-w-sm mx-auto">
+              किसी भी अध्याय को पढ़ने के लिए नीचे टैप करें
+              <br />
+              <span className="text-white/40">
+                Tap a chapter below to start reading
+              </span>
+            </p>
+          )}
         </div>
 
         {/* Chapter cards */}

@@ -1,0 +1,575 @@
+{
+  "unitId": 2,
+  "unitTitleEn": "Wit and Humour",
+  "unitTitleHi": "विनोद और हास्य",
+  "chapters": [
+    {
+      "chapterId": 4,
+      "titleEn": "Animals, Birds, and Dr. Dolittle",
+      "titleHi": "जानवर, पक्षी और डॉ. डूलिटल",
+      "author": "Hugh Lofting",
+      "localDictionary": {
+        "physician": "चिकित्सक / डॉक्टर",
+        "veterinary": "पशु चिकित्सा",
+        "catamaran": "लकड़ी की बनी नाव",
+        "polynesia": "बहुभाषी तोता (कहानी में एक पात्र)",
+        "puddleby": "पड्डलबी (गाँव का नाम)",
+        "vet": "पशु चिकित्सक",
+        "parrot": "तोता",
+        "communicate": "बातचीत करना / संवाद करना",
+        "mimic": "नकल करना",
+        "creature": "प्राणी / जीव",
+        "patients": "मरीज़",
+        "herbs": "जड़ी-बूटियाँ",
+        "remedy": "उपचार / इलाज",
+        "cure": "इलाज करना",
+        "fame": "प्रसिद्धि",
+        "recommend": "सिफ़ारिश करना",
+        "suggest": "सुझाव देना",
+        "stomach": "पेट",
+        "ache": "दर्द",
+        "speech": "भाषण / बोली",
+        "language": "भाषा",
+        "amazed": "हैरान / चकित",
+        "delighted": "प्रसन्न / खुश",
+        "encourage": "प्रोत्साहित करना",
+        "appreciate": "सराहना करना",
+        "compassion": "करुणा / दया",
+        "domestic": "पालतू / घरेलू",
+        "affectionate": "स्नेही / प्यार करने वाला",
+        "grooming": "साज-सज्जा / सँवारना",
+        "squawk": "कर्कश आवाज़ करना",
+        "screech": "चीख / कर्कश चीख",
+        "gibberish": "अर्थहीन बोली",
+        "fascinated": "मोहित / आकर्षित",
+        "remarkable": "उल्लेखनीय / असाधारण",
+        "properly": "ठीक से / सही ढंग से"
+      },
+      "content": [
+        {
+          "id": "c4-p1",
+          "type": "text",
+          "en": "Once upon a time, many years ago — when our grandfathers were little children — there was a doctor; and his name was Dolittle — John Dolittle, M.D. \"M.D.\" means that he was a proper doctor and knew a whole lot.",
+          "hi": "बहुत समय पहले, कई साल पहले — जब हमारे दादाजी छोटे बच्चे थे — एक डॉक्टर थे; और उनका नाम था डूलिटल — जॉन डूलिटल, एम.डी. \"एम.डी.\" का मतलब है कि वे एक सही मायने में डॉक्टर थे और बहुत कुछ जानते थे।"
+        },
+        {
+          "id": "c4-p2",
+          "type": "text",
+          "en": "He lived in a little town called Puddleby-on-the-Marsh. All the folks, young and old, knew him well by sight. And whenever he walked down the street in his high hat, everyone would say, \"There goes the Doctor! — He's a clever man.\"",
+          "hi": "वे पड्डलबी-ऑन-द-मार्श नाम के एक छोटे से कस्बे में रहते थे। सभी लोग, छोटे और बड़े, उन्हें देखकर अच्छी तरह पहचानते थे। और जब भी वे अपनी ऊँची टोपी पहने सड़क पर चलते, हर कोई कहता, \"वो जा रहे हैं डॉक्टर! — वे एक होशियार आदमी हैं।\""
+        },
+        {
+          "id": "c4-p3",
+          "type": "text",
+          "en": "He had many animals at home — a goldfish in the pond at the bottom of his garden, pigeons in the tower, white mice in his cellar, a hedgehog in the cellar, and a cow and a calf in the barn. His favourite pets were Dab-Dab the duck, Jip the dog, Gub-Gub the baby pig, Polynesia the parrot, and Too-Too the owl.",
+          "hi": "उनके घर में कई जानवर थे — बगीचे के तल पर तालाब में एक सुनहरी मछली, मीनार में कबूतर, तहखाने में सफ़ेद चूहे, तहखाने में एक साही, और खलिहान में एक गाय और एक बछड़ा। उनके पसंदीदा पालतू जानवर थे डैब-डैब बतख, जिप कुत्ता, गब-गब बच्चा सुअर, पोलिनेशिया तोता, और टू-टू उल्लू।"
+        },
+        {
+          "id": "c4-p4",
+          "type": "text",
+          "en": "One day, a man came to the Doctor's house and said, \"Doctor, I have a terrible stomach ache. Can you help me?\" The Doctor examined him and gave him some herbs. Then the man, who was actually a Cat's-food-Man, looked around at all the animals and said, \"Doctor, you know so much about animals. Why don't you become an animal doctor? You'd be much better than that old vet in town.\"",
+          "hi": "एक दिन, एक आदमी डॉक्टर के घर आया और बोला, \"डॉक्टर, मेरे पेट में बहुत दर्द है। क्या आप मेरी मदद कर सकते हैं?\" डॉक्टर ने उसकी जाँच की और उसे कुछ जड़ी-बूटियाँ दीं। फिर उस आदमी ने, जो वास्तव में एक बिल्ली-का-खाना-बेचने वाला था, सभी जानवरों को देखा और कहा, \"डॉक्टर, आप जानवरों के बारे में इतना जानते हैं। आप पशु चिकित्सक क्यों नहीं बन जाते? आप शहर के उस पुराने पशु चिकित्सक से कहीं बेहतर होंगे।\""
+        },
+        {
+          "id": "c4-p5",
+          "type": "text",
+          "en": "When the Cat's-food-Man had gone, Polynesia, the parrot — who had been sitting in the window listening — flew down onto the Doctor's table and said, \"That man is right. You should give up being a people's doctor and be an animal doctor. Animals would appreciate you much more than people do. The animals would be so grateful!\"",
+          "hi": "जब बिल्ली-का-खाना-बेचने वाला चला गया, तो पोलिनेशिया, तोता — जो खिड़की में बैठा सुन रहा था — उड़कर डॉक्टर की मेज़ पर आया और बोला, \"वह आदमी सही कह रहा है। आपको लोगों का डॉक्टर बनना छोड़कर जानवरों का डॉक्टर बन जाना चाहिए। जानवर आपकी सराहना लोगों से कहीं ज़्यादा करेंगे। जानवर बहुत आभारी होंगे!\""
+        },
+        {
+          "id": "c4-p6",
+          "type": "text",
+          "en": "\"But,\" said the Doctor, \"I don't know anything about the language of animals. How will I understand what's wrong with them if they can't tell me?\"",
+          "hi": "\"लेकिन,\" डॉक्टर ने कहा, \"मैं जानवरों की भाषा के बारे में कुछ नहीं जानता। अगर वे मुझे बता नहीं सकते तो मैं कैसे समझूँगा कि उन्हें क्या तकलीफ़ है?\""
+        },
+        {
+          "id": "c4-p7",
+          "type": "text",
+          "en": "\"Oh, we animals can talk,\" said Polynesia, laughing. \"Didn't you know that? You just don't understand us because you haven't learned our language.\" The Doctor was amazed. \"Can you really talk?\" he asked. \"Of course!\" said Polynesia. \"I can speak two languages — people's language and bird-language. I learned people's language from listening. Now I'll teach you animal-language, if you like.\"",
+          "hi": "\"अरे, हम जानवर बात कर सकते हैं,\" पोलिनेशिया ने हँसते हुए कहा। \"क्या आपको नहीं पता था? आप बस हमें समझ नहीं पाते क्योंकि आपने हमारी भाषा नहीं सीखी है।\" डॉक्टर हैरान रह गए। \"क्या तुम सचमुच बात कर सकते हो?\" उन्होंने पूछा। \"बिल्कुल!\" पोलिनेशिया ने कहा। \"मैं दो भाषाएँ बोल सकता हूँ — लोगों की भाषा और पक्षियों की भाषा। मैंने लोगों की भाषा सुनकर सीखी। अब मैं आपको जानवरों की भाषा सिखाऊँगा, अगर आप चाहें तो।\""
+        },
+        {
+          "id": "c4-p8",
+          "type": "text",
+          "en": "So Polynesia began to teach the Doctor the language of animals. She started with the ABC of bird-language. Then she taught him how dogs talk with their tails, how horses speak with their ears, and many other things. The Doctor was fascinated and wrote everything down in a big notebook.",
+          "hi": "तो पोलिनेशिया ने डॉक्टर को जानवरों की भाषा सिखाना शुरू किया। उसने पक्षी-भाषा की एबीसी से शुरुआत की। फिर उसने सिखाया कि कुत्ते अपनी पूँछ से कैसे बात करते हैं, घोड़े अपने कानों से कैसे बोलते हैं, और बहुत सी अन्य चीज़ें। डॉक्टर मोहित हो गए और उन्होंने सब कुछ एक बड़ी नोटबुक में लिख लिया।"
+        },
+        {
+          "id": "c4-p9",
+          "type": "text",
+          "en": "And soon the news spread among the animals that there was a doctor who could understand their talk and treat them properly. Animals came from far and wide — horses and calves, dogs and cats, birds and even fish — all wanting to be treated by this remarkable doctor who spoke their language.",
+          "hi": "और जल्दी ही जानवरों में यह खबर फैल गई कि एक ऐसा डॉक्टर है जो उनकी बात समझ सकता है और उनका सही इलाज कर सकता है। दूर-दूर से जानवर आने लगे — घोड़े और बछड़े, कुत्ते और बिल्लियाँ, पक्षी और यहाँ तक कि मछलियाँ — सभी इस असाधारण डॉक्टर से इलाज करवाना चाहते थे जो उनकी भाषा बोलता था।"
+        },
+        {
+          "id": "c4-p10",
+          "type": "text",
+          "en": "Dr. Dolittle became the most famous animal doctor in the world. His waiting room was always full of animals, and his garden became a resting place for birds from all over. He was very happy, and the animals loved him dearly. Polynesia was proud that it was her idea that had changed the Doctor's life forever.",
+          "hi": "डॉ. डूलिटल दुनिया के सबसे प्रसिद्ध पशु चिकित्सक बन गए। उनका प्रतीक्षा कक्ष हमेशा जानवरों से भरा रहता था, और उनका बगीचा चारों ओर से आने वाले पक्षियों के लिए विश्राम स्थल बन गया। वे बहुत खुश थे, और जानवर उन्हें बहुत प्यार करते थे। पोलिनेशिया को गर्व था कि यह उसका विचार था जिसने डॉक्टर का जीवन हमेशा के लिए बदल दिया।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Do you have a pet or a domestic animal? If yes, why? If not, why not? How do people usually spend time with a pet?",
+              "qHi": "क्या आपके पास कोई पालतू या घरेलू जानवर है? अगर हाँ, तो क्यों? अगर नहीं, तो क्यों नहीं? लोग आमतौर पर अपने पालतू जानवर के साथ कैसे समय बिताते हैं?",
+              "aEn": "Yes, I have a pet dog. I keep it because pets are friendly, playful, and affectionate; they provide company and cheer me up when I am alone. People usually spend time with their pets by playing with them, feeding them, taking them for walks, grooming them, or simply cuddling and talking to them.",
+              "aHi": "हाँ, मेरे पास एक पालतू कुत्ता है। मैं उसे इसलिए रखता हूँ क्योंकि पालतू जानवर मिलनसार, चंचल और स्नेही होते हैं; वे साथ देते हैं और अकेलेपन में मेरा मन बहलाते हैं। लोग आमतौर पर अपने पालतू जानवरों के साथ खेलकर, उन्हें खिलाकर, सैर पर ले जाकर, उन्हें सँवारकर, या बस गले लगाकर और बात करके समय बिताते हैं।"
+            },
+            {
+              "qEn": "You must have read stories where animals and birds talk. If you had a chance to communicate with an animal or a bird, who would you like to speak to and why?",
+              "qHi": "आपने ऐसी कहानियाँ ज़रूर पढ़ी होंगी जिनमें जानवर और पक्षी बात करते हैं। अगर आपको किसी जानवर या पक्षी से बात करने का मौका मिले, तो आप किससे बात करना चाहेंगे और क्यों?",
+              "aEn": "I would love to talk to a dolphin because they are known for their intelligence and playful nature. I want to ask them what they see deep under the ocean and how they communicate across long distances using sounds.",
+              "aHi": "मैं डॉल्फ़िन से बात करना चाहूँगा/चाहूँगी क्योंकि वे अपनी बुद्धिमत्ता और चंचल स्वभाव के लिए जाने जाते हैं। मैं उनसे पूछना चाहता/चाहती हूँ कि वे समुद्र की गहराई में क्या देखते हैं और ध्वनियों का उपयोग करके लंबी दूरी तक कैसे संवाद करते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "Why did the Cat's-food-Man suggest that Dr. Dolittle should become an animal doctor?",
+              "qHi": "बिल्ली-का-खाना-बेचने वाले ने डॉ. डूलिटल को पशु चिकित्सक बनने का सुझाव क्यों दिया?",
+              "aEn": "The Cat's-food-Man suggested this because he noticed that Dr. Dolittle knew much more about animals than the local veterinarian. Seeing how many animals the Doctor kept at home and how well he cared for them, the man believed he would make a far better animal doctor.",
+              "aHi": "बिल्ली-का-खाना-बेचने वाले ने यह सुझाव इसलिए दिया क्योंकि उसने देखा कि डॉ. डूलिटल स्थानीय पशु चिकित्सक से कहीं ज़्यादा जानवरों के बारे में जानते थे। डॉक्टर के घर में इतने सारे जानवरों को देखकर और उनकी देखभाल देखकर, उस आदमी को लगा कि वे एक बहुत बेहतर पशु चिकित्सक बनेंगे।"
+            },
+            {
+              "qEn": "What secret did Polynesia reveal to Dr. Dolittle?",
+              "qHi": "पोलिनेशिया ने डॉ. डूलिटल को क्या रहस्य बताया?",
+              "aEn": "Polynesia revealed the secret that animals can talk. She told the Doctor that animals have their own languages — parrots can speak both human language and bird-language. She offered to teach him animal-language so he could understand his animal patients.",
+              "aHi": "पोलिनेशिया ने यह रहस्य बताया कि जानवर बात कर सकते हैं। उसने डॉक्टर को बताया कि जानवरों की अपनी भाषाएँ होती हैं — तोते मनुष्यों की भाषा और पक्षी-भाषा दोनों बोल सकते हैं। उसने डॉक्टर को जानवरों की भाषा सिखाने की पेशकश की ताकि वे अपने जानवर मरीज़ों को समझ सकें।"
+            },
+            {
+              "qEn": "How did Dr. Dolittle learn to communicate with animals?",
+              "qHi": "डॉ. डूलिटल ने जानवरों से संवाद करना कैसे सीखा?",
+              "aEn": "Polynesia the parrot taught Dr. Dolittle the language of animals. She started with the ABC of bird-language, then taught him how dogs communicate with their tails, how horses speak with their ears, and many other things. The Doctor wrote everything in a big notebook.",
+              "aHi": "पोलिनेशिया तोते ने डॉ. डूलिटल को जानवरों की भाषा सिखाई। उसने पक्षी-भाषा की एबीसी से शुरुआत की, फिर सिखाया कि कुत्ते अपनी पूँछ से कैसे संवाद करते हैं, घोड़े अपने कानों से कैसे बोलते हैं, और बहुत सी अन्य चीज़ें। डॉक्टर ने सब कुछ एक बड़ी नोटबुक में लिख लिया।"
+            },
+            {
+              "qEn": "What happened after animals learned about Dr. Dolittle's ability?",
+              "qHi": "जब जानवरों को डॉ. डूलिटल की क्षमता के बारे में पता चला तो क्या हुआ?",
+              "aEn": "After the news spread that Dr. Dolittle could understand animal talk, animals came from far and wide — horses, calves, dogs, cats, birds, and even fish — to be treated by him. He became the most famous animal doctor in the world, and his garden became a resting place for birds from all over.",
+              "aHi": "जब यह खबर फैली कि डॉ. डूलिटल जानवरों की बात समझ सकते हैं, तो दूर-दूर से जानवर आने लगे — घोड़े, बछड़े, कुत्ते, बिल्लियाँ, पक्षी, और यहाँ तक कि मछलियाँ — उनसे इलाज करवाने। वे दुनिया के सबसे प्रसिद्ध पशु चिकित्सक बन गए, और उनका बगीचा चारों ओर से आने वाले पक्षियों का विश्राम स्थल बन गया।"
+            },
+            {
+              "qEn": "Do you think Dr. Dolittle would be famous as an animal doctor? If yes, why?",
+              "qHi": "क्या आपको लगता है कि डॉ. डूलिटल एक पशु चिकित्सक के रूप में प्रसिद्ध होंगे? अगर हाँ, तो क्यों?",
+              "aEn": "Yes, Dr. Dolittle would definitely be famous because he could communicate with animals in their own languages, which allowed him to understand their exact problems. No other doctor in the world had this ability. Animals would trust him and spread the word, making him the most sought-after animal doctor.",
+              "aHi": "हाँ, डॉ. डूलिटल निश्चित रूप से प्रसिद्ध होंगे क्योंकि वे जानवरों से उनकी अपनी भाषाओं में बात कर सकते थे, जिससे वे उनकी सटीक समस्याओं को समझ सकते थे। दुनिया में किसी और डॉक्टर के पास यह क्षमता नहीं थी। जानवर उन पर भरोसा करते और बात फैलाते, जिससे वे सबसे लोकप्रिय पशु चिकित्सक बनते।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "What qualities of Dr. Dolittle made him a good animal doctor?",
+              "qHi": "डॉ. डूलिटल के किन गुणों ने उन्हें एक अच्छा पशु चिकित्सक बनाया?",
+              "aEn": "Dr. Dolittle had several qualities that made him an excellent animal doctor: (1) Compassion — he genuinely cared for all creatures. (2) Curiosity — he was eager to learn animal languages. (3) Patience — he carefully wrote down everything Polynesia taught him. (4) Knowledge — he was already a qualified physician. (5) Humility — he was willing to change his career based on good advice.",
+              "aHi": "डॉ. डूलिटल में कई गुण थे जिन्होंने उन्हें एक उत्कृष्ट पशु चिकित्सक बनाया: (1) करुणा — वे सभी प्राणियों की सच्ची परवाह करते थे। (2) जिज्ञासा — वे जानवरों की भाषाएँ सीखने के लिए उत्सुक थे। (3) धैर्य — उन्होंने पोलिनेशिया ने जो कुछ सिखाया, सब ध्यानपूर्वक लिख लिया। (4) ज्ञान — वे पहले से एक योग्य चिकित्सक थे। (5) विनम्रता — वे अच्छी सलाह के आधार पर अपना करियर बदलने को तैयार थे।"
+            },
+            {
+              "qEn": "Why is communication important between humans and animals? How do animals communicate in real life?",
+              "qHi": "मनुष्यों और जानवरों के बीच संवाद क्यों महत्वपूर्ण है? वास्तविक जीवन में जानवर कैसे संवाद करते हैं?",
+              "aEn": "Communication between humans and animals is important because it helps us understand their needs, feelings, and health conditions. In real life, animals communicate through body language (tail wagging, ear positions), sounds (barking, purring, chirping), scent marking, and facial expressions. Scientists study animal behaviour to understand these signals better.",
+              "aHi": "मनुष्यों और जानवरों के बीच संवाद महत्वपूर्ण है क्योंकि इससे हमें उनकी ज़रूरतों, भावनाओं और स्वास्थ्य स्थितियों को समझने में मदद मिलती है। वास्तविक जीवन में, जानवर शारीरिक भाषा (पूँछ हिलाना, कान की स्थिति), ध्वनियों (भौंकना, गुर्राना, चहचहाना), गंध चिह्नों और चेहरे के भावों के माध्यम से संवाद करते हैं। वैज्ञानिक इन संकेतों को बेहतर समझने के लिए जानवरों के व्यवहार का अध्ययन करते हैं।"
+            },
+            {
+              "qEn": "The story belongs to the genre of fantasy. What elements make it a fantasy?",
+              "qHi": "यह कहानी कल्पना (फ़ैंटेसी) विधा की है। कौन से तत्व इसे फ़ैंटेसी बनाते हैं?",
+              "aEn": "Several elements make this a fantasy: (1) Animals talking to humans in proper language — this doesn't happen in real life. (2) A parrot teaching a human to understand all animal languages — this is imaginative. (3) Animals from far and wide coming to one doctor — exaggeration for humorous effect. Despite these fantastical elements, the story's core themes of compassion and communication are very real.",
+              "aHi": "कई तत्व इसे फ़ैंटेसी बनाते हैं: (1) जानवरों का मनुष्यों से सही भाषा में बात करना — यह वास्तविक जीवन में नहीं होता। (2) एक तोते द्वारा मनुष्य को सभी जानवरों की भाषाएँ सिखाना — यह कल्पनात्मक है। (3) दूर-दूर से जानवरों का एक डॉक्टर के पास आना — हास्यपूर्ण अतिशयोक्ति। इन काल्पनिक तत्वों के बावजूद, कहानी के मुख्य विषय — करुणा और संवाद — बहुत वास्तविक हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Match the words with their meanings: physician, veterinary, communicate, remedy, fascinated.",
+              "qHi": "शब्दों को उनके अर्थों से मिलाओ: physician (चिकित्सक), veterinary (पशु चिकित्सा), communicate (संवाद करना), remedy (उपचार), fascinated (मोहित)।",
+              "aEn": "Physician — a doctor who treats human patients. Veterinary — relating to the treatment of animal diseases. Communicate — to exchange information or talk. Remedy — a medicine or treatment for a disease. Fascinated — deeply attracted or interested in something.",
+              "aHi": "Physician (चिकित्सक) — एक डॉक्टर जो मानव रोगियों का इलाज करता है। Veterinary (पशु चिकित्सा) — पशु रोगों के उपचार से संबंधित। Communicate (संवाद करना) — जानकारी का आदान-प्रदान या बात करना। Remedy (उपचार) — किसी बीमारी के लिए दवा या इलाज। Fascinated (मोहित) — किसी चीज़ में गहरी रुचि या आकर्षण।"
+            },
+            {
+              "qEn": "Find words from the story that describe animal sounds.",
+              "qHi": "कहानी से जानवरों की आवाज़ों का वर्णन करने वाले शब्द खोजो।",
+              "aEn": "Squawk — a loud, harsh sound made by a bird. Screech — a high-pitched, piercing sound. Gibberish — meaningless sounds or talk. Laughing — used for Polynesia's reaction when she told the Doctor animals can talk.",
+              "aHi": "Squawk (कर्कश आवाज़) — एक पक्षी द्वारा की गई तेज़, कठोर आवाज़। Screech (चीख) — एक ऊँची, भेदने वाली आवाज़। Gibberish (अर्थहीन बोली) — अर्थहीन ध्वनियाँ या बातें। Laughing (हँसना) — पोलिनेशिया की प्रतिक्रिया जब उसने डॉक्टर को बताया कि जानवर बात कर सकते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Role-play: One student is Dr. Dolittle and another is Polynesia. Act out the conversation where Polynesia convinces the Doctor to become an animal doctor.",
+              "qHi": "भूमिका अभिनय: एक छात्र डॉ. डूलिटल है और दूसरा पोलिनेशिया है। उस बातचीत का अभिनय करो जहाँ पोलिनेशिया डॉक्टर को पशु चिकित्सक बनने के लिए मनाता है।",
+              "aEn": "Polynesia: 'Doctor, you should give up treating people and become an animal doctor!' Dr. Dolittle: 'But how will I understand what the animals are saying?' Polynesia: 'Animals can talk! I speak two languages — people's language and bird-language. Let me teach you!' Dr. Dolittle: 'This is amazing! Please, start teaching me right away!'",
+              "aHi": "पोलिनेशिया: 'डॉक्टर, आपको लोगों का इलाज करना छोड़कर पशु चिकित्सक बन जाना चाहिए!' डॉ. डूलिटल: 'लेकिन मैं कैसे समझूँगा कि जानवर क्या कह रहे हैं?' पोलिनेशिया: 'जानवर बात कर सकते हैं! मैं दो भाषाएँ बोलता हूँ — लोगों की भाषा और पक्षी-भाषा। मुझे आपको सिखाने दीजिए!' डॉ. डूलिटल: 'यह तो अद्भुत है! कृपया, अभी से सिखाना शुरू करो!'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 5,
+      "titleEn": "A Funny Man",
+      "titleHi": "एक अजीब आदमी",
+      "author": "Natalie Joan",
+      "localDictionary": {
+        "funny": "अजीब / हास्यास्पद",
+        "polite": "विनम्र / शिष्ट",
+        "manners": "शिष्टाचार / तौर-तरीके",
+        "present": "भेंट देना / प्रस्तुत करना",
+        "highness": "महामहिम",
+        "currant": "किशमिश / सूखा अंगूर",
+        "bun": "गोल रोटी / बन",
+        "staggered": "लड़खड़ाया / डगमगाया",
+        "sight": "दृश्य / नज़ारा",
+        "sounding": "सुनने वाला / ध्वनि जैसा",
+        "hopped": "कूदता हुआ गया",
+        "wore": "पहना हुआ था",
+        "raised": "ऊपर उठाया",
+        "allow": "अनुमति देना",
+        "rose": "गुलाब",
+        "ground": "ज़मीन",
+        "smell": "गंध / सूँघना"
+      },
+      "content": [
+        {
+          "id": "c5-p1",
+          "type": "text",
+          "en": "One day a funny kind of man\nCame walking down this street.\nHe wore a shoe upon his head,\nAnd hats upon his feet.",
+          "hi": "एक दिन एक अजीब तरह का आदमी\nइस सड़क पर चलते हुए आया।\nउसने अपने सिर पर जूता पहना हुआ था,\nऔर पैरों में टोपियाँ।"
+        },
+        {
+          "id": "c5-p2",
+          "type": "text",
+          "en": "He raised the shoe and smiled at me,\nHis manners were polite;\nBut never had I seen before\nSuch a funny sounding sight.",
+          "hi": "उसने जूता उठाया और मुझे देखकर मुस्कुराया,\nउसके शिष्टाचार विनम्र थे;\nलेकिन मैंने पहले कभी नहीं देखा था\nऐसा अजीब सुनने वाला दृश्य।"
+        },
+        {
+          "id": "c5-p3",
+          "type": "text",
+          "en": "He said, \"Allow me to present\nYour Highness with a rose.\"\nAnd taking out a currant bun,\nHe held it to my nose.",
+          "hi": "उसने कहा, \"मुझे अनुमति दें\nमहामहिम को एक गुलाब भेंट करने की।\"\nऔर एक किशमिश का बन निकालकर,\nउसने इसे मेरी नाक के पास रखा।"
+        },
+        {
+          "id": "c5-p4",
+          "type": "text",
+          "en": "I staggered back against the wall,\nAnd then I answered, \"Well!\nI never saw a rose with such\nA funny looking smell.\"",
+          "hi": "मैं लड़खड़ाकर दीवार से टिक गया,\nऔर फिर मैंने जवाब दिया, \"अरे!\nमैंने कभी ऐसा गुलाब नहीं देखा\nजिसकी इतनी अजीब दिखने वाली गंध हो।\""
+        },
+        {
+          "id": "c5-p5",
+          "type": "text",
+          "en": "He then began to sing a song,\nAnd sat down on the ground;\nYou never heard in all your life\nSuch a funny feeling sound.",
+          "hi": "फिर उसने एक गाना गाना शुरू किया,\nऔर ज़मीन पर बैठ गया;\nतुमने अपनी पूरी ज़िंदगी में कभी नहीं सुनी होगी\nऐसी अजीब महसूस होने वाली आवाज़।"
+        },
+        {
+          "id": "c5-p6",
+          "type": "text",
+          "en": "\"My friend, why do you wear two hats\nUpon your feet?\" I said.\nHe turned the other way about,\nAnd hopped home on his head.",
+          "hi": "\"मेरे दोस्त, तुम दो टोपियाँ क्यों पहनते हो\nअपने पैरों पर?\" मैंने कहा।\nवह दूसरी तरफ़ मुड़ गया,\nऔर अपने सिर पर कूदते हुए घर चला गया।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Have you ever seen someone wearing clothes in a funny or unusual way? What happened?",
+              "qHi": "क्या आपने कभी किसी को अजीब या असामान्य तरीके से कपड़े पहने देखा है? क्या हुआ?",
+              "aEn": "Yes, during a fancy dress competition, a boy wore his shirt backwards and his shoes on the wrong feet as part of his costume. Everyone laughed because he looked so funny walking around. It reminds us that sometimes doing things differently can be entertaining.",
+              "aHi": "हाँ, एक फैंसी ड्रेस प्रतियोगिता के दौरान, एक लड़के ने अपनी शर्ट उल्टी पहनी और जूते गलत पैरों में पहने। हर कोई हँसा क्योंकि वह इधर-उधर चलते हुए बहुत मज़ेदार लग रहा था। यह हमें याद दिलाता है कि कभी-कभी चीज़ें अलग तरीके से करना मनोरंजक हो सकता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What was unusual about the funny man's appearance?",
+              "qHi": "अजीब आदमी के दिखावे में क्या असामान्य था?",
+              "aEn": "The funny man wore a shoe on his head instead of a hat, and hats on his feet instead of shoes. Everything about him was topsy-turvy — he mixed up what goes where, creating a comical appearance.",
+              "aHi": "अजीब आदमी ने टोपी की जगह सिर पर जूता पहना हुआ था, और जूतों की जगह पैरों में टोपियाँ। उसके बारे में सब कुछ उल्टा-पुल्टा था — उसने चीज़ों को गलत जगह पहना, जिससे एक हास्यपूर्ण दिखावट बनी।"
+            },
+            {
+              "qEn": "What did the man offer the speaker? What was actually given?",
+              "qHi": "आदमी ने वक्ता को क्या देने की पेशकश की? वास्तव में क्या दिया गया?",
+              "aEn": "The man said he was presenting a rose to the speaker, but he actually took out a currant bun and held it to the speaker's nose. This mix-up between what he said and what he did is part of the poem's humour.",
+              "aHi": "आदमी ने कहा कि वह वक्ता को गुलाब भेंट कर रहा है, लेकिन वास्तव में उसने एक किशमिश का बन निकाला और वक्ता की नाक के पास रखा। उसने जो कहा और जो किया उसमें यह गड़बड़ कविता के हास्य का हिस्सा है।"
+            },
+            {
+              "qEn": "How did the funny man leave at the end?",
+              "qHi": "अजीब आदमी अंत में कैसे गया?",
+              "aEn": "When the speaker asked why he wore hats on his feet, the funny man turned the other way around and hopped home on his head! This final absurd image is the climax of the poem's humour.",
+              "aHi": "जब वक्ता ने पूछा कि वह पैरों पर टोपियाँ क्यों पहनता है, तो अजीब आदमी दूसरी तरफ़ मुड़ गया और अपने सिर पर कूदते हुए घर चला गया! यह अंतिम बेतुकी छवि कविता के हास्य का चरम बिंदु है।"
+            },
+            {
+              "qEn": "What is the meaning of 'a funny sounding sight'? Why is this expression humorous?",
+              "qHi": "'a funny sounding sight' (एक अजीब सुनने वाला दृश्य) का क्या अर्थ है? यह अभिव्यक्ति हास्यपूर्ण क्यों है?",
+              "aEn": "The expression 'a funny sounding sight' mixes up the senses — you normally 'see' a sight, not 'hear' it. By using 'sounding' with 'sight', the poet creates a humorous confusion of senses (called synaesthesia), reflecting the topsy-turvy nature of the funny man himself.",
+              "aHi": "'a funny sounding sight' (एक अजीब सुनने वाला दृश्य) इंद्रियों को मिला देता है — आप सामान्यतः दृश्य 'देखते' हैं, 'सुनते' नहीं। 'sight' (दृश्य) के साथ 'sounding' (सुनने वाला) का प्रयोग करके, कवि इंद्रियों का एक हास्यपूर्ण भ्रम पैदा करता है (जिसे synesthesia कहते हैं), जो अजीब आदमी के उल्टे-पुल्टे स्वभाव को दर्शाता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "The poem uses mixed-up senses (seeing smells, hearing sights). Can you think of other examples of mixing up senses?",
+              "qHi": "कविता मिली-जुली इंद्रियों का उपयोग करती है (गंध देखना, दृश्य सुनना)। क्या आप इंद्रियों को मिलाने के अन्य उदाहरण सोच सकते हैं?",
+              "aEn": "Examples of mixing up senses: 'loud colours' (sight + hearing), 'sweet music' (taste + hearing), 'warm voice' (touch + hearing), 'sharp flavour' (touch + taste). This technique is used in poetry to create vivid, unusual images that delight the reader.",
+              "aHi": "इंद्रियों के मिश्रण के उदाहरण: 'तेज़ रंग' (दृष्टि + श्रवण), 'मीठा संगीत' (स्वाद + श्रवण), 'गर्म आवाज़' (स्पर्श + श्रवण), 'तीखा स्वाद' (स्पर्श + स्वाद)। इस तकनीक का उपयोग कविता में जीवंत, असामान्य चित्र बनाने के लिए किया जाता है जो पाठक को प्रसन्न करते हैं।"
+            },
+            {
+              "qEn": "Why do you think the poet wrote about such a strange character? What is the purpose of nonsense poetry?",
+              "qHi": "आपको क्या लगता है कवि ने ऐसे अजीब पात्र के बारे में क्यों लिखा? बकवास कविता का उद्देश्य क्या है?",
+              "aEn": "The poet wrote about this character to entertain and amuse readers through absurdity. Nonsense poetry serves several purposes: it makes us laugh, it challenges our expectations about what is 'normal', it encourages creativity, and it shows that literature can be playful and fun, not always serious.",
+              "aHi": "कवि ने इस पात्र के बारे में बेतुकेपन के माध्यम से पाठकों का मनोरंजन करने के लिए लिखा। बकवास कविता कई उद्देश्यों को पूरा करती है: यह हमें हँसाती है, 'सामान्य' क्या है इसकी हमारी अपेक्षाओं को चुनौती देती है, रचनात्मकता को प्रोत्साहित करती है, और दिखाती है कि साहित्य चंचल और मज़ेदार हो सकता है, हमेशा गंभीर नहीं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find pairs of rhyming words from the poem.",
+              "qHi": "कविता से तुकांत शब्दों के जोड़े खोजो।",
+              "aEn": "The rhyming pairs are: (i) man – (no direct rhyme, but internal rhythm) (ii) street – feet (iii) me – (internal) (iv) polite – sight (v) present – (internal) (vi) rose – nose (vii) wall – (no external) (viii) well – smell (ix) song – (internal) (x) ground – sound (xi) hats – (internal) (xii) said – head.",
+              "aHi": "तुकांत जोड़े हैं: (i) street (सड़क) – feet (पैर) (ii) polite (विनम्र) – sight (दृश्य) (iii) rose (गुलाब) – nose (नाक) (iv) well (खैर) – smell (गंध) (v) ground (ज़मीन) – sound (आवाज़) (vi) said (कहा) – head (सिर)।"
+            },
+            {
+              "qEn": "What figure of speech is used in 'a funny looking smell'?",
+              "qHi": "'a funny looking smell' (अजीब दिखने वाली गंध) में कौन सा अलंकार प्रयोग हुआ है?",
+              "aEn": "This is an example of 'synaesthesia' or 'transferred epithet' — where an adjective associated with one sense (sight — 'looking') is applied to another sense (smell). It creates a humorous absurdity because you cannot 'look at' a smell.",
+              "aHi": "यह 'synesthesia' (संवेदन संक्रमण) या 'transferred epithet' (विशेषण स्थानांतरण) का उदाहरण है — जहाँ एक इंद्रिय (दृष्टि — 'दिखने वाली') से जुड़ा विशेषण दूसरी इंद्रिय (गंध) पर लागू किया गया है। यह हास्यपूर्ण बेतुकापन पैदा करता है क्योंकि आप गंध को 'देख' नहीं सकते।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Recite the poem aloud with actions. Try reading it in a funny voice. How does the recitation change the effect of the poem?",
+              "qHi": "कविता को हाव-भाव के साथ ज़ोर से पढ़ो। इसे मज़ेदार आवाज़ में पढ़ने की कोशिश करो। पाठ कविता के प्रभाव को कैसे बदलता है?",
+              "aEn": "Reading the poem with funny voices and exaggerated actions makes it even more entertaining. When you mime putting a shoe on your head and hop around, the audience laughs more. The performance brings the absurd situations to life in a way that reading silently cannot achieve.",
+              "aHi": "कविता को मज़ेदार आवाज़ों और अतिरंजित हाव-भावों के साथ पढ़ने से यह और भी अधिक मनोरंजक हो जाती है। जब आप सिर पर जूता रखने का अभिनय करते हैं और चारों ओर कूदते हैं, तो दर्शक और अधिक हँसते हैं। प्रदर्शन बेतुकी स्थितियों को इस तरह जीवंत कर देता है जो चुपचाप पढ़ने से संभव नहीं होता।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 6,
+      "titleEn": "Say the Right Thing",
+      "titleHi": "सही बात कहो",
+      "author": "Anonymous",
+      "localDictionary": {
+        "etiquette": "शिष्टाचार / आचार-विचार",
+        "tact": "कुशलता / चतुराई",
+        "blunder": "भारी भूल / ग़लती",
+        "tactless": "बेतकल्लुफ़ / अविवेकी",
+        "impression": "छाप / प्रभाव",
+        "embarrass": "शर्मिंदा करना",
+        "guest": "अतिथि / मेहमान",
+        "polite": "विनम्र / शिष्ट",
+        "conversation": "बातचीत",
+        "insult": "अपमान करना",
+        "hostess": "मेज़बान महिला",
+        "remark": "टिप्पणी",
+        "awkward": "अजीब / असहज",
+        "anxious": "चिंतित / उत्सुक",
+        "career": "पेशा / कैरियर",
+        "habit": "आदत",
+        "compliment": "तारीफ़ / प्रशंसा",
+        "lively": "जीवंत / चुलबुली",
+        "conscious": "सचेत / जागरूक",
+        "coach": "सिखाना / प्रशिक्षित करना",
+        "behave": "व्यवहार करना"
+      },
+      "content": [
+        {
+          "id": "c6-p1",
+          "type": "text",
+          "en": "Mrs. Shaw was expecting two guests for tea — Mrs. Harding and her sister Mrs. Lee. She was very anxious to make a good impression because Mrs. Harding was a wealthy and important lady in town.",
+          "hi": "श्रीमती शॉ चाय के लिए दो मेहमानों की प्रतीक्षा कर रही थीं — श्रीमती हार्डिंग और उनकी बहन श्रीमती ली। वह अच्छा प्रभाव डालने के लिए बहुत चिंतित थीं क्योंकि श्रीमती हार्डिंग शहर की एक धनी और महत्वपूर्ण महिला थीं।"
+        },
+        {
+          "id": "c6-p2",
+          "type": "text",
+          "en": "\"Mary,\" said Mrs. Shaw to her daughter, \"when Mrs. Harding and Mrs. Lee come this afternoon, I want you to be on your very best behaviour. You must say the right thing at the right time. Don't say anything silly. Just be polite and pleasant.\"",
+          "hi": "\"मैरी,\" श्रीमती शॉ ने अपनी बेटी से कहा, \"जब श्रीमती हार्डिंग और श्रीमती ली आज दोपहर आएँ, तो मैं चाहती हूँ कि तुम अपना सबसे अच्छा व्यवहार दिखाओ। तुम्हें सही समय पर सही बात कहनी होगी। कोई मूर्खतापूर्ण बात मत कहना। बस विनम्र और सुखद रहो।\""
+        },
+        {
+          "id": "c6-p3",
+          "type": "text",
+          "en": "\"Yes, Mother,\" said Mary eagerly. She was a lively, talkative girl and was excited about meeting the guests. \"I'll say only the right things. I promise.\"",
+          "hi": "\"हाँ, माँ,\" मैरी ने उत्सुकता से कहा। वह एक जीवंत, बातूनी लड़की थी और मेहमानों से मिलने को लेकर उत्साहित थी। \"मैं बस सही बातें ही कहूँगी। मैं वादा करती हूँ।\""
+        },
+        {
+          "id": "c6-p4",
+          "type": "text",
+          "en": "The guests arrived and Mrs. Shaw welcomed them warmly. Mary was introduced, and she smiled sweetly. \"What a pretty girl,\" said Mrs. Harding. \"And how old is she?\" \"She is twelve,\" replied Mrs. Shaw proudly.",
+          "hi": "मेहमान आ गईं और श्रीमती शॉ ने उनका गर्मजोशी से स्वागत किया। मैरी का परिचय कराया गया, और उसने प्यार से मुस्कुराई। \"कितनी सुंदर लड़की है,\" श्रीमती हार्डिंग ने कहा। \"और यह कितने साल की है?\" \"वह बारह साल की है,\" श्रीमती शॉ ने गर्व से जवाब दिया।"
+        },
+        {
+          "id": "c6-p5",
+          "type": "text",
+          "en": "\"Do you like school, Mary?\" asked Mrs. Harding. \"Oh yes,\" said Mary. \"I love school. Mother says I talk too much at school, but I can't help it. My teacher says I have the gift of the gab.\"",
+          "hi": "\"क्या तुम्हें स्कूल पसंद है, मैरी?\" श्रीमती हार्डिंग ने पूछा। \"अरे हाँ,\" मैरी ने कहा। \"मुझे स्कूल बहुत पसंद है। माँ कहती हैं कि मैं स्कूल में बहुत बोलती हूँ, लेकिन मैं इसमें मदद नहीं कर सकती। मेरी शिक्षिका कहती हैं कि मुझमें बात करने की कला है।\""
+        },
+        {
+          "id": "c6-p6",
+          "type": "text",
+          "en": "Mrs. Shaw frowned slightly. Mary was supposed to be on her best behaviour, not boasting! But it got worse. \"Do you have children, Mrs. Harding?\" asked Mary, trying to be polite. \"Yes, I have a son, Harold,\" Mrs. Harding replied. \"Oh!\" said Mary brightly. \"Mother says Harold is terribly spoiled. Is he really?\"",
+          "hi": "श्रीमती शॉ ने हल्की सी भौंहें सिकोड़ीं। मैरी को अपना सबसे अच्छा व्यवहार दिखाना था, शेखी नहीं बघारनी थी! लेकिन बात और बिगड़ गई। \"क्या आपके बच्चे हैं, श्रीमती हार्डिंग?\" मैरी ने विनम्र होने की कोशिश में पूछा। \"हाँ, मेरा एक बेटा है, हेरॉल्ड,\" श्रीमती हार्डिंग ने जवाब दिया। \"अरे!\" मैरी ने उत्साह से कहा। \"माँ कहती हैं कि हेरॉल्ड बहुत बिगड़ा हुआ है। क्या वह सच में है?\""
+        },
+        {
+          "id": "c6-p7",
+          "type": "text",
+          "en": "Mrs. Shaw turned red with embarrassment. Mrs. Harding looked shocked, and Mrs. Lee coughed uncomfortably. \"Mary!\" said Mrs. Shaw sharply. But Mary continued, quite unaware of the damage she was causing.",
+          "hi": "श्रीमती शॉ शर्मिंदगी से लाल हो गईं। श्रीमती हार्डिंग स्तब्ध दिखीं, और श्रीमती ली ने असहज होकर खांसा। \"मैरी!\" श्रीमती शॉ ने तेज़ी से कहा। लेकिन मैरी ने आगे बोलना जारी रखा, बिल्कुल अनजान कि वह कितना नुकसान पहुँचा रही थी।"
+        },
+        {
+          "id": "c6-p8",
+          "type": "text",
+          "en": "\"And Mrs. Lee,\" Mary turned to the other guest, \"Mother told me that your husband lost his job. Has he found another one yet?\" There was a terrible silence. Mrs. Lee's face went pale. Mrs. Shaw wished the ground would open up and swallow her.",
+          "hi": "\"और श्रीमती ली,\" मैरी दूसरी मेहमान की ओर मुड़ी, \"माँ ने मुझे बताया कि आपके पति ने अपनी नौकरी खो दी। क्या उन्हें अभी तक कोई दूसरी मिली?\" एक भयानक सन्नाटा छा गया। श्रीमती ली का चेहरा फीका पड़ गया। श्रीमती शॉ ने चाहा कि ज़मीन फट जाए और उन्हें निगल ले।"
+        },
+        {
+          "id": "c6-p9",
+          "type": "text",
+          "en": "Finally, when the guests were about to leave, Mrs. Shaw said, \"Won't you stay a little longer?\" Mary, trying to be helpful, added, \"Oh yes, please don't go yet! Mother said she hoped you would leave early, but I don't want you to go!\"",
+          "hi": "अंत में, जब मेहमान जाने वाली थीं, श्रीमती शॉ ने कहा, \"क्या आप थोड़ी देर और नहीं रुकेंगी?\" मैरी ने, मददगार बनने की कोशिश में, जोड़ा, \"अरे हाँ, कृपया अभी मत जाइए! माँ ने कहा था कि उन्हें उम्मीद है कि आप जल्दी चली जाएँगी, लेकिन मैं नहीं चाहती कि आप जाएँ!\""
+        },
+        {
+          "id": "c6-p10",
+          "type": "text",
+          "en": "Mrs. Shaw could say nothing. Mrs. Harding and Mrs. Lee left quickly, and Mrs. Shaw sank into her chair. \"Oh, Mary!\" she said. \"When will you learn to say the right thing?\"",
+          "hi": "श्रीमती शॉ कुछ न कह सकीं। श्रीमती हार्डिंग और श्रीमती ली जल्दी से चली गईं, और श्रीमती शॉ अपनी कुर्सी में धँस गईं। \"अरे, मैरी!\" उन्होंने कहा। \"तुम कब सीखोगी सही बात कहना?\""
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Have you ever said something that embarrassed your parents or made others uncomfortable? What happened?",
+              "qHi": "क्या आपने कभी ऐसा कुछ कहा है जिससे आपके माता-पिता शर्मिंदा हुए या दूसरों को असहज महसूस हुआ? क्या हुआ?",
+              "aEn": "Yes, once when a relative visited us, I told them that my mother had been complaining about their last visit. My mother was very embarrassed and later explained that some things should be kept private and not shared with others.",
+              "aHi": "हाँ, एक बार जब एक रिश्तेदार हमसे मिलने आए, तो मैंने उन्हें बताया कि मेरी माँ उनकी पिछली मुलाकात की शिकायत कर रही थीं। मेरी माँ बहुत शर्मिंदा हुईं और बाद में समझाया कि कुछ बातें निजी रखनी चाहिए और दूसरों के साथ साझा नहीं करनी चाहिए।"
+            },
+            {
+              "qEn": "Why is it important to think before we speak?",
+              "qHi": "बोलने से पहले सोचना क्यों ज़रूरी है?",
+              "aEn": "It is important to think before we speak because careless words can hurt people's feelings, damage relationships, and create misunderstandings. Words once spoken cannot be taken back. Thinking before speaking shows maturity, respect for others, and social awareness.",
+              "aHi": "बोलने से पहले सोचना ज़रूरी है क्योंकि लापरवाह शब्द लोगों की भावनाओं को ठेस पहुँचा सकते हैं, रिश्तों को नुकसान पहुँचा सकते हैं, और गलतफ़हमियाँ पैदा कर सकते हैं। एक बार बोले गए शब्द वापस नहीं लिए जा सकते। बोलने से पहले सोचना परिपक्वता, दूसरों के प्रति सम्मान और सामाजिक जागरूकता दर्शाता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What did Mrs. Shaw ask Mary to do before the guests arrived?",
+              "qHi": "मेहमानों के आने से पहले श्रीमती शॉ ने मैरी से क्या करने को कहा?",
+              "aEn": "Mrs. Shaw asked Mary to be on her very best behaviour. She told her to say the right thing at the right time, not say anything silly, and be polite and pleasant with the guests.",
+              "aHi": "श्रीमती शॉ ने मैरी से अपना सबसे अच्छा व्यवहार दिखाने को कहा। उन्होंने कहा कि वह सही समय पर सही बात कहे, कोई मूर्खतापूर्ण बात न कहे, और मेहमानों के साथ विनम्र और सुखद रहे।"
+            },
+            {
+              "qEn": "List the blunders Mary made during the tea party.",
+              "qHi": "चाय पार्टी के दौरान मैरी ने कौन-कौन सी गलतियाँ कीं, उनकी सूची बनाओ।",
+              "aEn": "Mary made several blunders: (1) She boasted about talking too much at school. (2) She told Mrs. Harding that her mother said Harold was spoiled. (3) She asked Mrs. Lee about her husband losing his job. (4) She accidentally revealed that her mother wanted the guests to leave early.",
+              "aHi": "मैरी ने कई गलतियाँ कीं: (1) उसने स्कूल में ज़्यादा बोलने की शेखी बघारी। (2) उसने श्रीमती हार्डिंग को बताया कि माँ कहती हैं हेरॉल्ड बिगड़ा हुआ है। (3) उसने श्रीमती ली से उनके पति की नौकरी खोने के बारे में पूछा। (4) उसने अनजाने में बता दिया कि माँ चाहती थीं कि मेहमान जल्दी चले जाएँ।"
+            },
+            {
+              "qEn": "How did Mrs. Shaw feel after Mary's remarks?",
+              "qHi": "मैरी की टिप्पणियों के बाद श्रीमती शॉ को कैसा लगा?",
+              "aEn": "Mrs. Shaw felt deeply embarrassed, shocked, and helpless. She turned red, frowned, and wished the ground would swallow her up. After the guests left, she sank into her chair in despair, wondering if Mary would ever learn to say the right thing.",
+              "aHi": "श्रीमती शॉ बहुत शर्मिंदा, स्तब्ध और असहाय महसूस कर रही थीं। वह लाल हो गईं, भौंहें सिकोड़ीं, और चाहती थीं कि ज़मीन उन्हें निगल ले। मेहमानों के जाने के बाद, वह निराशा में अपनी कुर्सी में धँस गईं, सोचते हुए कि क्या मैरी कभी सही बात कहना सीखेगी।"
+            },
+            {
+              "qEn": "Why was the last remark by Mary the worst of all?",
+              "qHi": "मैरी की आखिरी टिप्पणी सबसे बुरी क्यों थी?",
+              "aEn": "The last remark was the worst because Mary, while trying to ask the guests to stay, accidentally revealed that her mother had hoped they would leave early. This contradicted Mrs. Shaw's polite request for them to stay longer, making everyone realize that the hospitality was not genuine.",
+              "aHi": "आखिरी टिप्पणी सबसे बुरी थी क्योंकि मैरी ने, मेहमानों से रुकने के लिए कहने की कोशिश में, अनजाने में बता दिया कि माँ चाहती थीं कि वे जल्दी चली जाएँ। यह श्रीमती शॉ के विनम्र अनुरोध का खंडन करता था, जिससे सबको पता चल गया कि आतिथ्य सच्चा नहीं था।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Was Mary intentionally rude, or did she genuinely not understand what she was doing wrong?",
+              "qHi": "क्या मैरी जानबूझकर असभ्य थी, या उसे सच में समझ नहीं आया कि वह क्या गलत कर रही थी?",
+              "aEn": "Mary was not intentionally rude — she genuinely did not understand the impact of her words. She was an honest, innocent child who repeated what she had heard at home without realizing these were private conversations. The play highlights that honesty without tact can cause more harm than good.",
+              "aHi": "मैरी जानबूझकर असभ्य नहीं थी — उसे सच में अपने शब्दों के प्रभाव की समझ नहीं थी। वह एक ईमानदार, मासूम बच्ची थी जिसने घर में सुनी बातें दोहरा दीं बिना यह जाने कि ये निजी बातचीत थीं। यह नाटक दर्शाता है कि बिना चतुराई के ईमानदारी लाभ से अधिक नुकसान कर सकती है।"
+            },
+            {
+              "qEn": "What lesson does this play teach about the power of words?",
+              "qHi": "यह नाटक शब्दों की शक्ति के बारे में क्या सबक सिखाता है?",
+              "aEn": "The play teaches that words have immense power — they can comfort or hurt, build or destroy relationships. It shows that we must be careful about what we say, especially in social situations. Saying the 'right thing' means being truthful but also kind, aware of others' feelings, and sensitive to the context.",
+              "aHi": "यह नाटक सिखाता है कि शब्दों में अपार शक्ति होती है — वे सांत्वना दे सकते हैं या चोट पहुँचा सकते हैं, रिश्ते बना सकते हैं या तोड़ सकते हैं। यह दिखाता है कि हमें सावधान रहना चाहिए कि हम क्या कहते हैं, खासकर सामाजिक स्थितियों में। 'सही बात' कहने का मतलब है सच बोलना लेकिन दयालु भी होना, दूसरों की भावनाओं के प्रति जागरूक होना, और संदर्भ के प्रति संवेदनशील होना।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "What is the difference between 'polite' and 'tactful'? Give examples.",
+              "qHi": "'polite' (विनम्र) और 'tactful' (चतुर/कुशल) में क्या अंतर है? उदाहरण दो।",
+              "aEn": "Being polite means having good manners and being respectful (saying 'please' and 'thank you'). Being tactful means knowing what to say and what not to say in a situation. Example: Mary was polite (she smiled and greeted guests) but she was NOT tactful (she said things that embarrassed others).",
+              "aHi": "विनम्र होने का मतलब है अच्छे शिष्टाचार रखना और सम्मानजनक होना ('कृपया' और 'धन्यवाद' कहना)। चतुर/कुशल होने का मतलब है यह जानना कि किसी स्थिति में क्या कहना चाहिए और क्या नहीं। उदाहरण: मैरी विनम्र थी (उसने मुस्कुराकर मेहमानों का अभिवादन किया) लेकिन वह चतुर नहीं थी (उसने ऐसी बातें कहीं जिनसे दूसरे शर्मिंदा हुए)।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Act out the play in groups. One person plays Mrs. Shaw, one plays Mary, and two play the guests. After the skit, discuss: What should Mary have said instead?",
+              "qHi": "समूहों में नाटक का अभिनय करो। एक व्यक्ति श्रीमती शॉ, एक मैरी, और दो मेहमान बनें। नाटिका के बाद चर्चा करो: मैरी को इसके बजाय क्या कहना चाहिए था?",
+              "aEn": "Instead of saying Harold is spoiled, Mary could have said: 'I'd love to meet Harold someday!' Instead of asking about Mr. Lee's job, she could have said: 'What do you enjoy doing, Mrs. Lee?' Instead of the final blunder, she could have simply said: 'It was lovely meeting you. Please come again soon!'",
+              "aHi": "हेरॉल्ड बिगड़ा हुआ है कहने के बजाय, मैरी कह सकती थी: 'मैं किसी दिन हेरॉल्ड से मिलना चाहूँगी!' श्री ली की नौकरी के बारे में पूछने के बजाय, वह कह सकती थी: 'श्रीमती ली, आपको क्या करना अच्छा लगता है?' आखिरी गलती के बजाय, वह बस कह सकती थी: 'आपसे मिलकर बहुत अच्छा लगा। कृपया जल्दी फिर आइए!'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

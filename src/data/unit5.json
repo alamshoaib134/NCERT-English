@@ -1,0 +1,412 @@
+{
+  "unitId": 5,
+  "unitTitleEn": "Bravehearts",
+  "unitTitleHi": "बहादुर दिल",
+  "chapters": [
+    {
+      "chapterId": 13,
+      "titleEn": "A Homage to Our Brave Soldiers",
+      "titleHi": "हमारे बहादुर सैनिकों को श्रद्धांजलि",
+      "author": "Adapted",
+      "localDictionary": {
+        "homage": "श्रद्धांजलि / सम्मान",
+        "sacrifice": "बलिदान / त्याग",
+        "patriotism": "देशभक्ति",
+        "soldier": "सैनिक / सिपाही",
+        "armed forces": "सशस्त्र बल",
+        "border": "सीमा",
+        "guard": "रक्षा करना / पहरेदार",
+        "memorial": "स्मारक",
+        "bravery": "वीरता / बहादुरी",
+        "courage": "साहस / हिम्मत",
+        "valour": "शौर्य / पराक्रम",
+        "defend": "रक्षा करना",
+        "integrity": "अखंडता",
+        "sovereignty": "संप्रभुता",
+        "tribute": "श्रद्धांजलि",
+        "duty": "कर्तव्य",
+        "uniform": "वर्दी",
+        "battlefield": "युद्ध का मैदान / रणभूमि",
+        "salute": "सलामी / नमन",
+        "medal": "पदक",
+        "nation": "राष्ट्र / देश",
+        "eternal": "शाश्वत / अमर",
+        "flame": "ज्योति / लौ"
+      },
+      "content": [
+        {
+          "id": "c13-p1",
+          "type": "text",
+          "en": "Every day, while we sleep peacefully in our beds, thousands of soldiers stand guard at India's borders. In the freezing cold of Siachen, in the scorching heat of Rajasthan's deserts, in the dense forests of the northeast — our brave soldiers keep watch day and night, protecting our motherland.",
+          "hi": "हर दिन, जब हम अपने बिस्तरों में शांति से सोते हैं, हज़ारों सैनिक भारत की सीमाओं पर पहरा देते हैं। सियाचिन की कड़ाके की ठंड में, राजस्थान के रेगिस्तान की जलती गर्मी में, पूर्वोत्तर के घने जंगलों में — हमारे बहादुर सैनिक दिन-रात पहरा देते हैं, हमारी मातृभूमि की रक्षा करते हैं।"
+        },
+        {
+          "id": "c13-p2",
+          "type": "text",
+          "en": "The Indian Armed Forces — the Army, the Navy, and the Air Force — are among the largest and most respected military forces in the world. Since independence in 1947, our soldiers have fought in many wars and operations to protect India's sovereignty and integrity.",
+          "hi": "भारतीय सशस्त्र बल — थल सेना, नौसेना और वायु सेना — दुनिया की सबसे बड़ी और सबसे सम्मानित सैन्य शक्तियों में से हैं। 1947 में स्वतंत्रता के बाद से, हमारे सैनिकों ने भारत की संप्रभुता और अखंडता की रक्षा के लिए कई युद्धों और अभियानों में लड़ाई लड़ी है।"
+        },
+        {
+          "id": "c13-p3",
+          "type": "text",
+          "en": "The National War Memorial in New Delhi stands as a tribute to all the soldiers who have given their lives for the country since independence. The names of over 26,000 soldiers are inscribed on its walls. An eternal flame, called the Amar Jawan Jyoti, burns in their memory, symbolizing the nation's gratitude that will never be extinguished.",
+          "hi": "नई दिल्ली में राष्ट्रीय युद्ध स्मारक स्वतंत्रता के बाद से देश के लिए अपने प्राण न्योछावर करने वाले सभी सैनिकों को श्रद्धांजलि के रूप में खड़ा है। इसकी दीवारों पर 26,000 से अधिक सैनिकों के नाम अंकित हैं। एक शाश्वत ज्योति, जिसे अमर जवान ज्योति कहा जाता है, उनकी स्मृति में जलती है, जो राष्ट्र की कृतज्ञता का प्रतीक है जो कभी नहीं बुझेगी।"
+        },
+        {
+          "id": "c13-p4",
+          "type": "text",
+          "en": "From Captain Vikram Batra, who gave his life during the Kargil War with the words \"Yeh Dil Maange More,\" to Major Sandeep Unnikrishnan, who sacrificed his life during the 2008 Mumbai attacks — India's military history is filled with stories of extraordinary bravery and selfless sacrifice.",
+          "hi": "कैप्टन विक्रम बत्रा से, जिन्होंने कारगिल युद्ध के दौरान \"ये दिल माँगे मोर\" कहते हुए अपने प्राण दिए, मेजर संदीप उन्नीकृष्णन तक, जिन्होंने 2008 के मुंबई हमलों में अपना बलिदान दिया — भारत का सैन्य इतिहास असाधारण वीरता और निस्वार्थ बलिदान की कहानियों से भरा है।"
+        },
+        {
+          "id": "c13-p5",
+          "type": "text",
+          "en": "We owe our freedom, our safety, and our way of life to these brave men and women. On Republic Day, Independence Day, and every day in between, let us remember them with pride and gratitude. Let us salute their courage and ensure that their sacrifice is never forgotten.",
+          "hi": "हम अपनी स्वतंत्रता, अपनी सुरक्षा और अपने जीवन का तरीका इन बहादुर पुरुषों और महिलाओं के प्रति ऋणी हैं। गणतंत्र दिवस, स्वतंत्रता दिवस और बीच के हर दिन, आइए उन्हें गर्व और कृतज्ञता के साथ याद करें। आइए उनके साहस को सलामी दें और सुनिश्चित करें कि उनका बलिदान कभी न भुलाया जाए।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "What do you know about the Indian Armed Forces? Name the three branches.",
+              "qHi": "आप भारतीय सशस्त्र बलों के बारे में क्या जानते हैं? तीनों शाखाओं के नाम बताओ।",
+              "aEn": "The Indian Armed Forces consist of three branches: (1) The Indian Army — which protects our land borders, (2) The Indian Navy — which guards our seas and coastline, and (3) The Indian Air Force — which defends our airspace. Together, they protect India from external threats.",
+              "aHi": "भारतीय सशस्त्र बल तीन शाखाओं से बने हैं: (1) भारतीय थल सेना — जो हमारी भूमि सीमाओं की रक्षा करती है, (2) भारतीय नौसेना — जो हमारे समुद्रों और तटरेखा की रक्षा करती है, और (3) भारतीय वायु सेना — जो हमारे हवाई क्षेत्र की रक्षा करती है। ये मिलकर भारत को बाहरी खतरों से बचाते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What is the National War Memorial? Where is it located?",
+              "qHi": "राष्ट्रीय युद्ध स्मारक क्या है? यह कहाँ स्थित है?",
+              "aEn": "The National War Memorial is a monument in New Delhi that pays tribute to all the soldiers who have sacrificed their lives for India since independence. It has the names of over 26,000 soldiers inscribed on its walls and an eternal flame (Amar Jawan Jyoti) that burns in their memory.",
+              "aHi": "राष्ट्रीय युद्ध स्मारक नई दिल्ली में एक स्मारक है जो स्वतंत्रता के बाद से भारत के लिए अपने प्राण न्योछावर करने वाले सभी सैनिकों को श्रद्धांजलि अर्पित करता है। इसकी दीवारों पर 26,000 से अधिक सैनिकों के नाम अंकित हैं और एक शाश्वत ज्योति (अमर जवान ज्योति) उनकी स्मृति में जलती है।"
+            },
+            {
+              "qEn": "Name two brave Indian soldiers mentioned in the chapter and their contributions.",
+              "qHi": "अध्याय में उल्लिखित दो बहादुर भारतीय सैनिकों के नाम और उनके योगदान बताओ।",
+              "aEn": "(1) Captain Vikram Batra — He fought bravely in the Kargil War (1999) and gave his life with the famous words 'Yeh Dil Maange More'. He was awarded the Param Vir Chakra posthumously. (2) Major Sandeep Unnikrishnan — He sacrificed his life during the 2008 Mumbai terrorist attacks while leading the NSG commando operation at the Taj Hotel.",
+              "aHi": "(1) कैप्टन विक्रम बत्रा — उन्होंने कारगिल युद्ध (1999) में बहादुरी से लड़ाई लड़ी और 'ये दिल माँगे मोर' के प्रसिद्ध शब्दों के साथ अपने प्राण दिए। उन्हें मरणोपरांत परम वीर चक्र से सम्मानित किया गया। (2) मेजर संदीप उन्नीकृष्णन — उन्होंने 2008 के मुंबई आतंकवादी हमलों के दौरान ताज होटल में NSG कमांडो ऑपरेशन का नेतृत्व करते हुए अपना बलिदान दिया।"
+            },
+            {
+              "qEn": "In what extreme conditions do Indian soldiers serve?",
+              "qHi": "भारतीय सैनिक किन अत्यधिक कठिन परिस्थितियों में सेवा करते हैं?",
+              "aEn": "Indian soldiers serve in extreme conditions: (1) The freezing cold of Siachen Glacier, one of the highest battlefields in the world, (2) The scorching heat of Rajasthan's Thar Desert, and (3) The dense forests and difficult terrain of the northeastern states. They endure all this to keep the country safe.",
+              "aHi": "भारतीय सैनिक अत्यधिक कठिन परिस्थितियों में सेवा करते हैं: (1) सियाचिन ग्लेशियर की कड़ाके की ठंड, दुनिया के सबसे ऊँचे युद्ध क्षेत्रों में से एक, (2) राजस्थान के थार रेगिस्तान की जलती गर्मी, और (3) पूर्वोत्तर राज्यों के घने जंगल और कठिन भूभाग। वे देश को सुरक्षित रखने के लिए यह सब सहते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "How can we show our gratitude to the soldiers who protect our country?",
+              "qHi": "हम अपने देश की रक्षा करने वाले सैनिकों के प्रति अपना आभार कैसे प्रकट कर सकते हैं?",
+              "aEn": "We can show our gratitude by: (1) Observing national days with respect. (2) Visiting war memorials and learning about our soldiers' sacrifices. (3) Supporting the families of soldiers who have lost their lives. (4) Writing letters to soldiers posted at borders. (5) Studying hard and becoming responsible citizens — because the best tribute to their sacrifice is building the strong, peaceful nation they fought for.",
+              "aHi": "हम अपना आभार इस प्रकार प्रकट कर सकते हैं: (1) राष्ट्रीय दिवसों को सम्मान के साथ मनाकर। (2) युद्ध स्मारकों का दौरा करके और सैनिकों के बलिदान के बारे में जानकर। (3) शहीद हुए सैनिकों के परिवारों का समर्थन करके। (4) सीमाओं पर तैनात सैनिकों को पत्र लिखकर। (5) मेहनत से पढ़ाई करके और ज़िम्मेदार नागरिक बनकर — क्योंकि उनके बलिदान की सबसे अच्छी श्रद्धांजलि वह मज़बूत, शांतिपूर्ण राष्ट्र बनाना है जिसके लिए उन्होंने लड़ाई लड़ी।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Match: homage, sacrifice, valour, sovereignty, memorial.",
+              "qHi": "मिलाओ: homage (श्रद्धांजलि), sacrifice (बलिदान), valour (शौर्य), sovereignty (संप्रभुता), memorial (स्मारक)।",
+              "aEn": "Homage — respect or honour publicly expressed. Sacrifice — giving up something precious for a greater cause. Valour — great courage in the face of danger, especially in battle. Sovereignty — the authority of a country to govern itself. Memorial — a structure built to honour the memory of a person or event.",
+              "aHi": "Homage (श्रद्धांजलि) — सार्वजनिक रूप से व्यक्त सम्मान। Sacrifice (बलिदान) — किसी बड़े उद्देश्य के लिए कुछ कीमती चीज़ त्यागना। Valour (शौर्य) — खतरे के सामने, विशेषकर युद्ध में, महान साहस। Sovereignty (संप्रभुता) — किसी देश का स्वयं शासन करने का अधिकार। Memorial (स्मारक) — किसी व्यक्ति या घटना की स्मृति में बनी संरचना।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Prepare a short speech for Republic Day or Independence Day honouring our soldiers.",
+              "qHi": "गणतंत्र दिवस या स्वतंत्रता दिवस के लिए हमारे सैनिकों को सम्मानित करते हुए एक छोटा भाषण तैयार करो।",
+              "aEn": "Respected teachers and dear friends, today we celebrate our freedom. But let us not forget the brave soldiers who made this freedom possible. While we enjoy our holidays, our jawans stand at the borders in freezing cold and burning heat. Let us salute their courage, remember their sacrifice, and promise to be worthy citizens of the great nation they protect. Jai Hind!",
+              "aHi": "आदरणीय शिक्षकों और प्रिय मित्रों, आज हम अपनी स्वतंत्रता का जश्न मना रहे हैं। लेकिन आइए उन बहादुर सैनिकों को न भूलें जिन्होंने इस स्वतंत्रता को संभव बनाया। जब हम अपनी छुट्टियों का आनंद लेते हैं, हमारे जवान कड़ाके की ठंड और जलती गर्मी में सीमाओं पर खड़े रहते हैं। आइए उनके साहस को सलामी दें, उनके बलिदान को याद करें, और वादा करें कि हम उस महान राष्ट्र के योग्य नागरिक बनेंगे जिसकी वे रक्षा करते हैं। जय हिंद!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 14,
+      "titleEn": "My Dear Soldiers",
+      "titleHi": "मेरे प्रिय सैनिकों",
+      "author": "Adapted",
+      "localDictionary": {
+        "sentinel": "प्रहरी / पहरेदार",
+        "vigil": "जागरण / चौकसी",
+        "dawn": "भोर / सुबह",
+        "dusk": "सांझ / शाम",
+        "shield": "ढाल / रक्षा करना",
+        "brave": "बहादुर / साहसी",
+        "foe": "शत्रु / दुश्मन",
+        "motherland": "मातृभूमि",
+        "pride": "गर्व / गौरव",
+        "eternal": "शाश्वत / अमर",
+        "valiant": "वीर / बहादुर",
+        "selfless": "निस्वार्थ",
+        "thunder": "गरजना / बिजली की कड़क",
+        "glory": "गौरव / महिमा",
+        "fearless": "निडर / बेख़ौफ़"
+      },
+      "content": [
+        {
+          "id": "c14-p1",
+          "type": "text",
+          "en": "My dear soldiers, standing tall and proud,\nGuarding our land beneath the starlit shroud;\nIn snow and sun, in rain and dust,\nIn you, dear soldiers, is our trust.",
+          "hi": "मेरे प्रिय सैनिकों, ऊँचे और गर्वित खड़े,\nतारों से ढकी चादर के नीचे हमारी भूमि की रक्षा करते;\nबर्फ़ और धूप में, बारिश और धूल में,\nतुममें, प्रिय सैनिकों, है हमारा विश्वास।"
+        },
+        {
+          "id": "c14-p2",
+          "type": "text",
+          "en": "From dawn to dusk, and dusk to dawn,\nYou keep your vigil, brave and strong;\nWhile we sleep safe within our homes,\nYou face the storm, you face the unknown.",
+          "hi": "भोर से सांझ तक, और सांझ से भोर तक,\nतुम अपनी चौकसी रखते हो, बहादुर और मज़बूत;\nजब हम अपने घरों में सुरक्षित सोते हैं,\nतुम तूफ़ान का सामना करते हो, अज्ञात का सामना करते हो।"
+        },
+        {
+          "id": "c14-p3",
+          "type": "text",
+          "en": "Your boots have walked on frozen peaks,\nThrough burning sands where no one speaks;\nYour hands that hold the nation's shield,\nHave never, ever learned to yield.",
+          "hi": "तुम्हारे जूतों ने जमी हुई चोटियों पर चले हैं,\nजलती रेत से गुज़रे हैं जहाँ कोई नहीं बोलता;\nतुम्हारे हाथ जो राष्ट्र की ढाल थामे हैं,\nउन्होंने कभी, कभी भी हार मानना नहीं सीखा।"
+        },
+        {
+          "id": "c14-p4",
+          "type": "text",
+          "en": "We salute you, soldiers of the land,\nWith grateful hearts and folded hands;\nYour sacrifice, your selfless deed,\nIs the eternal light we need.",
+          "hi": "हम तुम्हें सलाम करते हैं, इस धरती के सैनिकों,\nकृतज्ञ हृदय और जुड़े हाथों से;\nतुम्हारा बलिदान, तुम्हारा निस्वार्थ कर्म,\nवह शाश्वत प्रकाश है जिसकी हमें ज़रूरत है।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What does the poet mean by 'starlit shroud'?",
+              "qHi": "कवि 'तारों से ढकी चादर' (starlit shroud) से क्या तात्पर्य है?",
+              "aEn": "The 'starlit shroud' refers to the night sky full of stars. The poet creates an image of soldiers guarding the borders beneath the dark sky studded with stars. The word 'shroud' also hints at a covering or veil, suggesting the soldiers stand watch even when darkness covers the land.",
+              "aHi": "'तारों से ढकी चादर' तारों से भरे रात के आसमान को संदर्भित करता है। कवि सितारों से जड़ित अंधेरे आसमान के नीचे सीमाओं की रक्षा करते सैनिकों की छवि बनाता है। 'shroud' शब्द एक आवरण का भी संकेत देता है, जो सुझाव देता है कि सैनिक तब भी पहरा देते हैं जब अंधकार भूमि को ढक लेता है।"
+            },
+            {
+              "qEn": "What hardships of soldiers does the poem describe?",
+              "qHi": "कविता सैनिकों की किन कठिनाइयों का वर्णन करती है?",
+              "aEn": "The poem describes soldiers enduring: (1) Extreme weather — snow, sun, rain, and dust. (2) Continuous vigil — from dawn to dusk and dusk to dawn without rest. (3) Harsh terrain — frozen peaks and burning sands. (4) Facing the unknown — storms and unseen dangers. Despite all this, they never yield or give up.",
+              "aHi": "कविता सैनिकों की इन कठिनाइयों का वर्णन करती है: (1) चरम मौसम — बर्फ़, धूप, बारिश और धूल। (2) निरंतर चौकसी — भोर से सांझ और सांझ से भोर तक बिना आराम। (3) कठिन भूभाग — जमी चोटियाँ और जलती रेत। (4) अज्ञात का सामना — तूफ़ान और अदृश्य खतरे। इस सबके बावजूद, वे कभी हार नहीं मानते।"
+            },
+            {
+              "qEn": "What is the tone and mood of the poem?",
+              "qHi": "कविता का स्वर और भाव क्या है?",
+              "aEn": "The tone of the poem is respectful, grateful, and emotional. The mood is one of pride, patriotism, and deep gratitude towards the soldiers. The poet uses words like 'grateful hearts', 'folded hands', and 'eternal light' to express the nation's deep respect for its armed forces.",
+              "aHi": "कविता का स्वर सम्मानपूर्ण, कृतज्ञ और भावनात्मक है। भाव गर्व, देशभक्ति और सैनिकों के प्रति गहरी कृतज्ञता का है। कवि 'कृतज्ञ हृदय', 'जुड़े हाथ', और 'शाश्वत प्रकाश' जैसे शब्दों का उपयोग करके राष्ट्र के अपने सशस्त्र बलों के प्रति गहरे सम्मान को व्यक्त करता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Why does the poet call the soldiers' sacrifice 'the eternal light we need'?",
+              "qHi": "कवि सैनिकों के बलिदान को 'वह शाश्वत प्रकाश जिसकी हमें ज़रूरत है' क्यों कहता है?",
+              "aEn": "The poet calls their sacrifice 'eternal light' because just as light drives away darkness, the soldiers' bravery and sacrifice drive away the darkness of fear and threat from our lives. Their courage inspires us, guides us, and gives us hope. This light is 'eternal' because even when soldiers pass away, their sacrifice continues to illuminate our nation's path.",
+              "aHi": "कवि उनके बलिदान को 'शाश्वत प्रकाश' इसलिए कहता है क्योंकि जैसे प्रकाश अंधकार को दूर करता है, वैसे ही सैनिकों की बहादुरी और बलिदान हमारे जीवन से भय और खतरे के अंधकार को दूर करते हैं। उनका साहस हमें प्रेरित करता है, मार्गदर्शन करता है, और आशा देता है। यह प्रकाश 'शाश्वत' है क्योंकि जब सैनिक चले भी जाते हैं, तब भी उनका बलिदान हमारे राष्ट्र के मार्ग को प्रकाशित करता रहता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find examples of rhyme and imagery in the poem.",
+              "qHi": "कविता में तुकांत और बिम्ब (imagery) के उदाहरण खोजो।",
+              "aEn": "Rhyme pairs: proud – shroud, dust – trust, dawn – unknown, peaks – speaks, shield – yield, land – hands, deed – need. Imagery examples: 'frozen peaks' paints icy mountain tops, 'burning sands' creates desert heat, 'starlit shroud' shows the night sky as a blanket, 'eternal light' shows sacrifice as an undying flame.",
+              "aHi": "तुकांत जोड़े: proud – shroud, dust – trust, dawn – unknown, peaks – speaks, shield – yield, land – hands, deed – need. बिम्ब उदाहरण: 'frozen peaks' बर्फ़ीली पहाड़ की चोटियों को चित्रित करता है, 'burning sands' रेगिस्तान की गर्मी बनाता है, 'starlit shroud' रात के आसमान को एक चादर के रूप में दिखाता है, 'eternal light' बलिदान को एक अमर ज्योति के रूप में दर्शाता है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Recite the poem with patriotic feeling. Then write a short thank-you letter to an Indian soldier.",
+              "qHi": "कविता को देशभक्ति की भावना से पढ़ो। फिर एक भारतीय सैनिक को एक छोटा धन्यवाद पत्र लिखो।",
+              "aEn": "Dear Soldier, Thank you for protecting our country. Because of your courage, I can go to school safely, play with my friends, and sleep peacefully at night. You are the real hero of India. I promise to study hard and be a good citizen. Your sacrifice inspires me every day. With love and respect, [Your name].",
+              "aHi": "प्रिय सैनिक, हमारे देश की रक्षा करने के लिए धन्यवाद। आपकी बहादुरी के कारण, मैं सुरक्षित स्कूल जा सकता हूँ, अपने दोस्तों के साथ खेल सकता हूँ, और रात को शांति से सो सकता हूँ। आप भारत के असली हीरो हैं। मैं वादा करता हूँ कि मैं मेहनत से पढ़ूँगा और एक अच्छा नागरिक बनूँगा। आपका बलिदान मुझे हर दिन प्रेरित करता है। प्यार और सम्मान के साथ, [आपका नाम]।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 15,
+      "titleEn": "Rani Abbakka",
+      "titleHi": "रानी अब्बक्का",
+      "author": "Adapted",
+      "localDictionary": {
+        "queen": "रानी",
+        "warrior": "योद्धा",
+        "kingdom": "राज्य / साम्राज्य",
+        "defend": "रक्षा करना",
+        "colonial": "औपनिवेशिक",
+        "Portuguese": "पुर्तगाली",
+        "invasion": "आक्रमण",
+        "resist": "विरोध करना / प्रतिरोध करना",
+        "fortress": "किला / दुर्ग",
+        "strategy": "रणनीति / योजना",
+        "alliance": "गठबंधन / संधि",
+        "fleet": "बेड़ा / जहाज़ों का समूह",
+        "territory": "क्षेत्र / भू-भाग",
+        "legacy": "विरासत",
+        "fearless": "निडर / बेख़ौफ़",
+        "leadership": "नेतृत्व",
+        "inspire": "प्रेरित करना",
+        "coastal": "तटीय",
+        "Ullal": "उल्लाल (शहर का नाम)",
+        "Mangalore": "मंगलूरु",
+        "courage": "साहस / हिम्मत",
+        "independence": "स्वतंत्रता",
+        "patriot": "देशभक्त"
+      },
+      "content": [
+        {
+          "id": "c15-p1",
+          "type": "text",
+          "en": "Long before the British came to India, another European power — the Portuguese — had set their eyes on India's rich western coast. They wanted to control the spice trade and had already captured Goa. Now they were looking to conquer more coastal cities. But in the small coastal town of Ullal, near Mangalore in Karnataka, they met their match — a fearless warrior queen named Rani Abbakka.",
+          "hi": "अंग्रेज़ों के भारत आने से बहुत पहले, एक और यूरोपीय शक्ति — पुर्तगालियों — ने भारत के समृद्ध पश्चिमी तट पर अपनी नज़रें जमाई थीं। वे मसाला व्यापार को नियंत्रित करना चाहते थे और पहले ही गोवा पर कब्ज़ा कर चुके थे। अब वे और तटीय शहरों पर विजय प्राप्त करना चाहते थे। लेकिन कर्नाटक में मंगलूरु के पास उल्लाल नामक छोटे तटीय शहर में, उन्हें उनकी टक्कर मिली — एक निडर योद्धा रानी जिनका नाम था रानी अब्बक्का।"
+        },
+        {
+          "id": "c15-p2",
+          "type": "text",
+          "en": "Rani Abbakka belonged to the Chowta dynasty, which had been ruling the region for centuries. She was trained in warfare from a young age and was skilled in sword fighting, archery, and military strategy. Unlike many rulers of her time, she personally led her soldiers into battle.",
+          "hi": "रानी अब्बक्का चौटा राजवंश से थीं, जो सदियों से इस क्षेत्र पर शासन कर रहा था। उन्हें बचपन से ही युद्ध कला में प्रशिक्षित किया गया था और वे तलवारबाज़ी, धनुर्विद्या और सैन्य रणनीति में कुशल थीं। अपने समय की कई शासकों के विपरीत, वे व्यक्तिगत रूप से अपने सैनिकों को युद्ध में ले जाती थीं।"
+        },
+        {
+          "id": "c15-p3",
+          "type": "text",
+          "en": "When the Portuguese attacked Ullal, Rani Abbakka did not surrender or flee. She fought back with courage and intelligence. She formed alliances with other local rulers and used her knowledge of the terrain to outmaneuver the Portuguese forces. In battle after battle, she defeated them, burning their ships and driving them away from her shores.",
+          "hi": "जब पुर्तगालियों ने उल्लाल पर हमला किया, तो रानी अब्बक्का ने न तो समर्पण किया और न ही भागीं। उन्होंने साहस और बुद्धिमत्ता से लड़ाई लड़ी। उन्होंने अन्य स्थानीय शासकों के साथ गठबंधन किया और भूभाग के अपने ज्ञान का उपयोग करके पुर्तगाली सेना को पछाड़ दिया। एक के बाद एक युद्ध में, उन्होंने उन्हें हराया, उनके जहाज़ जलाए और उन्हें अपने तटों से दूर भगाया।"
+        },
+        {
+          "id": "c15-p4",
+          "type": "text",
+          "en": "The Portuguese tried many times to capture Ullal, but Rani Abbakka repelled every attack. She was so fierce and strategic that the Portuguese called her 'Abbakka Rani, the troublesome queen.' But for the people of Ullal, she was their beloved protector and a symbol of resistance against foreign rule.",
+          "hi": "पुर्तगालियों ने कई बार उल्लाल पर कब्ज़ा करने की कोशिश की, लेकिन रानी अब्बक्का ने हर हमले को विफल कर दिया। वे इतनी उग्र और रणनीतिक थीं कि पुर्तगालियों ने उन्हें 'अब्बक्का रानी, परेशान करने वाली रानी' कहा। लेकिन उल्लाल के लोगों के लिए, वे उनकी प्रिय रक्षक और विदेशी शासन के विरुद्ध प्रतिरोध की प्रतीक थीं।"
+        },
+        {
+          "id": "c15-p5",
+          "type": "text",
+          "en": "Rani Abbakka's legacy lives on today. She is remembered as one of the earliest and bravest freedom fighters of India — a woman who refused to bow before colonial power and fought for her people's independence long before the modern freedom movement began. Her story inspires us to stand up for what is right, no matter how powerful the opponent.",
+          "hi": "रानी अब्बक्का की विरासत आज भी जीवित है। उन्हें भारत की सबसे शुरुआती और सबसे बहादुर स्वतंत्रता सेनानियों में से एक के रूप में याद किया जाता है — एक ऐसी महिला जिन्होंने औपनिवेशिक शक्ति के सामने झुकने से इनकार किया और आधुनिक स्वतंत्रता आंदोलन शुरू होने से बहुत पहले अपने लोगों की आज़ादी के लिए लड़ीं। उनकी कहानी हमें प्रेरित करती है कि जो सही है उसके लिए खड़े हों, चाहे विरोधी कितना भी शक्तिशाली हो।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Can you name any Indian queen or woman warrior from history? What do you know about her?",
+              "qHi": "क्या आप इतिहास से किसी भारतीय रानी या महिला योद्धा का नाम बता सकते हैं? आप उनके बारे में क्या जानते हैं?",
+              "aEn": "Rani Lakshmibai of Jhansi is a famous Indian queen. She was one of the leaders of the 1857 revolt against British rule. She fought bravely on horseback with her son tied to her back. She died fighting for India's freedom and is remembered as a symbol of courage and patriotism.",
+              "aHi": "झाँसी की रानी लक्ष्मीबाई एक प्रसिद्ध भारतीय रानी हैं। वे ब्रिटिश शासन के खिलाफ़ 1857 के विद्रोह की नेताओं में से एक थीं। उन्होंने अपने बेटे को पीठ पर बाँधकर घोड़े पर बहादुरी से लड़ाई लड़ी। वे भारत की स्वतंत्रता के लिए लड़ते हुए शहीद हुईं और साहस और देशभक्ति के प्रतीक के रूप में याद की जाती हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "Who was Rani Abbakka? Where did she rule?",
+              "qHi": "रानी अब्बक्का कौन थीं? वे कहाँ शासन करती थीं?",
+              "aEn": "Rani Abbakka was a fearless warrior queen from the Chowta dynasty. She ruled the coastal town of Ullal, near Mangalore in Karnataka. She is remembered as one of India's earliest freedom fighters who resisted Portuguese colonial rule.",
+              "aHi": "रानी अब्बक्का चौटा राजवंश की एक निडर योद्धा रानी थीं। वे कर्नाटक में मंगलूरु के पास उल्लाल तटीय शहर पर शासन करती थीं। उन्हें भारत के सबसे शुरुआती स्वतंत्रता सेनानियों में से एक के रूप में याद किया जाता है जिन्होंने पुर्तगाली औपनिवेशिक शासन का विरोध किया।"
+            },
+            {
+              "qEn": "How did Rani Abbakka fight against the Portuguese?",
+              "qHi": "रानी अब्बक्का ने पुर्तगालियों के खिलाफ़ कैसे लड़ाई लड़ी?",
+              "aEn": "Rani Abbakka fought against the Portuguese in several ways: (1) She personally led her soldiers into battle. (2) She formed alliances with other local rulers. (3) She used her knowledge of the local terrain to outmaneuver the Portuguese forces. (4) She burned their ships and drove them away from her shores, defeating them repeatedly.",
+              "aHi": "रानी अब्बक्का ने पुर्तगालियों के खिलाफ़ कई तरीकों से लड़ाई लड़ी: (1) उन्होंने व्यक्तिगत रूप से अपने सैनिकों को युद्ध में नेतृत्व किया। (2) उन्होंने अन्य स्थानीय शासकों के साथ गठबंधन किया। (3) उन्होंने स्थानीय भूभाग के अपने ज्ञान का उपयोग करके पुर्तगाली सेना को पछाड़ा। (4) उन्होंने उनके जहाज़ जलाए और बार-बार उन्हें हराकर अपने तटों से दूर भगाया।"
+            },
+            {
+              "qEn": "What made Rani Abbakka different from other rulers of her time?",
+              "qHi": "रानी अब्बक्का को अपने समय की अन्य शासकों से क्या अलग बनाता था?",
+              "aEn": "Rani Abbakka was different because: (1) She was trained in warfare from a young age. (2) She personally led her army into battle, unlike many rulers who stayed behind. (3) She was skilled in sword fighting, archery, and military strategy. (4) She never surrendered despite being a small kingdom facing a major European power.",
+              "aHi": "रानी अब्बक्का अलग थीं क्योंकि: (1) उन्हें बचपन से ही युद्ध कला में प्रशिक्षित किया गया था। (2) वे व्यक्तिगत रूप से अपनी सेना को युद्ध में ले जाती थीं, उन शासकों के विपरीत जो पीछे रहते थे। (3) वे तलवारबाज़ी, धनुर्विद्या और सैन्य रणनीति में कुशल थीं। (4) उन्होंने एक बड़ी यूरोपीय शक्ति के सामने छोटे राज्य होते हुए भी कभी समर्पण नहीं किया।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Why is Rani Abbakka called one of India's earliest freedom fighters?",
+              "qHi": "रानी अब्बक्का को भारत की सबसे शुरुआती स्वतंत्रता सेनानियों में से एक क्यों कहा जाता है?",
+              "aEn": "Rani Abbakka is called one of India's earliest freedom fighters because she fought against Portuguese colonial rule long before the modern Indian freedom movement began in the 19th century. She resisted foreign invaders in the 16th century, defending her territory and people's independence with exceptional bravery and leadership.",
+              "aHi": "रानी अब्बक्का को भारत की सबसे शुरुआती स्वतंत्रता सेनानियों में से एक इसलिए कहा जाता है क्योंकि उन्होंने 19वीं सदी में आधुनिक भारतीय स्वतंत्रता आंदोलन शुरू होने से बहुत पहले पुर्तगाली औपनिवेशिक शासन के खिलाफ़ लड़ाई लड़ी। उन्होंने 16वीं सदी में विदेशी आक्रमणकारियों का प्रतिरोध किया, असाधारण बहादुरी और नेतृत्व के साथ अपने क्षेत्र और लोगों की स्वतंत्रता की रक्षा की।"
+            },
+            {
+              "qEn": "What can we learn from Rani Abbakka's story about leadership and courage?",
+              "qHi": "रानी अब्बक्का की कहानी से हम नेतृत्व और साहस के बारे में क्या सीख सकते हैं?",
+              "aEn": "From Rani Abbakka's story, we learn that: (1) True leaders lead from the front, not from behind. (2) Courage is not about being strong alone, but also about being smart (forming alliances, using strategy). (3) The size of your kingdom doesn't matter if your spirit is strong. (4) Women can be as fierce and capable warriors as men. (5) Standing up against injustice is important, no matter the odds.",
+              "aHi": "रानी अब्बक्का की कहानी से हम सीखते हैं कि: (1) सच्चे नेता आगे से नेतृत्व करते हैं, पीछे से नहीं। (2) साहस केवल मज़बूत होने के बारे में नहीं है, बल्कि चतुर होने के बारे में भी है (गठबंधन बनाना, रणनीति का उपयोग करना)। (3) आपके राज्य का आकार मायने नहीं रखता अगर आपकी भावना मज़बूत है। (4) महिलाएँ पुरुषों जितनी ही उग्र और सक्षम योद्धा हो सकती हैं। (5) अन्याय के खिलाफ़ खड़ा होना महत्वपूर्ण है, चाहे परिस्थितियाँ कितनी भी कठिन हों।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find words from the chapter that mean: (i) to attack and take control (ii) a plan for war (iii) a union between groups (iv) what someone leaves behind after death (v) relating to sea coast.",
+              "qHi": "अध्याय से वे शब्द खोजो जिनका अर्थ है: (i) हमला करना और नियंत्रण लेना (ii) युद्ध की योजना (iii) समूहों के बीच संघ (iv) मृत्यु के बाद कोई क्या छोड़ जाता है (v) समुद्र तट से संबंधित।",
+              "aEn": "(i) Conquer / Invasion — to attack and take control of a place. (ii) Strategy — a plan for conducting a war or battle. (iii) Alliance — a union between groups for a common purpose. (iv) Legacy — something left behind that continues to influence. (v) Coastal — relating to or near the sea coast.",
+              "aHi": "(i) Conquer / Invasion (जीतना / आक्रमण) — किसी स्थान पर हमला करना और नियंत्रण लेना। (ii) Strategy (रणनीति) — युद्ध या लड़ाई चलाने की योजना। (iii) Alliance (गठबंधन) — एक समान उद्देश्य के लिए समूहों का संघ। (iv) Legacy (विरासत) — कुछ जो पीछे छोड़ा जाता है और प्रभावित करता रहता है। (v) Coastal (तटीय) — समुद्र तट से संबंधित या निकट।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Prepare a speech about an Indian woman leader (historical or modern) who inspires you.",
+              "qHi": "एक ऐसी भारतीय महिला नेता (ऐतिहासिक या आधुनिक) के बारे में भाषण तैयार करो जो आपको प्रेरित करती हैं।",
+              "aEn": "Kalpana Chawla inspires me deeply. Born in Karnal, Haryana, she became the first Indian-born woman in space. Despite facing many challenges in a male-dominated field, she pursued her dream of flying. Though she tragically lost her life in the Columbia space shuttle disaster in 2003, her legacy lives on. She proved that with courage, hard work, and dreams, a girl from a small Indian town can reach the stars.",
+              "aHi": "कल्पना चावला मुझे बहुत प्रेरित करती हैं। हरियाणा के करनाल में जन्मी, वे अंतरिक्ष में जाने वाली पहली भारतीय मूल की महिला बनीं। पुरुष-प्रधान क्षेत्र में कई चुनौतियों का सामना करने के बावजूद, उन्होंने उड़ान भरने का अपना सपना पूरा किया। हालाँकि 2003 में कोलंबिया अंतरिक्ष यान दुर्घटना में उन्होंने दुखद रूप से अपना जीवन खोया, उनकी विरासत जीवित है। उन्होंने साबित किया कि साहस, कड़ी मेहनत और सपनों से, एक छोटे भारतीय शहर की लड़की तारों तक पहुँच सकती है।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

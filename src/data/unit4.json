@@ -1,0 +1,447 @@
+{
+  "unitId": 4,
+  "unitTitleEn": "Travel and Adventure",
+  "unitTitleHi": "यात्रा और साहस",
+  "chapters": [
+    {
+      "chapterId": 10,
+      "titleEn": "The Tunnel",
+      "titleHi": "सुरंग",
+      "author": "Ruskin Bond",
+      "localDictionary": {
+        "tunnel": "सुरंग",
+        "watchman": "चौकीदार / पहरेदार",
+        "locomotive": "रेल का इंजन",
+        "cutting": "कटान / काटने की जगह",
+        "hut": "झोंपड़ी",
+        "solitary": "एकान्त / अकेला",
+        "leopard": "तेंदुआ",
+        "lamp": "दीया / लालटेन",
+        "axe": "कुल्हाड़ी",
+        "damp": "नम / गीला",
+        "firefly": "जुगनू",
+        "rattling": "खड़खड़ाहट",
+        "steam": "भाप",
+        "emerge": "निकलना / उभरना",
+        "inspect": "जाँच करना / निरीक्षण करना",
+        "courage": "साहस / हिम्मत",
+        "coexist": "सह-अस्तित्व / साथ रहना",
+        "jungle": "जंगल",
+        "tracks": "पटरियाँ",
+        "signal": "संकेत / सिग्नल",
+        "whistle": "सीटी",
+        "rumble": "गड़गड़ाहट",
+        "adventure": "साहसिक कार्य / रोमांच",
+        "fearless": "निडर / बेख़ौफ़"
+      },
+      "content": [
+        {
+          "id": "c10-p1",
+          "type": "text",
+          "en": "Suraj was a young boy who loved watching trains. Every day, he would walk through the jungle to a railway cutting near a tunnel, and wait for the midday steam engine to come thundering through.",
+          "hi": "सूरज एक युवा लड़का था जिसे ट्रेनें देखना बहुत पसंद था। हर दिन, वह जंगल से होकर एक सुरंग के पास रेलवे कटान तक जाता, और दोपहर के भाप इंजन के गरजते हुए आने का इंतज़ार करता।"
+        },
+        {
+          "id": "c10-p2",
+          "type": "text",
+          "en": "Near the tunnel lived Sunder Singh, the tunnel watchman. He was an old, experienced man who took great pride in his work. His job was to inspect the tunnel every day to make sure the tracks were clear and safe for the trains to pass through.",
+          "hi": "सुरंग के पास सुंदर सिंह रहते थे, सुरंग के चौकीदार। वे एक बुज़ुर्ग, अनुभवी व्यक्ति थे जो अपने काम पर बहुत गर्व करते थे। उनका काम हर दिन सुरंग का निरीक्षण करना था ताकि यह सुनिश्चित हो सके कि पटरियाँ साफ़ और ट्रेनों के गुज़रने के लिए सुरक्षित हैं।"
+        },
+        {
+          "id": "c10-p3",
+          "type": "text",
+          "en": "Suraj and Sunder Singh became friends. The old watchman would share stories about the jungle and the animals that lived there. \"There is a leopard that comes around sometimes,\" Sunder Singh told Suraj. \"But don't worry. He has never troubled anyone. We have an understanding — I don't bother him, and he doesn't bother me.\"",
+          "hi": "सूरज और सुंदर सिंह दोस्त बन गए। बूढ़ा चौकीदार जंगल और वहाँ रहने वाले जानवरों के बारे में कहानियाँ सुनाता। \"एक तेंदुआ कभी-कभी इधर आता है,\" सुंदर सिंह ने सूरज को बताया। \"लेकिन चिंता मत करो। उसने कभी किसी को परेशान नहीं किया। हमारी एक समझ है — मैं उसे परेशान नहीं करता, और वह मुझे परेशान नहीं करता।\""
+        },
+        {
+          "id": "c10-p4",
+          "type": "text",
+          "en": "One night, while waiting for the night mail train, they heard a strange sound from inside the tunnel — a low, rumbling growl. \"The leopard,\" whispered Sunder Singh. \"He's inside the tunnel. If the train comes now, either the leopard will be killed, or worse, the train might derail trying to avoid it.\"",
+          "hi": "एक रात, रात्रि डाक ट्रेन का इंतज़ार करते हुए, उन्होंने सुरंग के अंदर से एक अजीब आवाज़ सुनी — एक धीमी, गड़गड़ाती गुर्राहट। \"तेंदुआ,\" सुंदर सिंह ने फुसफुसाया। \"वह सुरंग के अंदर है। अगर अभी ट्रेन आ गई, तो या तो तेंदुआ मारा जाएगा, या इससे भी बुरा, ट्रेन उससे बचने की कोशिश में पटरी से उतर सकती है।\""
+        },
+        {
+          "id": "c10-p5",
+          "type": "text",
+          "en": "\"We have to go in,\" said Sunder Singh, picking up his lamp and his axe. \"Come, Suraj. Stay close to me.\" The tunnel was dark and damp. Their footsteps echoed off the walls. The lamp threw wild shadows. Suraj's heart was pounding, but he stayed close to the old watchman.",
+          "hi": "\"हमें अंदर जाना होगा,\" सुंदर सिंह ने अपना दीया और कुल्हाड़ी उठाते हुए कहा। \"आओ, सूरज। मेरे करीब रहो।\" सुरंग अंधेरी और नम थी। उनके क़दमों की आवाज़ दीवारों से गूँज रही थी। दीये ने भयंकर छायाएँ डालीं। सूरज का दिल ज़ोर-ज़ोर से धड़क रहा था, लेकिन वह बूढ़े चौकीदार के करीब रहा।"
+        },
+        {
+          "id": "c10-p6",
+          "type": "text",
+          "en": "They heard the leopard ahead of them, its claws scraping against the rock. Sunder Singh banged his axe against the wall and shouted. The sound echoed through the tunnel. The leopard snarled once, then they heard it bounding away towards the other end. By the time they reached the far opening, the leopard had vanished into the jungle.",
+          "hi": "उन्होंने तेंदुए को अपने आगे सुना, उसके पंजे चट्टान पर रगड़ रहे थे। सुंदर सिंह ने अपनी कुल्हाड़ी दीवार पर पटकी और चिल्लाए। आवाज़ पूरी सुरंग में गूँजी। तेंदुए ने एक बार गुर्राया, फिर उन्होंने उसे दूसरे सिरे की ओर कूदते हुए सुना। जब तक वे दूर वाले मुहाने तक पहुँचे, तेंदुआ जंगल में गायब हो चुका था।"
+        },
+        {
+          "id": "c10-p7",
+          "type": "text",
+          "en": "Minutes later, the night mail train rattled through the tunnel safely. The driver blew the whistle, and the train disappeared into the night. Sunder Singh smiled. \"All safe,\" he said quietly.",
+          "hi": "कुछ ही मिनट बाद, रात्रि डाक ट्रेन सुरक्षित रूप से सुरंग से खड़खड़ाती हुई गुज़री। ड्राइवर ने सीटी बजाई, और ट्रेन रात के अंधेरे में गायब हो गई। सुंदर सिंह मुस्कुराए। \"सब सुरक्षित है,\" उन्होंने धीरे से कहा।"
+        },
+        {
+          "id": "c10-p8",
+          "type": "text",
+          "en": "Some weeks later, Suraj was travelling on a train with his father. As the train entered the tunnel, Suraj pressed his face to the window. In the darkness, he saw a tiny pinpoint of light — Sunder Singh's lamp. The old watchman was there, as always, like a faithful firefly guiding the trains through the darkness.",
+          "hi": "कुछ हफ़्ते बाद, सूरज अपने पिता के साथ ट्रेन में यात्रा कर रहा था। जब ट्रेन सुरंग में घुसी, सूरज ने अपना चेहरा खिड़की से लगाया। अंधेरे में, उसने रोशनी का एक छोटा सा बिंदु देखा — सुंदर सिंह का दीया। बूढ़ा चौकीदार वहाँ था, हमेशा की तरह, एक वफ़ादार जुगनू की तरह ट्रेनों को अंधेरे में रास्ता दिखाता हुआ।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "Have you ever travelled by train? What was the most exciting part of the journey?",
+              "qHi": "क्या आपने कभी ट्रेन से यात्रा की है? यात्रा का सबसे रोमांचक हिस्सा क्या था?",
+              "aEn": "Yes, I have travelled by train. The most exciting part was when the train passed through a long tunnel. Everything went dark, and the sound of the engine echoed loudly. When we came out the other side, the beautiful green valley was a wonderful surprise.",
+              "aHi": "हाँ, मैंने ट्रेन से यात्रा की है। सबसे रोमांचक हिस्सा वह था जब ट्रेन एक लंबी सुरंग से गुज़री। सब कुछ अंधेरा हो गया, और इंजन की आवाज़ ज़ोर से गूँजी। जब हम दूसरी तरफ़ निकले, तो सुंदर हरी घाटी एक अद्भुत आश्चर्य थी।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What was Sunder Singh's job? Why was it important?",
+              "qHi": "सुंदर सिंह का काम क्या था? यह महत्वपूर्ण क्यों था?",
+              "aEn": "Sunder Singh's job was to be the tunnel watchman. He had to inspect the tunnel every day to ensure the tracks were clear and safe for trains. This was important because any obstruction — rocks, animals, or debris — inside the tunnel could cause a train accident.",
+              "aHi": "सुंदर सिंह का काम सुरंग का चौकीदार होना था। उन्हें हर दिन सुरंग का निरीक्षण करना होता था ताकि यह सुनिश्चित हो सके कि पटरियाँ ट्रेनों के लिए साफ़ और सुरक्षित हैं। यह इसलिए महत्वपूर्ण था क्योंकि सुरंग के अंदर कोई भी बाधा — चट्टानें, जानवर, या मलबा — ट्रेन दुर्घटना का कारण बन सकती थी।"
+            },
+            {
+              "qEn": "Why did Sunder Singh and Suraj enter the dark tunnel at night?",
+              "qHi": "सुंदर सिंह और सूरज रात में अंधेरी सुरंग में क्यों गए?",
+              "aEn": "They entered the tunnel because a leopard had gone inside. The night mail train was due soon, and if the leopard remained on the tracks, either the animal would be killed or the train might derail trying to avoid it. Sunder Singh bravely decided to scare the leopard out of the tunnel.",
+              "aHi": "वे सुरंग में इसलिए गए क्योंकि एक तेंदुआ अंदर चला गया था। रात की डाक ट्रेन जल्द आने वाली थी, और अगर तेंदुआ पटरियों पर रहता, तो या तो जानवर मारा जाता या ट्रेन उससे बचने की कोशिश में पटरी से उतर सकती थी। सुंदर सिंह ने बहादुरी से तेंदुए को सुरंग से बाहर निकालने का फैसला किया।"
+            },
+            {
+              "qEn": "How did they get the leopard out of the tunnel?",
+              "qHi": "उन्होंने तेंदुए को सुरंग से कैसे निकाला?",
+              "aEn": "Sunder Singh banged his axe against the tunnel wall and shouted loudly. The echoing sound scared the leopard, which snarled once and then bounded away towards the other end of the tunnel, eventually escaping into the jungle.",
+              "aHi": "सुंदर सिंह ने अपनी कुल्हाड़ी सुरंग की दीवार पर पटकी और ज़ोर से चिल्लाए। गूँजती आवाज़ ने तेंदुए को डरा दिया, जिसने एक बार गुर्राया और फिर सुरंग के दूसरे सिरे की ओर कूदता हुआ भागा, अंततः जंगल में गायब हो गया।"
+            },
+            {
+              "qEn": "Why is Sunder Singh compared to a 'firefly'?",
+              "qHi": "सुंदर सिंह की तुलना 'जुगनू' से क्यों की गई है?",
+              "aEn": "Sunder Singh is compared to a firefly because, like a firefly that provides a tiny but important light in the darkness, Sunder Singh's lamp serves as a guiding light for trains passing through the dark tunnel. He is a small, humble figure doing an important job — keeping the trains safe, unseen by most passengers.",
+              "aHi": "सुंदर सिंह की तुलना जुगनू से इसलिए की गई है क्योंकि, जैसे जुगनू अंधेरे में एक छोटी लेकिन महत्वपूर्ण रोशनी देता है, वैसे ही सुंदर सिंह का दीया अंधेरी सुरंग से गुज़रने वाली ट्रेनों के लिए मार्गदर्शक प्रकाश का काम करता है। वे एक छोटे, विनम्र व्यक्ति हैं जो एक महत्वपूर्ण काम कर रहे हैं — अधिकतर यात्रियों की नज़र से दूर ट्रेनों को सुरक्षित रखना।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "What does the story teach us about courage and duty?",
+              "qHi": "कहानी हमें साहस और कर्तव्य के बारे में क्या सिखाती है?",
+              "aEn": "The story teaches that true courage is not the absence of fear, but doing what is right despite being afraid. Sunder Singh knew the danger of facing a leopard in a dark tunnel, but his sense of duty towards the safety of the train passengers pushed him to act bravely. It also teaches that even ordinary people can be heroes through dedication to their work.",
+              "aHi": "कहानी सिखाती है कि सच्चा साहस डर का न होना नहीं है, बल्कि डर के बावजूद सही काम करना है। सुंदर सिंह अंधेरी सुरंग में तेंदुए का सामना करने के ख़तरे को जानते थे, लेकिन ट्रेन यात्रियों की सुरक्षा के प्रति उनके कर्तव्य बोध ने उन्हें बहादुरी से काम करने के लिए प्रेरित किया। यह भी सिखाती है कि अपने काम के प्रति समर्पण के माध्यम से साधारण लोग भी नायक बन सकते हैं।"
+            },
+            {
+              "qEn": "How does the story show the relationship between humans and nature?",
+              "qHi": "कहानी मनुष्यों और प्रकृति के बीच के संबंध को कैसे दर्शाती है?",
+              "aEn": "The story shows a respectful coexistence between humans and nature. Sunder Singh does not hate or fear the leopard — he respects it and says they have 'an understanding'. When the leopard enters the tunnel, he doesn't want to harm it, just guide it out safely. This shows that humans and wildlife can share the same space when there is mutual respect.",
+              "aHi": "कहानी मनुष्यों और प्रकृति के बीच सम्मानपूर्ण सह-अस्तित्व दिखाती है। सुंदर सिंह तेंदुए से घृणा या भय नहीं करते — वे उसका सम्मान करते हैं और कहते हैं कि उनकी 'एक समझ' है। जब तेंदुआ सुरंग में घुसता है, तो वे उसे नुकसान नहीं पहुँचाना चाहते, बस उसे सुरक्षित बाहर निकालना चाहते हैं। यह दिखाता है कि जब आपसी सम्मान हो तो मनुष्य और वन्यजीव एक ही जगह साझा कर सकते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Find words from the story that describe sounds: (a) the train (b) the leopard (c) the axe on the wall (d) Suraj's heart.",
+              "qHi": "कहानी से ध्वनियों का वर्णन करने वाले शब्द खोजो: (क) ट्रेन (ख) तेंदुआ (ग) दीवार पर कुल्हाड़ी (घ) सूरज का दिल।",
+              "aEn": "(a) Rattled / thundering — the train rattled through the tunnel. (b) Growl / snarled — the leopard growled low and snarled. (c) Banged — Sunder Singh banged his axe. (d) Pounding — Suraj's heart was pounding with fear.",
+              "aHi": "(क) खड़खड़ाना / गरजना — ट्रेन सुरंग से खड़खड़ाती हुई गुज़री। (ख) गुर्राना — तेंदुए ने धीमी गुर्राहट की और गुर्राया। (ग) पटकना — सुंदर सिंह ने कुल्हाड़ी पटकी। (घ) धड़कना — सूरज का दिल डर से ज़ोर-ज़ोर से धड़क रहा था।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Narrate a personal experience or a story where someone showed courage in a difficult situation.",
+              "qHi": "एक व्यक्तिगत अनुभव या कहानी सुनाओ जहाँ किसी ने कठिन परिस्थिति में साहस दिखाया।",
+              "aEn": "My grandfather was a farmer. One night, a wild boar entered our field and was destroying the crops. Despite being old, my grandfather grabbed a stick and a torch, went out in the darkness, and chased the animal away. He said, 'When your livelihood is at stake, fear takes a back seat.' His courage saved our entire season's harvest.",
+              "aHi": "मेरे दादाजी किसान थे। एक रात, एक जंगली सुअर हमारे खेत में घुस आया और फ़सल नष्ट कर रहा था। बूढ़े होने के बावजूद, दादाजी ने एक छड़ी और मशाल पकड़ी, अंधेरे में बाहर गए, और जानवर को भगा दिया। उन्होंने कहा, 'जब आपकी आजीविका दाँव पर हो, तो डर पीछे हट जाता है।' उनके साहस ने पूरे मौसम की फ़सल बचा ली।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 11,
+      "titleEn": "Travel",
+      "titleHi": "यात्रा",
+      "author": "Edna St. Vincent Millay",
+      "localDictionary": {
+        "railroad": "रेलमार्ग",
+        "track": "पटरी / रास्ता",
+        "wander": "घूमना / भटकना",
+        "horizon": "क्षितिज",
+        "longing": "लालसा / तीव्र इच्छा",
+        "whistle": "सीटी",
+        "dawn": "भोर / सुबह",
+        "journey": "यात्रा",
+        "destination": "मंज़िल / गंतव्य",
+        "adventure": "रोमांच / साहसिक कार्य",
+        "wanderlust": "घुमक्कड़ी की इच्छा",
+        "distant": "दूर / सुदूर",
+        "train": "ट्रेन / रेलगाड़ी",
+        "fascination": "मोह / आकर्षण",
+        "anticipation": "प्रत्याशा / उम्मीद"
+      },
+      "content": [
+        {
+          "id": "c11-p1",
+          "type": "text",
+          "en": "My heart is warm with the friends I make,\nAnd better friends I'll not be knowing;\nYet there isn't a train I wouldn't take,\nNo matter where it's going.",
+          "hi": "मेरा दिल उन दोस्तों से गर्म है जो मैंने बनाए,\nऔर इनसे बेहतर दोस्त मुझे नहीं मिलेंगे;\nफिर भी ऐसी कोई ट्रेन नहीं जो मैं न लूँ,\nचाहे वह कहीं भी जा रही हो।"
+        },
+        {
+          "id": "c11-p2",
+          "type": "text",
+          "en": "I like my body when it is with your body.\nI like the horizon that stretches wide,\nThe distant hills that call my name,\nAnd the railroad track that runs beside.",
+          "hi": "मुझे अपना शरीर पसंद है जब वह तुम्हारे शरीर के साथ है।\nमुझे पसंद है वो क्षितिज जो दूर तक फैला है,\nवो दूर की पहाड़ियाँ जो मेरा नाम पुकारती हैं,\nऔर वो रेलवे पटरी जो उनके बगल में दौड़ती है।"
+        },
+        {
+          "id": "c11-p3",
+          "type": "text",
+          "en": "The train goes by with a long whistle blow,\nAnd my heart follows where it goes;\nFor somewhere out there, beyond the bend,\nA new adventure waits, and nobody knows.",
+          "hi": "ट्रेन लंबी सीटी बजाती हुई गुज़रती है,\nऔर मेरा दिल वहाँ जाता है जहाँ वह जाती है;\nक्योंकि कहीं वहाँ बाहर, मोड़ के पार,\nएक नया रोमांच इंतज़ार कर रहा है, और कोई नहीं जानता।"
+        },
+        {
+          "id": "c11-p4",
+          "type": "text",
+          "en": "I want to see the world unfold,\nLike a map upon a table;\nI want to taste the wind and cold,\nAnd go as far as I am able.",
+          "hi": "मैं दुनिया को खुलते हुए देखना चाहता हूँ,\nजैसे मेज़ पर रखा कोई नक्शा;\nमैं हवा और ठंड का स्वाद चखना चाहता हूँ,\nऔर जितना दूर जा सकता हूँ, जाना चाहता हूँ।"
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "What does the word 'travel' mean to you? Where would you go if you could take any train in the world?",
+              "qHi": "'यात्रा' शब्द का आपके लिए क्या अर्थ है? अगर आप दुनिया की कोई भी ट्रेन ले सकते, तो कहाँ जाते?",
+              "aEn": "Travel means exploring new places, meeting different people, and learning about the world. If I could take any train, I would take the Trans-Siberian Railway from Moscow to Vladivostok — the longest railway journey in the world, passing through forests, mountains, and vast plains.",
+              "aHi": "यात्रा का मतलब है नई जगहों की खोज करना, अलग-अलग लोगों से मिलना, और दुनिया के बारे में सीखना। अगर मैं कोई भी ट्रेन ले सकता, तो मैं ट्रांस-साइबेरियन रेलवे लेता, मॉस्को से व्लादिवोस्तोक — दुनिया की सबसे लंबी रेल यात्रा, जो जंगलों, पहाड़ों और विशाल मैदानों से गुज़रती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What is the main desire expressed in the poem?",
+              "qHi": "कविता में व्यक्त मुख्य इच्छा क्या है?",
+              "aEn": "The main desire is the love of travel and adventure. The poet expresses an irresistible urge to board any train, no matter where it's going. She wants to explore the world, see distant horizons, and experience new adventures — this feeling is called 'wanderlust'.",
+              "aHi": "मुख्य इच्छा यात्रा और रोमांच का प्रेम है। कवि किसी भी ट्रेन में चढ़ने की अनियंत्रित इच्छा व्यक्त करती हैं, चाहे वह कहीं भी जा रही हो। वे दुनिया का पता लगाना, दूर के क्षितिज देखना, और नए रोमांच का अनुभव करना चाहती हैं — इस भावना को 'घुमक्कड़ी की इच्छा' (wanderlust) कहते हैं।"
+            },
+            {
+              "qEn": "What do the 'distant hills' and 'railroad track' symbolize?",
+              "qHi": "'दूर की पहाड़ियाँ' और 'रेलवे पटरी' किसका प्रतीक हैं?",
+              "aEn": "The 'distant hills' symbolize unexplored destinations and the call of the unknown. They represent dreams and aspirations that lie beyond our comfort zone. The 'railroad track' symbolizes the path to those dreams — the means by which we can reach new places and have new experiences.",
+              "aHi": "'दूर की पहाड़ियाँ' अनखोजी मंज़िलों और अज्ञात के आकर्षण का प्रतीक हैं। वे उन सपनों और आकांक्षाओं का प्रतिनिधित्व करती हैं जो हमारे आराम के दायरे से परे हैं। 'रेलवे पटरी' उन सपनों तक पहुँचने का रास्ता — वह साधन जिसके द्वारा हम नई जगहों पर पहुँच सकते हैं और नए अनुभव कर सकते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Do you agree that the joy of travel lies in the journey itself, not just the destination? Why?",
+              "qHi": "क्या आप सहमत हैं कि यात्रा का आनंद यात्रा में ही है, केवल गंतव्य में नहीं? क्यों?",
+              "aEn": "Yes, I agree. The poet captures this beautifully — she says she would take any train, no matter where it's going. The excitement of new sights from the window, the rhythm of the tracks, meeting fellow travelers, and the anticipation of what lies ahead — all these make the journey itself a treasure, not just arriving at a destination.",
+              "aHi": "हाँ, मैं सहमत हूँ। कवि इसे सुंदर ढंग से पकड़ती हैं — वे कहती हैं कि वे कोई भी ट्रेन ले लेंगी, चाहे वह कहीं भी जा रही हो। खिड़की से नए दृश्यों का उत्साह, पटरियों की लय, साथी यात्रियों से मिलना, और आगे क्या है इसकी प्रत्याशा — ये सब यात्रा को ही एक खज़ाना बनाते हैं, केवल गंतव्य पर पहुँचना नहीं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Identify the rhyming words and the rhythm pattern in the poem.",
+              "qHi": "कविता में तुकांत शब्दों और लय के पैटर्न की पहचान करो।",
+              "aEn": "Rhyming pairs: make – take, knowing – going, wide – beside, blow – goes (near rhyme), bend – (no pair), knows – goes. The poem follows a simple ABAB rhyme scheme which gives it a rhythmic, song-like quality that mirrors the rhythm of a train.",
+              "aHi": "तुकांत जोड़े: make – take, knowing – going, wide – beside, blow – goes (लगभग तुकांत), unfold – cold, table – able. कविता एक सरल ABAB तुकांत योजना का पालन करती है जो इसे एक लयबद्ध, गीत जैसी गुणवत्ता देती है जो ट्रेन की लय को दर्शाती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Recite the poem and discuss: What is your dream travel destination? Why do you want to go there?",
+              "qHi": "कविता पढ़ो और चर्चा करो: तुम्हारी सपनों की यात्रा मंज़िल कौन सी है? तुम वहाँ क्यों जाना चाहते हो?",
+              "aEn": "My dream travel destination is Ladakh. I want to go there to see the breathtaking mountains, crystal-clear lakes like Pangong Tso, and experience the unique Ladakhi culture. The journey itself through high mountain passes would be an unforgettable adventure.",
+              "aHi": "मेरी सपनों की यात्रा मंज़िल लद्दाख है। मैं वहाँ जाना चाहता हूँ ताकि लुभावने पहाड़ों, पैंगोंग त्सो जैसी स्फटिक-स्पष्ट झीलों को देख सकूँ, और अनूठी लद्दाखी संस्कृति का अनुभव कर सकूँ। ऊँचे पहाड़ी दर्रों से गुज़रती यात्रा अपने आप में एक अविस्मरणीय रोमांच होगी।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 12,
+      "titleEn": "Conquering the Summit",
+      "titleHi": "शिखर पर विजय",
+      "author": "Adapted",
+      "localDictionary": {
+        "summit": "शिखर / चोटी",
+        "amputee": "अंगविच्छेदित व्यक्ति",
+        "prosthetic": "कृत्रिम अंग",
+        "resilience": "लचीलापन / सहनशीलता",
+        "determination": "दृढ़ संकल्प",
+        "Everest": "एवरेस्ट",
+        "volleyball": "वॉलीबॉल",
+        "accident": "दुर्घटना",
+        "recovery": "स्वस्थ होना / ठीक होना",
+        "expedition": "अभियान",
+        "mountaineer": "पर्वतारोही",
+        "altitude": "ऊँचाई",
+        "oxygen": "ऑक्सीजन",
+        "frostbite": "शीतदंश / पाला लगना",
+        "base camp": "बेस कैंप / आधार शिविर",
+        "conquer": "जीतना / विजय प्राप्त करना",
+        "inspiring": "प्रेरणादायक",
+        "persevere": "दृढ़ रहना / लगे रहना",
+        "challenge": "चुनौती",
+        "triumph": "जीत / विजय"
+      },
+      "content": [
+        {
+          "id": "c12-p1",
+          "type": "text",
+          "en": "Arunima Sinha was a national-level volleyball player from Uttar Pradesh. She was young, strong, and full of dreams. But one tragic night in 2011, her life changed forever when she was pushed from a moving train by robbers. She fell on the railway tracks and an oncoming train crushed her left leg, which had to be amputated below the knee.",
+          "hi": "अरुणिमा सिन्हा उत्तर प्रदेश की एक राष्ट्रीय स्तर की वॉलीबॉल खिलाड़ी थीं। वे युवा, मजबूत और सपनों से भरपूर थीं। लेकिन 2011 की एक दुखद रात में, उनका जीवन हमेशा के लिए बदल गया जब लुटेरों ने उन्हें चलती ट्रेन से धक्का दे दिया। वे रेलवे पटरियों पर गिरीं और आने वाली ट्रेन ने उनका बायाँ पैर कुचल दिया, जिसे घुटने के नीचे से काटना पड़ा।"
+        },
+        {
+          "id": "c12-p2",
+          "type": "text",
+          "en": "Lying in the hospital bed, with one leg gone and the other badly injured, Arunima could have given up. Many would have. But something inside her refused to accept defeat. \"I will climb Mount Everest,\" she told herself. People thought she was dreaming. How could a person who had lost a leg climb the highest mountain in the world?",
+          "hi": "अस्पताल के बिस्तर पर लेटी, एक पैर गँवा चुकी और दूसरा बुरी तरह ज़ख्मी, अरुणिमा ने हार मान ली होती। कई लोगों ने मान ली होती। लेकिन उनके अंदर किसी चीज़ ने हार मानने से इनकार कर दिया। \"मैं माउंट एवरेस्ट पर चढ़ूँगी,\" उन्होंने खुद से कहा। लोगों ने सोचा कि वे सपना देख रही हैं। एक ऐसा व्यक्ति जिसने अपना पैर खो दिया हो, दुनिया के सबसे ऊँचे पहाड़ पर कैसे चढ़ सकता है?"
+        },
+        {
+          "id": "c12-p3",
+          "type": "text",
+          "en": "After getting a prosthetic leg, Arunima began her training. She trained at the Nehru Institute of Mountaineering in Uttarkashi. The training was brutal — long hours of climbing, carrying heavy loads, enduring freezing temperatures, and learning to use the prosthetic leg on icy slopes. Many times she fell. Many times she wanted to stop. But she kept going.",
+          "hi": "कृत्रिम पैर लगवाने के बाद, अरुणिमा ने अपना प्रशिक्षण शुरू किया। उन्होंने उत्तरकाशी में नेहरू पर्वतारोहण संस्थान में प्रशिक्षण लिया। प्रशिक्षण कठोर था — घंटों चढ़ाई, भारी बोझ उठाना, जमा देने वाले तापमान सहना, और बर्फ़ीली ढलानों पर कृत्रिम पैर का उपयोग करना सीखना। कई बार वे गिरीं। कई बार वे रुकना चाहती थीं। लेकिन वे आगे बढ़ती रहीं।"
+        },
+        {
+          "id": "c12-p4",
+          "type": "text",
+          "en": "On 21 May 2013, Arunima Sinha stood on the summit of Mount Everest — the first female amputee to do so. With tears streaming down her face and the Indian flag fluttering in the fierce wind, she proved that no obstacle is too great when the human spirit is determined.",
+          "hi": "21 मई 2013 को, अरुणिमा सिन्हा माउंट एवरेस्ट के शिखर पर खड़ी थीं — ऐसा करने वाली पहली महिला अंगविच्छेदित व्यक्ति। चेहरे पर आँसू बहते हुए और तेज़ हवा में भारतीय ध्वज लहराते हुए, उन्होंने साबित कर दिया कि जब मानव आत्मा दृढ़ हो तो कोई बाधा बहुत बड़ी नहीं है।"
+        },
+        {
+          "id": "c12-p5",
+          "type": "text",
+          "en": "\"People told me I could not do it,\" Arunima said later. \"They said a person with one leg cannot climb Everest. But I had decided that I would not let my disability define me. I wanted to show the world that our limits are only in our minds. If you truly want something, and you are willing to work hard for it, nothing can stop you.\"",
+          "hi": "\"लोगों ने मुझसे कहा कि मैं यह नहीं कर सकती,\" अरुणिमा ने बाद में कहा। \"उन्होंने कहा कि एक पैर वाला व्यक्ति एवरेस्ट पर नहीं चढ़ सकता। लेकिन मैंने तय कर लिया था कि मैं अपनी विकलांगता को अपनी पहचान नहीं बनने दूँगी। मैं दुनिया को दिखाना चाहती थी कि हमारी सीमाएँ केवल हमारे दिमाग में हैं। अगर आप सच में कुछ चाहते हैं, और उसके लिए कड़ी मेहनत करने को तैयार हैं, तो कुछ भी आपको रोक नहीं सकता।\""
+        }
+      ],
+      "qaSections": [
+        {
+          "sectionTitleEn": "Let Us Do (Before You Read)",
+          "sectionTitleHi": "आओ करें (पढ़ने से पहले)",
+          "sectionIcon": "🎯",
+          "items": [
+            {
+              "qEn": "What is the most difficult thing you have ever done? How did you feel when you accomplished it?",
+              "qHi": "आपने अब तक सबसे कठिन काम क्या किया है? जब आपने इसे पूरा किया तो आपको कैसा लगा?",
+              "aEn": "The most difficult thing I did was preparing for a drawing competition where I had to practice every day for a month. I felt nervous and frustrated at times, but when I won second prize, I felt incredibly proud and happy. It taught me that hard work always pays off.",
+              "aHi": "सबसे कठिन काम जो मैंने किया वह एक चित्रकला प्रतियोगिता की तैयारी थी जहाँ मुझे एक महीने तक हर दिन अभ्यास करना पड़ा। कई बार मैं घबराया और निराश हुआ, लेकिन जब मैंने दूसरा पुरस्कार जीता, तो मुझे अविश्वसनीय रूप से गर्व और खुशी हुई। इसने मुझे सिखाया कि कड़ी मेहनत हमेशा रंग लाती है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Check Your Understanding",
+          "sectionTitleHi": "अपनी समझ जाँचो",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What happened to Arunima Sinha in 2011?",
+              "qHi": "2011 में अरुणिमा सिन्हा के साथ क्या हुआ?",
+              "aEn": "In 2011, Arunima Sinha was pushed from a moving train by robbers. She fell on the railway tracks and an oncoming train crushed her left leg, which had to be amputated below the knee. Her other leg was also badly injured.",
+              "aHi": "2011 में, अरुणिमा सिन्हा को लुटेरों ने चलती ट्रेन से धक्का दे दिया। वे रेलवे पटरियों पर गिरीं और आने वाली ट्रेन ने उनका बायाँ पैर कुचल दिया, जिसे घुटने के नीचे से काटना पड़ा। उनका दूसरा पैर भी बुरी तरह ज़ख्मी हो गया।"
+            },
+            {
+              "qEn": "What was Arunima's goal after the accident? Did she achieve it?",
+              "qHi": "दुर्घटना के बाद अरुणिमा का लक्ष्य क्या था? क्या उन्होंने इसे हासिल किया?",
+              "aEn": "Arunima's goal was to climb Mount Everest. Yes, she achieved it on 21 May 2013, becoming the first female amputee to summit Mount Everest. She trained at the Nehru Institute of Mountaineering and endured months of brutal preparation to fulfill her dream.",
+              "aHi": "अरुणिमा का लक्ष्य माउंट एवरेस्ट पर चढ़ना था। हाँ, उन्होंने इसे 21 मई 2013 को हासिल किया, माउंट एवरेस्ट के शिखर पर पहुँचने वाली पहली महिला अंगविच्छेदित व्यक्ति बनीं। उन्होंने नेहरू पर्वतारोहण संस्थान में प्रशिक्षण लिया और अपने सपने को पूरा करने के लिए महीनों कठोर तैयारी सही।"
+            },
+            {
+              "qEn": "What challenges did Arunima face during her training?",
+              "qHi": "अरुणिमा को प्रशिक्षण के दौरान किन चुनौतियों का सामना करना पड़ा?",
+              "aEn": "Arunima faced many challenges: long hours of climbing, carrying heavy loads, enduring freezing temperatures, learning to use a prosthetic leg on icy slopes, falling many times, and dealing with moments when she wanted to give up. But her determination kept her going.",
+              "aHi": "अरुणिमा को कई चुनौतियों का सामना करना पड़ा: घंटों चढ़ाई, भारी बोझ उठाना, जमा देने वाले तापमान सहना, बर्फ़ीली ढलानों पर कृत्रिम पैर का उपयोग सीखना, कई बार गिरना, और उन पलों से जूझना जब वे छोड़ना चाहती थीं। लेकिन उनके दृढ़ संकल्प ने उन्हें आगे बढ़ाए रखा।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "What does Arunima's story teach us about overcoming obstacles?",
+              "qHi": "अरुणिमा की कहानी हमें बाधाओं को पार करने के बारे में क्या सिखाती है?",
+              "aEn": "Arunima's story teaches us that our limitations are only in our minds. She lost a leg but gained an indomitable spirit. Her story proves that with determination, hard work, and self-belief, any obstacle — physical or mental — can be overcome. She turned her greatest tragedy into her greatest triumph.",
+              "aHi": "अरुणिमा की कहानी हमें सिखाती है कि हमारी सीमाएँ केवल हमारे दिमाग में हैं। उन्होंने एक पैर खोया लेकिन अदम्य भावना प्राप्त की। उनकी कहानी साबित करती है कि दृढ़ संकल्प, कड़ी मेहनत और आत्मविश्वास से कोई भी बाधा — शारीरिक या मानसिक — पार की जा सकती है। उन्होंने अपनी सबसे बड़ी त्रासदी को अपनी सबसे बड़ी विजय में बदल दिया।"
+            },
+            {
+              "qEn": "Arunima says, 'Our limits are only in our minds.' Do you agree? Give examples.",
+              "qHi": "अरुणिमा कहती हैं, 'हमारी सीमाएँ केवल हमारे दिमाग में हैं।' क्या आप सहमत हैं? उदाहरण दो।",
+              "aEn": "Yes, I strongly agree. Examples: Helen Keller, who was blind and deaf, became a famous author and activist. Stephen Hawking, despite being paralyzed, became one of the greatest physicists. Nick Vujicic, born without limbs, became a motivational speaker. All these people proved that mental strength is more powerful than physical ability.",
+              "aHi": "हाँ, मैं पूरी तरह सहमत हूँ। उदाहरण: हेलेन केलर, जो अंधी और बहरी थीं, एक प्रसिद्ध लेखिका और कार्यकर्ता बनीं। स्टीफन हॉकिंग, लकवाग्रस्त होने के बावजूद, सबसे महान भौतिकविदों में से एक बने। निक वुजिसिक, बिना अंगों के जन्मे, एक प्रेरक वक्ता बने। इन सभी लोगों ने साबित किया कि मानसिक शक्ति शारीरिक क्षमता से अधिक शक्तिशाली है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary",
+          "sectionTitleHi": "शब्दावली",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "What do these words mean: amputee, prosthetic, resilience, summit, expedition?",
+              "qHi": "इन शब्दों का क्या अर्थ है: amputee (अंगविच्छेदित), prosthetic (कृत्रिम अंग), resilience (लचीलापन), summit (शिखर), expedition (अभियान)?",
+              "aEn": "Amputee — a person who has had a limb removed. Prosthetic — an artificial body part. Resilience — the ability to recover from difficulties. Summit — the highest point of a mountain. Expedition — an organized journey for a particular purpose, especially exploration.",
+              "aHi": "Amputee (अंगविच्छेदित) — जिस व्यक्ति का अंग काट दिया गया हो। Prosthetic (कृत्रिम अंग) — शरीर का कृत्रिम हिस्सा। Resilience (लचीलापन) — कठिनाइयों से उबरने की क्षमता। Summit (शिखर) — पहाड़ का सबसे ऊँचा बिंदु। Expedition (अभियान) — किसी विशेष उद्देश्य के लिए संगठित यात्रा, विशेषकर खोज।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "Prepare a short speech about someone who inspires you. What obstacles did they overcome?",
+              "qHi": "किसी ऐसे व्यक्ति के बारे में एक छोटा भाषण तैयार करो जो आपको प्रेरित करता है। उन्होंने कौन सी बाधाएँ पार कीं?",
+              "aEn": "APJ Abdul Kalam inspires me the most. He was born in a poor family in Rameswaram. He sold newspapers as a child to support his education. Despite financial difficulties, he studied hard, became a scientist, led India's missile program, and eventually became the President of India. His journey from poverty to the highest office is truly inspiring.",
+              "aHi": "एपीजे अब्दुल कलाम मुझे सबसे ज़्यादा प्रेरित करते हैं। वे रामेश्वरम में एक गरीब परिवार में पैदा हुए। बचपन में उन्होंने अपनी पढ़ाई के लिए अखबार बेचे। आर्थिक कठिनाइयों के बावजूद, उन्होंने कड़ी मेहनत से पढ़ाई की, वैज्ञानिक बने, भारत के मिसाइल कार्यक्रम का नेतृत्व किया, और अंततः भारत के राष्ट्रपति बने। गरीबी से सर्वोच्च पद तक उनकी यात्रा सच में प्रेरणादायक है।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

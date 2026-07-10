@@ -1,4 +1,10 @@
-import unitData from "@/data/unit1.json";
+import unit1Data from "@/data/unit1.json";
+import unit2Data from "@/data/unit2.json";
+import unit3Data from "@/data/unit3.json";
+import unit4Data from "@/data/unit4.json";
+import unit5Data from "@/data/unit5.json";
+
+const allUnits = [unit1Data, unit2Data, unit3Data, unit4Data, unit5Data];
 
 export interface DictionaryResult {
   word: string;
@@ -46,7 +52,12 @@ export function lookupLocal(
   const cleaned = cleanWord(word);
   if (!cleaned) return null;
 
-  const chapter = unitData.chapters.find((c) => c.chapterId === chapterId);
+  // Search across all units for the chapter
+  let chapter = null;
+  for (const unit of allUnits) {
+    chapter = unit.chapters.find((c) => c.chapterId === chapterId);
+    if (chapter) break;
+  }
   if (!chapter) return null;
 
   const dict = chapter.localDictionary as Record<string, string>;
