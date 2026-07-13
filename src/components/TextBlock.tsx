@@ -8,6 +8,7 @@ interface TextBlockProps {
   id: string;
   en: string;
   hi: string;
+  pronunciation?: string;
   paragraphNumber: number;
   onWordTap: (word: string) => void;
 }
@@ -16,11 +17,13 @@ export default function TextBlock({
   id,
   en,
   hi,
+  pronunciation,
   paragraphNumber,
   onWordTap,
 }: TextBlockProps) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [showPronunciation, setShowPronunciation] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   // Clean up audio when component unmounts
@@ -78,7 +81,7 @@ export default function TextBlock({
       id={id}
       className="group rounded-2xl bg-white dark:bg-slate-800/80 shadow-sm hover:shadow-md border border-amber-100/60 dark:border-slate-700/50 transition-shadow duration-300 overflow-hidden"
     >
-      {/* Paragraph number pill & Play button */}
+      {/* Paragraph number pill, Play button & Pronunciation toggle */}
       <div className="px-5 pt-4 pb-1 flex items-center gap-3">
         <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-br from-blue-500 to-blue-600 text-[10px] font-bold text-white shadow-sm flex-shrink-0">
           {paragraphNumber}
@@ -93,7 +96,7 @@ export default function TextBlock({
               ? "bg-red-100 text-red-600 hover:bg-red-200 dark:bg-red-900/30 dark:text-red-400"
               : "bg-blue-50 text-blue-600 hover:bg-blue-100 dark:bg-blue-900/30 dark:text-blue-400"
           }`}
-          title={isLoading ? "Loading voice..." : isPlaying ? "Stop reading" : "Read paragraph"}
+          title={isLoading ? "Loading voice..." : isPlaying ? "Stop reading" : "🔊 Listen to pronunciation"}
         >
           {isLoading ? (
             <svg
@@ -134,6 +137,20 @@ export default function TextBlock({
             </svg>
           )}
         </button>
+        {pronunciation && (
+          <button
+            onClick={() => setShowPronunciation(!showPronunciation)}
+            className={`flex items-center gap-1 px-2.5 py-1 rounded-full text-[10px] font-semibold transition-all flex-shrink-0 ${
+              showPronunciation
+                ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400 ring-1 ring-emerald-300 dark:ring-emerald-700"
+                : "bg-emerald-50 text-emerald-600 hover:bg-emerald-100 dark:bg-emerald-900/20 dark:text-emerald-400"
+            }`}
+            title="Show pronunciation in Hindi script (उच्चारण देखें)"
+          >
+            <span>🗣️</span>
+            <span>उच्चारण</span>
+          </button>
+        )}
         <div className="h-px flex-1 bg-gradient-to-r from-blue-200 to-transparent dark:from-blue-800" />
       </div>
 
@@ -158,6 +175,20 @@ export default function TextBlock({
           })}
         </p>
       </div>
+
+      {/* Pronunciation guide (Devanagari transliteration) — toggled */}
+      {pronunciation && showPronunciation && (
+        <div className="mx-4 mb-2 rounded-xl bg-emerald-50/80 dark:bg-emerald-900/15 border border-emerald-200/60 dark:border-emerald-800/20 px-4 py-3 animate-in slide-in-from-top-2 duration-200">
+          <div className="flex items-center gap-2 mb-1.5">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">
+              🔤 How to read (कैसे पढ़ें)
+            </span>
+          </div>
+          <p className="text-[14px] leading-8 text-emerald-800 dark:text-emerald-300 font-medium whitespace-pre-line">
+            {pronunciation}
+          </p>
+        </div>
+      )}
 
       {/* Hindi translation */}
       <div className="mx-4 mb-4 rounded-xl bg-violet-50/80 dark:bg-violet-900/15 border border-violet-100/80 dark:border-violet-800/20 px-4 py-3">

@@ -11,6 +11,7 @@ interface ContentItem {
   type: string;
   en?: string;
   hi?: string;
+  pronunciation?: string;
   alt?: string;
   src?: string;
 }
@@ -125,6 +126,7 @@ export default function ChapterReader({ chapter }: ChapterReaderProps) {
                   id={item.id}
                   en={item.en}
                   hi={item.hi}
+                  pronunciation={item.pronunciation}
                   paragraphNumber={paragraphCounter}
                   onWordTap={(word) => setSelectedWord(word)}
                 />
