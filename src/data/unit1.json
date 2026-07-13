@@ -55,6 +55,26 @@
       },
       "content": [
         {
+          "id": "ch1-byr",
+          "type": "before_you_read",
+          "titleEn": "Before You Read",
+          "titleHi": "पढ़ने से पहले",
+          "items": [
+            {
+              "en": "Have you ever sat by a river or a stream? What sounds did you hear? Did the water seem to say something to you?",
+              "hi": "क्या तुम कभी किसी नदी या नाले के किनारे बैठे हो? तुमने कौन सी आवाज़ें सुनीं? क्या पानी तुमसे कुछ कहता हुआ लगा?"
+            },
+            {
+              "en": "Do you think nature — trees, rivers, animals — can be our friends and guide us? Share your thoughts.",
+              "hi": "क्या तुम्हें लगता है कि प्रकृति — पेड़, नदियाँ, जानवर — हमारी दोस्त बन सकती है और हमारा मार्गदर्शन कर सकती है? अपने विचार साझा करो।"
+            },
+            {
+              "en": "This story is about a girl named Jahnavi who has a dream. As you read, think about: What is her dream? Who helps her? What challenges does she face?",
+              "hi": "यह कहानी जाह्नवी नाम की एक लड़की के बारे में है जिसका एक सपना है। जैसे-जैसे पढ़ो, सोचो: उसका सपना क्या है? उसकी मदद कौन करता है? उसे किन चुनौतियों का सामना करना पड़ता है?"
+            }
+          ]
+        },
+        {
           "id": "p1",
           "type": "text",
           "en": "Jahnavi was a bright young girl who lived with her parents and three brothers in a coastal village in India. Her parents worked on the farm. She had a dream.",
@@ -411,6 +431,26 @@
       "author": "Eliza Cook",
       "content": [
         {
+          "id": "ch2-byr",
+          "type": "before_you_read",
+          "titleEn": "Before You Read",
+          "titleHi": "पढ़ने से पहले",
+          "items": [
+            {
+              "en": "Have you ever failed at something and wanted to give up? What happened next — did you try again or walk away?",
+              "hi": "क्या तुम कभी किसी चीज़ में असफल हुए और हार मानना चाहा? फिर क्या हुआ — क्या तुमने फिर से कोशिश की या छोड़ दिया?"
+            },
+            {
+              "en": "Do you know the story of King Robert Bruce of Scotland? He is famous for learning a lesson from a tiny spider. Let's find out what he learned!",
+              "hi": "क्या तुम स्कॉटलैंड के राजा रॉबर्ट ब्रूस की कहानी जानते हो? वे एक छोटी सी मकड़ी से सबक सीखने के लिए प्रसिद्ध हैं। चलो पता लगाते हैं कि उन्होंने क्या सीखा!"
+            },
+            {
+              "en": "As you read this poem, notice how the spider never gives up. Think about what message the poet wants to share with you.",
+              "hi": "जैसे-जैसे तुम यह कविता पढ़ो, ध्यान दो कि मकड़ी कैसे कभी हार नहीं मानती। सोचो कि कवि तुम्हारे साथ क्या संदेश साझा करना चाहता है।"
+            }
+          ]
+        },
+        {
           "id": "c2-img1",
           "type": "image",
           "src": "/images/ch2_king_bruce_spider.png",
@@ -570,6 +610,26 @@
       "titleHi": "देखने के लिए तीन दिन",
       "author": "Helen Keller",
       "content": [
+        {
+          "id": "ch3-byr",
+          "type": "before_you_read",
+          "titleEn": "Before You Read",
+          "titleHi": "पढ़ने से पहले",
+          "items": [
+            {
+              "en": "Close your eyes for one minute. Now open them. What is the first thing you notice? Do you usually pay attention to what you see every day?",
+              "hi": "एक मिनट के लिए अपनी आँखें बंद करो। अब खोलो। सबसे पहली चीज़ क्या दिखी? क्या तुम रोज़ जो देखते हो उस पर ध्यान देते हो?"
+            },
+            {
+              "en": "Imagine you could not see anything at all. How would your life be different? What would you miss the most?",
+              "hi": "कल्पना करो कि तुम कुछ भी नहीं देख सकते। तुम्हारा जीवन कैसे अलग होगा? तुम्हें किस चीज़ की सबसे ज़्यादा कमी खलेगी?"
+            },
+            {
+              "en": "This essay is written by Helen Keller, who was both blind and deaf. She imagines what she would do if she could see for just three days. Let's discover what she values most.",
+              "hi": "यह निबंध हेलेन केलर ने लिखा है, जो अंधी और बहरी दोनों थीं। वह कल्पना करती हैं कि अगर उन्हें सिर्फ तीन दिन देखने को मिलें तो वह क्या करेंगी। चलो जानते हैं कि उनके लिए सबसे ज़्यादा क़ीमती क्या है।"
+            }
+          ]
+        },
         {
           "id": "c3-img1",
           "type": "image",

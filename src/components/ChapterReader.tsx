@@ -3,6 +3,7 @@
 import { useState } from "react";
 import TextBlock from "./TextBlock";
 import ImageBlock from "./ImageBlock";
+import BeforeYouRead from "./BeforeYouRead";
 import DictionarySheet from "./DictionarySheet";
 import QASection from "./QASection";
 
@@ -14,6 +15,9 @@ interface ContentItem {
   pronunciation?: string;
   alt?: string;
   src?: string;
+  titleEn?: string;
+  titleHi?: string;
+  items?: { en: string; hi: string }[];
 }
 
 interface QA {
@@ -140,6 +144,18 @@ export default function ChapterReader({ chapter }: ChapterReaderProps) {
                   id={item.id}
                   src={item.src}
                   alt={item.alt}
+                />
+              );
+            }
+
+            if (item.type === "before_you_read" && item.titleEn && item.items) {
+              return (
+                <BeforeYouRead
+                  key={item.id}
+                  id={item.id}
+                  titleEn={item.titleEn}
+                  titleHi={item.titleHi || ""}
+                  items={item.items}
                 />
               );
             }
