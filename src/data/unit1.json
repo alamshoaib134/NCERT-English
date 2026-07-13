@@ -796,6 +796,170 @@
           ]
         }
       ]
+    },
+    {
+      "chapterId": 4,
+      "titleEn": "Paper Boats",
+      "titleHi": "कागज़ की नावें",
+      "author": "Rabindranath Tagore",
+      "content": [
+        {
+          "id": "ch4-byr",
+          "type": "before_you_read",
+          "titleEn": "Before You Read",
+          "titleHi": "पढ़ने से पहले",
+          "items": [
+            {
+              "en": "Have you ever made a paper boat and floated it in water? Where did you imagine it would go?",
+              "hi": "क्या तुमने कभी कागज़ की नाव बनाकर पानी में बहाई है? तुमने कल्पना की कि वह कहाँ जाएगी?"
+            },
+            {
+              "en": "If you could send a message to someone far away using a paper boat, what would you write?",
+              "hi": "अगर तुम कागज़ की नाव से किसी दूर रहने वाले को संदेश भेज सकते, तो क्या लिखते?"
+            },
+            {
+              "en": "This poem is by Rabindranath Tagore, one of India's greatest poets. As you read, notice how he uses simple things like paper boats to express big dreams and imagination.",
+              "hi": "यह कविता रबीन्द्रनाथ टैगोर की है, जो भारत के सबसे महान कवियों में से एक हैं। जैसे-जैसे पढ़ो, ध्यान दो कि वे कागज़ की नावों जैसी साधारण चीज़ों से बड़े सपने और कल्पना कैसे व्यक्त करते हैं।"
+            }
+          ]
+        },
+        {
+          "id": "c4-img1",
+          "type": "image",
+          "src": "/images/ch4_paper_boats.png",
+          "alt": "A child floating paper boats in a gentle stream surrounded by shiuli flowers"
+        },
+        {
+          "id": "c4-p1",
+          "type": "text",
+          "en": "Day by day I float my paper boats one by one down the running stream. In big black letters I write my name on them and the name of the village where I live. I hope that someone in some strange land will find them and know who I am.",
+          "hi": "दिन-ब-दिन मैं अपनी कागज़ की नावें एक-एक करके बहती धारा में बहाता हूँ। मैं उन पर बड़े काले अक्षरों में अपना नाम और अपने गाँव का नाम लिखता हूँ। मुझे उम्मीद है कि किसी अनजान देश में कोई उन्हें पाएगा और जानेगा कि मैं कौन हूँ।",
+          "pronunciation": "डे बाय डे आई फ़्लोट माई पेपर बोट्स वन बाय वन डाउन द रनिंग स्ट्रीम। इन बिग ब्लैक लेटर्स आई राइट माई नेम ऑन देम एंड द नेम ऑफ़ द विलेज वेयर आई लिव। आई होप दैट सम-वन इन सम स्ट्रेंज लैंड विल फ़ाइंड देम एंड नो हू आई ऐम।"
+        },
+        {
+          "id": "c4-p2",
+          "type": "text",
+          "en": "I load my little boats with shiuli flowers from our garden, and hope that these blooms of the dawn will be carried safely to land in the night.",
+          "hi": "मैं अपनी छोटी नावों पर अपने बगीचे के शिउली के फूल लादता हूँ, और उम्मीद करता हूँ कि भोर के ये फूल रात में सुरक्षित रूप से किनारे तक पहुँच जाएँगे।",
+          "pronunciation": "आई लोड माई लिटल बोट्स विद शिउली फ़्लावर्स फ़्रॉम आवर गार्डन, एंड होप दैट दीज़ ब्लूम्स ऑफ़ द डॉन विल बी कैरीड सेफ़्ली टू लैंड इन द नाइट।"
+        },
+        {
+          "id": "c4-p3",
+          "type": "text",
+          "en": "I launch my paper boats and look up into the sky and see the little clouds setting the white bulging sails. I know not what playmate of mine in the sky sends them down the air to race with my boats!",
+          "hi": "मैं अपनी कागज़ की नावें पानी में छोड़ता हूँ और आसमान की ओर देखता हूँ और छोटे-छोटे बादलों को सफ़ेद फूले हुए पाल लगाते देखता हूँ। मुझे नहीं पता कि आसमान में मेरा कौन सा साथी उन्हें हवा में नीचे भेजता है मेरी नावों से दौड़ लगाने के लिए!",
+          "pronunciation": "आई लॉन्च माई पेपर बोट्स एंड लुक अप इन-टू द स्काई एंड सी द लिटल क्लाउड्स सेटिंग द वाइट बल्जिंग सेल्स। आई नो नॉट वॉट प्ले-मेट ऑफ़ माइन इन द स्काई सेंड्स देम डाउन द एयर टू रेस विद माई बोट्स!"
+        },
+        {
+          "id": "c4-p4",
+          "type": "text",
+          "en": "When night comes I bury my face in my arms and dream that my paper boats float on and on under the midnight stars. The fairies of sleep are sailing in them, and the lading is their baskets full of dreams.",
+          "hi": "जब रात आती है तो मैं अपना चेहरा अपनी बाँहों में छिपा लेता हूँ और सपना देखता हूँ कि मेरी कागज़ की नावें आधी रात के तारों के नीचे बहती चली जाती हैं। नींद की परियाँ उनमें सवार हैं, और उनका माल सपनों से भरी उनकी टोकरियाँ हैं।",
+          "pronunciation": "वेन नाइट कम्स आई बरी माई फ़ेस इन माई आर्म्स एंड ड्रीम दैट माई पेपर बोट्स फ़्लोट ऑन एंड ऑन अंडर द मिड-नाइट स्टार्स। द फ़ेयरीज़ ऑफ़ स्लीप आर सेलिंग इन देम, एंड द लेडिंग इज़ देयर बास्केट्स फ़ुल ऑफ़ ड्रीम्स।"
+        }
+      ],
+      "localDictionary": {
+        "float": "बहाना / तैरना",
+        "stream": "धारा / नदी",
+        "strange": "अजनबी / अनजान",
+        "load": "लादना / भरना",
+        "shiuli": "शिउली (एक सफ़ेद फूल जो भोर में खिलता है)",
+        "blooms": "फूल / खिले हुए फूल",
+        "dawn": "भोर / सुबह का उजाला",
+        "launch": "छोड़ना / शुरू करना",
+        "bulging": "फूले हुए / उभरे हुए",
+        "sails": "पाल (नाव के)",
+        "playmate": "खेल का साथी",
+        "bury": "छिपाना / दबाना",
+        "midnight": "आधी रात",
+        "fairies": "परियाँ",
+        "lading": "माल / सामान",
+        "baskets": "टोकरियाँ"
+      },
+      "qaSections": [
+        {
+          "sectionTitleEn": "Understanding the Poem",
+          "sectionTitleHi": "कविता को समझना",
+          "sectionIcon": "✅",
+          "items": [
+            {
+              "qEn": "What does the child write on the paper boats?",
+              "qHi": "बच्चा कागज़ की नावों पर क्या लिखता है?",
+              "aEn": "The child writes their name in big black letters and the name of the village where they live, hoping that someone in a strange land will find the boats and know who they are.",
+              "aHi": "बच्चा बड़े काले अक्षरों में अपना नाम और अपने गाँव का नाम लिखता है, इस उम्मीद में कि किसी अनजान देश में कोई उन नावों को पाएगा और जानेगा कि वह कौन है।"
+            },
+            {
+              "qEn": "What does the child load the paper boats with?",
+              "qHi": "बच्चा कागज़ की नावों पर क्या लादता है?",
+              "aEn": "The child loads the paper boats with shiuli flowers from their garden, hoping that these blooms of the dawn will be carried safely to land in the night.",
+              "aHi": "बच्चा अपने बगीचे के शिउली के फूल नावों पर लादता है, इस उम्मीद में कि भोर के ये फूल रात में सुरक्षित रूप से किनारे तक पहुँच जाएँगे।"
+            },
+            {
+              "qEn": "What does the child see when they look up at the sky?",
+              "qHi": "जब बच्चा आसमान की ओर देखता है तो उसे क्या दिखता है?",
+              "aEn": "The child sees little clouds that look like they are setting white bulging sails, as if racing with the paper boats. The child imagines a playmate in the sky sending the clouds down.",
+              "aHi": "बच्चे को छोटे-छोटे बादल दिखते हैं जो ऐसे लगते हैं जैसे सफ़ेद फूले हुए पाल लगा रहे हों, मानो कागज़ की नावों से दौड़ लगा रहे हों। बच्चा कल्पना करता है कि आसमान में कोई साथी बादलों को नीचे भेज रहा है।"
+            },
+            {
+              "qEn": "What does the child dream about at night?",
+              "qHi": "बच्चा रात में क्या सपना देखता है?",
+              "aEn": "At night, the child dreams that their paper boats float on and on under the midnight stars. The fairies of sleep are sailing in them, carrying baskets full of dreams.",
+              "aHi": "रात में, बच्चा सपना देखता है कि उसकी कागज़ की नावें आधी रात के तारों के नीचे बहती चली जाती हैं। नींद की परियाँ उनमें सवार हैं और सपनों से भरी टोकरियाँ लेकर चल रही हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Let Us Think and Reflect",
+          "sectionTitleHi": "आओ सोचें और विचार करें",
+          "sectionIcon": "💭",
+          "items": [
+            {
+              "qEn": "Why do you think the child hopes someone in a 'strange land' will find the boats?",
+              "qHi": "तुम्हें क्यों लगता है कि बच्चा उम्मीद करता है कि किसी 'अनजान देश' में कोई नावें ढूँढ लेगा?",
+              "aEn": "The child has a deep desire to connect with the wider world beyond their village. The paper boats represent the child's wish to be known, to reach out, and to share their identity with someone far away. It reflects the universal childhood longing for adventure and friendship.",
+              "aHi": "बच्चे के मन में अपने गाँव से परे बड़ी दुनिया से जुड़ने की गहरी इच्छा है। कागज़ की नावें बच्चे की पहचान बनाने, दूसरों तक पहुँचने और दूर किसी के साथ अपनी पहचान साझा करने की इच्छा को दर्शाती हैं। यह साहसिक यात्रा और दोस्ती की बचपन की सार्वभौमिक लालसा को दर्शाता है।"
+            },
+            {
+              "qEn": "What do the 'fairies of sleep' and 'baskets full of dreams' represent?",
+              "qHi": "'नींद की परियाँ' और 'सपनों से भरी टोकरियाँ' क्या दर्शाती हैं?",
+              "aEn": "The 'fairies of sleep' and 'baskets full of dreams' represent the magical world of a child's imagination. At night, the real world blends with fantasy — the paper boats become magical vessels carrying dreams. It shows how children see wonder and magic in the simplest things.",
+              "aHi": "'नींद की परियाँ' और 'सपनों से भरी टोकरियाँ' एक बच्चे की कल्पना की जादुई दुनिया को दर्शाती हैं। रात में, वास्तविक दुनिया कल्पना के साथ मिल जाती है — कागज़ की नावें सपने ले जाने वाली जादुई नावें बन जाती हैं। यह दिखाता है कि बच्चे सबसे साधारण चीज़ों में कैसे आश्चर्य और जादू देखते हैं।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Vocabulary & Poetic Devices",
+          "sectionTitleHi": "शब्दावली और काव्य उपकरण",
+          "sectionIcon": "📝",
+          "items": [
+            {
+              "qEn": "Match the words with their meanings: (i) float (ii) lading (iii) blooms (iv) bulging",
+              "qHi": "शब्दों का उनके अर्थ से मिलान करो: (i) float (ii) lading (iii) blooms (iv) bulging",
+              "aEn": "(i) float — to move gently on water (पानी पर तैरना) (ii) lading — cargo or goods loaded (लदा हुआ सामान) (iii) blooms — flowers (फूल) (iv) bulging — swelling outward (फूला हुआ / उभरा हुआ)",
+              "aHi": "(i) float — पानी पर तैरना (ii) lading — लदा हुआ सामान / माल (iii) blooms — फूल (iv) bulging — फूला हुआ / उभरा हुआ"
+            },
+            {
+              "qEn": "The poet compares clouds to 'white bulging sails'. What kind of poetic device is this? Can you find another comparison in the poem?",
+              "qHi": "कवि बादलों की तुलना 'सफ़ेद फूले हुए पालों' से करता है। यह किस प्रकार का काव्य उपकरण है? क्या तुम कविता में एक और तुलना ढूँढ सकते हो?",
+              "aEn": "This is a metaphor — the poet directly calls the clouds 'sails' without using 'like' or 'as'. Another comparison is 'fairies of sleep' — here sleep is personified as fairies sailing in the boats, which is also personification.",
+              "aHi": "यह एक रूपक (metaphor) है — कवि बादलों को सीधे 'पाल' कहता है बिना 'जैसे' या 'की तरह' का उपयोग किए। एक और तुलना है 'नींद की परियाँ' — यहाँ नींद को परियों के रूप में व्यक्त किया गया है जो नावों में सवार हैं, यह मानवीकरण (personification) भी है।"
+            }
+          ]
+        },
+        {
+          "sectionTitleEn": "Speaking Activity",
+          "sectionTitleHi": "बोलने की गतिविधि",
+          "sectionIcon": "🗣️",
+          "items": [
+            {
+              "qEn": "If you could float a paper boat with a message to anyone in the world, who would you send it to and what would the message say?",
+              "qHi": "अगर तुम दुनिया में किसी को भी संदेश लिखकर कागज़ की नाव में भेज सकते, तो किसे भेजते और संदेश में क्या लिखते?",
+              "aEn": "I would send my paper boat to children in another country. My message would say: 'Hello, my name is [name], I live in India. I like playing cricket and reading stories. Do you want to be my friend?' This way, the paper boat becomes a bridge of friendship across the world.",
+              "aHi": "मैं अपनी कागज़ की नाव दूसरे देश के बच्चों को भेजूँगा। मेरा संदेश होगा: 'नमस्ते, मेरा नाम [नाम] है, मैं भारत में रहता हूँ। मुझे क्रिकेट खेलना और कहानियाँ पढ़ना पसंद है। क्या तुम मेरे दोस्त बनोगे?' इस तरह, कागज़ की नाव पूरी दुनिया में दोस्ती का पुल बन जाएगी।"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

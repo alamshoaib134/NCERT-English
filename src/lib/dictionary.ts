@@ -60,7 +60,7 @@ export function lookupLocal(
   }
   if (!chapter) return null;
 
-  const dict = chapter.localDictionary as Record<string, string>;
+  const dict = (chapter.localDictionary || {}) as unknown as Record<string, string>;
 
   // Direct match
   if (dict[cleaned]) {
